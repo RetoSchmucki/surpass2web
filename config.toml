@@ -41,7 +41,8 @@ canonifyURLs = true
     description = "Airspace Hugo theme"
     author = "Reto Schmucki"
     # Google Analitycs
-    googleAnalitycsID = "Your ID"
+    googleAnalitycsID = "UA-154857767-3"
+
 
     # Banner Section
     [params.banner]
