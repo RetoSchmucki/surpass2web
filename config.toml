@@ -58,7 +58,7 @@ canonifyURLs = true
         [[params.banner.flipText]]
             title   = "POLLINATION"
         [[params.banner.flipText]]
-            title   = "AGRICUTLTURE"
+            title   = "AGRICULTURE"
 
     # Homepage About Section
     [params.about]

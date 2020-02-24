@@ -5,7 +5,7 @@ members  :
   - name  : France Gerard
     image : images/team/photoFrance.png
     designation : Earth Observation Scientist
-    description : France works on the development of remotely sensed-derived data to constrain and validate models, support process understanding and monitor vegetation. Using remote sensing technology, her research aims to establish the impact of environmental factors and actions of human on ecosystem functioning to inform conservation and enable sustainable management of natural resources. 
+    description : France works on the development of remotely sensed-derived data to constrain and validate models, support process understanding and inform conservation and enable sustainable management of natural resources. 
     website : https://www.ceh.ac.uk/staff/france-gerard
     linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
     #facebook    : https://www.fb.com/themefisher
@@ -15,27 +15,27 @@ members  :
   - name  : Reto Schmucki
     image : images/team/team_reto.png
     designation : Community Ecologist
-    description : Reto's research aims at understanding the drivers and mechanisms that structure and mediate biological diversity at varying scales. Merging empirical work with theory, his research interest are in biodiversity monitoring, modelling trophic interactions and exploring the factors that affect species distribution in the face of global change.
+    description : Reto works on the impact of global changes on species distribution and community assemblages. He is interested in plant-insect interactions and the mechanisms that structure biological diversity across scales.
     website : https://www.ceh.ac.uk/staff/reto-schmucki
     twitter : https://www.twitter.com/SchmuckiReto
 
   - name  : Claire Carvell
     image : images/team/ClaireCarvell.png
     designation : Pollination Ecologist
-    description : Claire works on ecology and conservation of wild bees and other insect pollinators. Using a combination of field observations, experiments, molecular genetics, analyses of long-term datasets and modelling approaches, her research informs restoration and management of agro-ecosystems to enhance plant and invertebrate biodiversity and interactions between plants and their pollinators.
+    description : Claire works on the ecology and conservation of wild bees and other insect pollinators to inform restoration and management of agro-ecosystems and enhance plant and invertebrate biodiversity.
     website : https://www.ceh.ac.uk/staff/claire-carvell
     twitter : https://twitter.com/Claire_Carvell
 
   - name  : Ben Woodcock
     image : images/team/BenWoodcock2.png
     designation : Ecological Entomologist
-    description : Ben works on ecosystem service delivery (biocontrol and pollination), macro-ecology and mechanisms of co-existence in invertebrate communities. His research produces applied solutions to biodiversity management issues, and builds on a mechanistic understanding of the competitive interactions and trade-offs between invertebrates and the plant communities.
+    description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities. His research address questions of biodiversity management and trade-offs between invertebrates and plant communities.
     #twitter     : https://www.twitter.com/SchmuckiReto
     website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Dan Morton
     image : images/team/dan_morton2.jpg
     designation : Ecological Remote Sensing Scientist
-    description : Dan specialises in the production of and ecological analysis of large scale (national an larger) satellite derived datasets. Using satellite based systems, he harness the potential of these tools to improve our capability to monitor biodiversity, map arable crop and fruit production, and study the impact of modern agricultural practices on wild insect and pollination services.
+    description : Dan specialises in the production and the analysis of large scale satellite derived datasets. His work aims to improve our capability to monitor biodiversity and measure the impact of land use change on biodiversity and ecosystem services.
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock

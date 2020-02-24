@@ -3,25 +3,24 @@ caption: Work Package 4
 category:
 - Ecosystem Services
 - Modelling
-client: Reto Schmucki
+wp_leader: Reto Schmucki
 date: "2019-02-01"
+location: Argentina, Brasil & Chile
 description: This is meta description
 image: images/research/pollination_wp4.jpg
 liveLink: https://www.ceh.ac.uk
-location: UKCEH, Wallingford, UK
+partners: UKCEH, University of Exeter
 submitDate: February 04, 2019
 title: Ecosystem Services
 
 type: portfolio
 ---
-### Consectur in Bibendum
+### Modelling Pollination Services and Insect Populations
 
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Managed and wild bees provide important pollination services for many crops. While the demand for pollination has been increasing, bee abundances have been declining in many areas.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+It is important to study how agricultural landscapes affect bee populations and how bees in turn improve the pollination of crops. Understanding these processes in more detail will help us create a win-win situation for farmers and bees. However, it is difficult, time consuming and expensive to do large scale field experiments, as a large number of replicates (colonies) is required over several years and a number of study sites. 
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+> A cost-effective alternative is to use computer simulation (*in silico*) approach where realistic scenarios are simulated using computer models. In this project, we apply and further expand the already existing [BEEHAVE models](http://beehave-model.net/).
 
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.
-
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus.
+These models were developed to study the activities and complex interactions of honeybees and bumblebees within their colonies and the environment.  Realistic landscapes, composed of forage patches from a variety of habitat types can be loaded into the models and provide nectar and pollen sources the bees can feed on. Based on the current needs of the colony, location and quality of resources offered, foragers then decide from where to collect the nectar and pollen they need to feed the brood and to reproduce. This virtual world allows us to study the impact of landscape structure on colony and population dynamics of bees and the impact of additional stressors like weather conditions, predators or pesticides. We plan to apply these models to study pollination services and bee populations in agricultural landscapes across Latin America.
