@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="description" content="Airspace Hugo theme">
+  <meta name="author" content="Reto Schmucki">
+  <meta name="generator" content="Hugo 0.59.1" />
+  
+  <!-- Mobile Specific Metas -->
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RGIS workshop liverpool</title>
+  <link rel="icon" href="/surpass2web/surpass2web/images/favicon.ico">
+
+  <!-- Twitter Bootstrs CSS -->
+  <link rel="stylesheet" href="/surpass2web/surpass2web/plugins/bootstrap/bootstrap.min.css">
+  <!-- Ionicons Fonts Css -->
+  <link rel="stylesheet" href="/surpass2web/surpass2web/plugins/ionicons/ionicons.min.css">
+  <!-- animate css -->
+  <link rel="stylesheet" href="/surpass2web/surpass2web/plugins/animate-css/animate.css">
+  <!-- Hero area slider css-->
+  <link rel="stylesheet" href="/surpass2web/surpass2web/plugins/slider/slider.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="/surpass2web/surpass2web/plugins/slick/slick.css">
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="/surpass2web/surpass2web/plugins/facncybox/jquery.fancybox.css">
+  <!-- hover -->
+  <link rel="stylesheet" href="/surpass2web/surpass2web/plugins/hover/hover-min.css">
+  <!-- template main css file -->
+  
+  <link rel="stylesheet" href="/surpass2web/surpass2web/css/style.min.css" integrity="" media="screen">
+</head><body><section class="top-bar animated-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="/surpass2web/surpass2web/">
+                        <img src="/surpass2web/surpass2web/images/surpass_logo.png" alt="logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+                        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navigation">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link"
+                                    href="/surpass2web/surpass2web/">Home</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="/surpass2web/surpass2web/about">About</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="/surpass2web/surpass2web/research">Research</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="/surpass2web/surpass2web/contact">Contact</a>
+                            </li>
+                            
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github-gist.min.css">
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+
+<script>
+  hljs.configure({languages: [ ]});
+  hljs.initHighlightingOnLoad();
+</script>
+
+
+
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>RGIS workshop liverpool</h2>
+                    <div class="portfolio-meta">
+                        <span>Thursday, Apr 12, 2018</span>|
+                        <span> Tags:
+                            R Markdown, plot, gis
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <div class="post-content">
+                    
+
+<p>Together with the R script below, you will need to download the data folder available <a href="https://drive.google.com/file/d/1jJMM_4zqrrkPvex-iJxPNAntTuKe6qt4/view?usp=sharing">via this link</a>. The data are contained in a zip file (674Mb) that you will have to unzip and save in your working directory, or amend the path in the R script. The data used in this tutorial should be used for a training purpose only.</p>
+
+<p><strong>NOTE:</strong> This tutorial is a work-in-progress and I am expecting to maintain, edit and update the script to improve and add new material.</p>
+
+<h3 id="tutorial-aims">Tutorial Aims:</h3>
+
+<h4 id="a-href-spatialobject1-1-what-is-a-spatial-object-a"><a href="#SpatialObject1"> 1. What is a spatial object? </a></h4>
+
+<h4 id="a-href-spatialobject2-2-spatial-object-with-sf-a"><a href="#SpatialObject2"> 2. Spatial object with sf </a></h4>
+
+<h4 id="a-href-loadmanipulate-3-load-and-manipulate-spatial-objects-merge-extract-a"><a href="#LoadManipulate"> 3. Load and manipulate spatial objects (Merge &amp; extract). </a></h4>
+
+<h4 id="a-href-postgresql-4-interfacing-r-and-postgresql-postgis-a"><a href="#PostgreSQL"> 4. Interfacing R and PostgreSQL/PostGIS. </a></h4>
+
+<h4 id="a-href-plotwithggplot2-5-mapping-your-spatial-objects-a"><a href="#PlotWithggplot2"> 5. Mapping your spatial objects </a></h4>
+
+<p></p>
+
+<p>For this &ldquo;tutorial&rdquo;, you will need some packages and their dependencies</p>
+
+<pre><code class="language-r">if(!requireNamespace(&quot;raster&quot;)) install.packages(&quot;raster&quot;)
+if(!requireNamespace(&quot;sf&quot;)) install.packages(&quot;sf&quot;)
+if(!requireNamespace(&quot;rmapshaper&quot;)) install.packages(&quot;rmapshaper&quot;)
+if(!requireNamespace(&quot;ggplot2&quot;)) install.packages(&quot;ggplot2&quot;)
+if(!requireNamespace(&quot;ggspatial&quot;)) install.packages(&quot;ggspatial&quot;)
+if(!requireNamespace(&quot;rgdal&quot;)) install.packages(&quot;rgdal&quot;)
+if(!requireNamespace(&quot;RPostgreSQL&quot;)) install.packages(&quot;RPostgreSQL&quot;)
+if(!requireNamespace(&quot;rgbif&quot;)) install.packages(&quot;rgbif&quot;)
+
+
+library(raster)
+library(sf)
+library(rmapshaper)
+library(ggplot2)
+library(ggspatial)
+library(RPostgreSQL)
+library(rgdal)
+library(rgbif)
+
+</code></pre>
+
+<p><a name="SpatialObject1"></a></p>
+
+<h5 id="what-is-a-spatial-object">What is a spatial object?</h5>
+
+<p>A spatial object is an entity with coordinates in a geographical space (x, y) or (x, y, z) with a specific projection.</p>
+
+<blockquote>
+<p><strong>Coordinates are not enough!</strong> To illustrate this affirmation, just have a look at this example.</p>
+</blockquote>
+
+<pre><code class="language-r"># create two ojbects with their long/lat coordinates
+point_liverpool &lt;- data.frame(name = 'Liverpool', longitude = -2.98, latitude = 53.41)
+point_edinburgh &lt;- data.frame(name = 'Edinburgh', longitude = -3.19, latitude = 55.95)
+city_points &lt;- rbind(point_liverpool, point_edinburgh)
+
+# Now have a look at them in a 2D space.
+plot(city_points[,c(&quot;longitude&quot;, &quot;latitude&quot;)], pch = 19, col = 'magenta')
+text(city_points[,c(&quot;longitude&quot;, &quot;latitude&quot;)], labels = city_points$name, pos = c(2, 4))
+</code></pre>
+
+<p>With these two cities, although the coordinates are right, you have no information about the context of their coordinates.</p>
+
+<blockquote>
+<p><em>Spatial projection</em>
+The Coordinate Reference System or CRS of a spatial object tells R where the spatial object is located in geographic space (<em>see</em> <a href="https://spatialreference.org/">https://spatialreference.org/</a>).</p>
+</blockquote>
+
+<p>For example, you might have seen the expression WGS84, the common longitude-latitude (degree decimal), or maybe EPSG:4326.
+In other words, spatial objects should come with some information relative to their reference system (CRS), no matter if it&rsquo;s a raster, a point, a line or a complex polygon. To locate an object in space, you need to know the reference system and the units in which the coordinates are expressed.</p>
+
+<pre><code class="language-r"># Adding a projection to our cities, using WGS84
+proj_city_points &lt;- sf::st_as_sf(city_points, coords = c(&quot;longitude&quot;, &quot;latitude&quot;), crs = 4326)
+plot(proj_city_points, pch = 19, col = c(&quot;magenta&quot;, &quot;blue&quot;), cex = 1.5)
+legend(&quot;topleft&quot;, legend = proj_city_points$name, col = c(&quot;magenta&quot;, &quot;blue&quot;), pch = 19, cex = 1.5, bty=&quot;n&quot;)
+
+# get some base layer to see this in perspective
+country_sf_gbr &lt;- sf::st_as_sf(raster::getData(name = &quot;GADM&quot;, country = 'GBR', level = 1))
+
+# visualize the points on a map
+## if you are on a Mac, this might be very slow, see below how we will address this issues (simplify).
+plot(country_sf_gbr$geometry, graticule = TRUE, axes = TRUE, col = &quot;wheat1&quot;, xlim = c(-15, 5), ylim = c(50, 61))
+plot(proj_city_points, pch = 19, col = c(&quot;magenta&quot;, &quot;blue&quot;), cex = 1.5, add = TRUE)
+legend(&quot;topleft&quot;, legend = proj_city_points$name, col = c(&quot;magenta&quot;, &quot;blue&quot;), pch = 19, cex = 1.5, bty=&quot;n&quot;)
+text(x = -15, y = 50.2, &quot;EPSG:4326 - WGS84&quot;, pos = 4, cex = 0.7)
+</code></pre>
+
+<p>And when you have a CRS, it is possible transform your coordinates and express them, reproject, in another reference system (i.e. on other origin and units). You can change an geometry&rsquo;s projection with the function <code>st_tranform</code> from <a href="https://cran.r-project.org/web/packages/sf/">sf</a> package. Some projections are more appropriate for representing and extract specific metric (e.g. distance, area) from geometry.</p>
+
+<pre><code class="language-r"># Reproject your city points in OSGB 1936 / British National Grid (EPSG:27700)
+proj_city_points_osgb &lt;- sf::st_transform(proj_city_points, crs = 27700)
+country_sf_gbr_osgb &lt;- sf::st_transform(country_sf_gbr, crs = 27700)
+</code></pre>
+
+<p>The sf object containing the Great Britain geometry is relatively big, with much detail at high at a resolution level that might be unnecessary when mapping GB. You can simplify the polygon by changing the resolution and the number of points defining your polygons. This can be done with the function <code>st_simplify</code> available in <a href="https://cran.r-project.org/web/packages/sf/">sf</a> or the <code>ms_simplify</code> function from the <a href="https://cran.r-project.org/web/packages/rmapshaper/">rmapshaper</a> package. When simplifying multiple polygons, you need to keep the topology to avoid creation of slivers and holes between polygons. Simplifying your geometry can be particularly helpful as it will speed up the plotting process, an issues that can be particularly acute on MacOS and slowing the rendering of your map.</p>
+
+<pre><code class="language-r">country_sf_gbr_osgb_simpl &lt;- ms_simplify(country_sf_gbr_osgb, keep = 0.1)
+
+object.size(country_sf_gbr_osgb_simpl)
+object.size(country_sf_gbr_osgb)
+
+# visualise the points on a map of GB, with a simplified geometry
+
+plot(country_sf_gbr_osgb_simpl$geometry, graticule = TRUE, axes = TRUE, col = &quot;wheat1&quot;, xlim = c(-333585, 713000), ylim = c(20000, 1290000))
+plot(proj_city_points_osgb, pch = 19, col = c(&quot;magenta&quot;, &quot;blue&quot;), cex = 1.5, add = TRUE)
+legend(&quot;topleft&quot;, legend = proj_city_points_osgb$name, col = c(&quot;magenta&quot;, &quot;blue&quot;), pch = 19, cex = 1.5, bty=&quot;n&quot;)
+text(x = -453585, y = 25000, &quot;EPSG:27700 - OSGB 1936 &quot;, pos = 4, cex = 0.7)
+
+</code></pre>
+
+<blockquote>
+<p>to get coordinates on a plot, you can use the function drawExtent() from the raster package that allow you to clic on a map to get the coordinates of an extent.</p>
+</blockquote>
+
+<pre><code class="language-r">plot(country_sf_gbr_osgb_simpl$geometry, graticule = TRUE, axes = TRUE, col = &quot;wheat1&quot;)
+raster::drawExtent()
+</code></pre>
+
+<p><a name="SpatialObject2"></a></p>
+
+<h2 id="building-and-working-with-spatial-objects-using-sf-in-r">Building and working with spatial objects using sf in R</h2>
+
+<p>This is a revolution, providing a modern, stronger and cleaner workflow to deal with spatial object in R, at least vector data. The &ldquo;sf&rdquo; is developed by some of the same people that provide us with &ldquo;sp&rdquo;, offering an ecosystem that open new opportunities to do GIS in R. The firs place to look for resource is the <a href="https://r-spatial.github.io/sf/index.html">sf package website</a>, this is your first stop to learn how it works and develop new skills in R spatial.</p>
+
+<pre><code class="language-r">library(sf)
+
+p1 &lt;- sf::st_point(c(1, 2))
+p2 &lt;- sf::st_point(c(3, 5))
+p3 &lt;- sf::st_multipoint(matrix(2 * c(1, 2, 4, 2, 3, 5, 7, 3), ncol = 2, byrow = TRUE))
+p4 &lt;- sf::st_as_sf(data.frame(X = c(1, 4, 3, 7), Y = c(2, 2, 5, 3) ), coords = c(&quot;X&quot;, &quot;Y&quot;))
+p5 &lt;- sf::st_sfc(p1, p2, p3)
+
+plot(p1)
+plot(p3, col = &quot;blue&quot;, pch = 19)
+plot(p2, col = &quot;magenta&quot;, pch = 19, add = TRUE)
+</code></pre>
+
+<h3 id="modify-sf-sfc-objects">Modify sf - sfc objects</h3>
+
+<pre><code class="language-r">p6 &lt;- sf::st_cast(x = st_sfc(p3), to = &quot;POINT&quot;)
+p_multi &lt;- sf::st_cast(p6, ids = c(1, 2, 1, 2), group_or_plist = TRUE, to = &quot;MULTIPOINT&quot;)
+
+plot(p_multi[1], ylim = c(0, 20), xlim = c(0, 20), col = &quot;tomato3&quot;, pch = 19)
+plot(p_multi[2], col = &quot;magenta&quot;, pch = 19, add = TRUE)
+
+p7 &lt;- st_cast(x = p4, to = &quot;POINT&quot;)
+p8 &lt;- rbind(st_cast(x = p4[1:3,], to = &quot;MULTIPOINT&quot;), p4[4,])
+p8
+</code></pre>
+
+<h3 id="lines">Lines</h3>
+
+<pre><code class="language-r">l1 &lt;- sf::st_linestring(matrix(c(1, 1, 2, 2, 3, 3, 4, 4, 4, 2), ncol = 2, byrow = TRUE))
+lp &lt;- sf::st_cast(x = sf::st_sfc(l1), to = &quot;MULTIPOINT&quot;)
+bl1 &lt;- sf::st_buffer(l1, 2)
+blp &lt;- sf::st_cast(x = sf::st_sfc(bl1), to = &quot;MULTIPOINT&quot;)
+
+plot(lp, col = &quot;blue&quot;, pch = 19, cex = 2, ylim = c(-5, 10), xlim = c(-5, 10))
+plot(blp, col = &quot;magenta&quot;, pch = 19, cex = 1, add = TRUE)
+plot(l1, col = &quot;tomato3&quot;, lwd = 1.5, add = TRUE)
+</code></pre>
+
+<h3 id="polygon">Polygon</h3>
+
+<pre><code class="language-r">bl1 &lt;- sf::st_buffer(l1, 2)
+blp &lt;- sf::st_cast(x = sf::st_sfc(bl1), to = &quot;MULTIPOINT&quot;)
+
+plot(bl1, col = &quot;lightblue&quot;, border = NA)
+plot(lp, col = &quot;blue&quot;, pch = 19, cex = 2, ylim = c(-5, 10), xlim = c(-5, 10), add = TRUE)
+plot(blp, col = &quot;magenta&quot;, pch = 19, cex = 1, add = TRUE)
+plot(l1, col = &quot;tomato3&quot;, lwd = 1.5, add = TRUE)
+</code></pre>
+
+<h3 id="intersects-and-intesections">Intersects and intesections</h3>
+
+<pre><code class="language-r">p1 &lt;- sf::st_as_sf(data.frame(X = c(1, 4, 3, 7), Y = c(2, 2, 5, 3) ), coords = c(&quot;X&quot;, &quot;Y&quot;), crs = 4326)
+poly1 &lt;- st_as_sfc(st_bbox(st_buffer(p1[2,], 2)))
+poly2 &lt;- st_as_sfc(st_bbox(st_buffer(p1[3,], 1.5)))
+
+plot(st_geometry(poly1), col = &quot;goldenrod&quot;, xlim = c(-5, 5), ylim = c(0, 10))
+plot(st_geometry(poly2), col = rgb(1,1,0,0.3), add = TRUE)
+plot(st_geometry(p1), col = &quot;magenta&quot;, pch = 19, cex= 1.5, add = TRUE)
+
+## INTERSECTION
+poly3 &lt;- sf::st_intersection(poly1, poly2)
+plot(st_geometry(poly3), col = &quot;lightblue&quot;, add = TRUE)
+
+## INTERSECT
+p1_poly1 &lt;- sf::st_intersects(p1, poly1, sparse = FALSE)
+plot(st_geometry(p1[p1_poly1,]), col = &quot;turquoise&quot;, pch = 19, cex = 2, add = TRUE)
+</code></pre>
+
+<h3 id="circle-buffer-intersection">circle buffer intersection</h3>
+
+<pre><code class="language-r">poly1 &lt;- sf::st_buffer(p1[2,], 2)
+poly2 &lt;- sf::st_buffer(p1[3,], 1.5)
+int_b2_b1 &lt;- sf::st_intersection(poly2, poly1)
+
+plot(st_geometry(poly1), col = NA, border = &quot;red&quot;, ylim = c(0, 7), axes = TRUE)
+plot(st_geometry(poly2), add = TRUE)
+plot(st_geometry(p1[2,]), col = &quot;black&quot;, pch = 19, add = TRUE)
+plot(st_geometry(p1[3,]), col = &quot;blue&quot;, pch = 19, add = TRUE)
+plot(st_geometry(int_b2_b1), col = &quot;lightblue&quot;, boder = NA, add = TRUE)
+</code></pre>
+
+<h3 id="difference-between-objects">Difference between objects</h3>
+
+<pre><code class="language-r">poly1 &lt;- sf::st_buffer(p1[2,], 2)
+poly2 &lt;- sf::st_buffer(p1[2,], 4)
+dif_poly2_poly1 &lt;- sf::st_difference(poly2, poly1)
+
+plot(st_geometry(dif_poly2_poly1), col = &quot;orange&quot;, axes = TRUE)
+plot(st_geometry(poly1), col = &quot;blue&quot;, add = TRUE)
+</code></pre>
+
+<h3 id="union-merge-and-melt-objects">Union (merge and melt) objects</h3>
+
+<pre><code class="language-r">poly1 &lt;- sf::st_buffer(p1[2,], 2)
+poly2 &lt;- sf::st_buffer(p1[2,], 4)
+uni_poly1_2 &lt;- sf::st_union(dif_poly2_poly1, poly1)
+
+plot(st_geometry(uni_poly1_2), col = &quot;lightblue&quot;, axes = TRUE)
+plot(st_geometry(poly1), col = &quot;tomato3&quot;, add = TRUE)
+plot(st_geometry(st_buffer(poly1,-1)), col = &quot;white&quot;, add = TRUE)
+plot(st_geometry(st_centroid(poly1)), col = &quot;black&quot;, pch = 19, add = TRUE)
+</code></pre>
+
+<p>If you like it tidy and the dplyr way? Since sf is essentally a data.frame with  a list of spatial attribute attached, it works well in the tidy univers. Have a look at this blog to get a first feel <a href="https://strimas.com/r/tidy-sf/">https://strimas.com/r/tidy-sf/</a>.</p>
+
+<p><a name="LoadManipulate"></a></p>
+
+<h3 id="load-and-manipulate-spatial-objects">Load and manipulate spatial objects</h3>
+
+<p>Spatial data are increasingly available from the Web, from species occurrence to natural and  cultural features data, accessing spatial data is now relatively easy. For base layers, you can find many freely available data sets such as the ones provided by the Natural Earth [<a href="https://www.naturalearthdata.com">https://www.naturalearthdata.com</a>], the IUCN Protected Planet database [www.protectedplanet.net], the GADM project [<a href="https://gadm.org">https://gadm.org</a>], worldclim [<a href="https://worldclim.org/version2">https://worldclim.org/version2</a>] the CHELSA climate data sets [<a href="https://chelsa-climate.org">https://chelsa-climate.org</a>] or the European Environmental Agency [<a href="https://www.eea.europa.eu/data-and-maps/data#c0=5&amp;c11=&amp;c5=all&amp;b_start=0">https://www.eea.europa.eu/data-and-maps/data#c0=5&amp;c11=&amp;c5=all&amp;b_start=0</a>]</p>
+
+<h2 id="raster-object">Raster object</h2>
+
+<pre><code class="language-r">library(raster)
+# annual mean temperature
+chelsa_amt &lt;- raster::raster(&quot;data/CHELSA_bio10_1.tif&quot;)
+raster::plot(chelsa_amt)
+chelsa_amt
+
+# crop climate data for a specific bounding box
+chelsa_amt_gbr &lt;- raster::crop(chelsa_amt, raster::extent(country_sf_gbr)) # cut the worldwide raster according to
+raster::plot(chelsa_amt_gbr)
+
+# convert temperature data in usual unit
+chelsa_amt_gbr[] &lt;- chelsa_amt_gbr[]*0.1 # convert temperature data in usual unit
+raster::res(chelsa_amt_gbr)
+
+# change resolution aggregate() or disaggregate()
+chelsa_amt_gbr_2 &lt;- raster::disaggregate(chelsa_amt_gbr, fact=4)
+raster::res(chelsa_amt_gbr_2)
+
+chelsa_amt_gbr_3 &lt;- raster::aggregate(chelsa_amt_gbr, fact=4)
+raster::res(chelsa_amt_gbr_3)
+raster::plot(chelsa_amt_gbr_3)
+</code></pre>
+
+<blockquote>
+<p><em>Other format for gridded data</em>
+netCDF format is commonly used for gridded time series (temperature)</p>
+</blockquote>
+
+<pre><code class="language-r">rast_1 &lt;- raster::raster(&quot;data/tg_0.25deg_reg_2011-2017_v17.0.nc&quot;, band = 1)
+rast_2 &lt;- raster::raster(&quot;data/tg_0.25deg_reg_2011-2017_v17.0.nc&quot;, band = 2)
+rast_stack &lt;- raster::stack(rast_1, rast_2)
+plot(rast_stack$mean.temperature.1)
+plot(rast_stack)
+</code></pre>
+
+<h3 id="land-cover">Land cover</h3>
+
+<pre><code class="language-r">eunis_1km &lt;- raster::raster(&quot;data/es_l1_1km.tif&quot;)
+raster::plot(eunis_1km)
+raster::projection(eunis_1km)
+</code></pre>
+
+<h3 id="spatial-extraction-raster-value-for-a-vector-object">Spatial extraction (raster value for a vector object)</h3>
+
+<pre><code class="language-r">proj_city_points_laea &lt;- sf::st_transform(proj_city_points, raster::projection(eunis_1km))
+eunis_city &lt;- raster::extract(eunis_1km, as(proj_city_points_laea, &quot;Spatial&quot;))
+eunis_city &lt;- raster::extract(eunis_1km, as(sf::st_buffer(proj_city_points_laea, 10000), &quot;Spatial&quot;))
+
+str(eunis_city)
+table(eunis_city[[1]])
+
+proportion &lt;- as.numeric(table(eunis_city[[1]]))[which(names(table(eunis_city[[1]]))!=&quot;10&quot;)] / sum(as.numeric(table(eunis_city[[1]]))) * 100
+proportion
+</code></pre>
+
+<h3 id="vector-object">Vector object</h3>
+
+<pre><code class="language-r">library(sf)
+st_prov &lt;- sf::st_read(&quot;data/GADM_2.8_GBR_adm2.shp&quot;)
+plot(st_prov[,&quot;HASC_2&quot;], graticule = TRUE, axes = TRUE)
+
+# Older option
+library(rgdal)
+st_prov_sp &lt;- rgdal::readOGR(&quot;data&quot;, &quot;GADM_2.8_GBR_adm2&quot;)
+class(st_prov_sp)
+plot(st_prov_sp, axes = TRUE)
+
+# Change projection of an &quot;sp&quot; object
+crs.osgb = CRS(&quot;+init=epsg:27700&quot;)
+st_prov_sp.osgb = sp::spTransform(st_prov_sp, crs.osgb)
+plot(st_prov_sp.osgb, axes = TRUE)
+
+spplot(st_prov_sp.osgb, &quot;HASC_2&quot;, colorkey = FALSE)
+</code></pre>
+
+<h3 id="read-and-write-your-spatial-object-in-shapefile">Read and write your spatial object in Shapefile</h3>
+
+<pre><code class="language-r"># read with &quot;sf&quot;
+st_prov &lt;- sf::st_read(&quot;data/GADM_2.8_GBR_adm2.shp&quot;)
+
+# write with &quot;sf&quot;
+sf::st_write(st_prov, dsn = &quot;st_prov.shp&quot;, delete_layer = TRUE)
+
+# write with OGR (rgdal)
+st_prov_sp &lt;- sf::as(st_prov, &quot;Spatial&quot;)
+rgdal::writeOGR(st_prov_sp, &quot;st_prov_sp&quot;, driver = &quot;ESRI Shapefile&quot;)
+</code></pre>
+
+<h3 id="subseting-and-filtering">Subseting and filtering</h3>
+
+<pre><code class="language-r">wdpa_gbr &lt;- sf::st_read(&quot;data/wdpa_gbr.shp&quot;)
+wdpa_gbr &lt;- wdpa_gbr[wdpa_gbr$MARINE == 0,]
+plot(wdpa_gbr$geometry)
+
+## bounding box
+bb &lt;- sf::st_bbox(country_sf_gbr)
+bb
+
+## faster solution
+bb_poly &lt;- sf::st_make_grid(country_sf_gbr, n = 1)
+wdpa_gbr_2 &lt;- sf::st_intersects(wdpa_gbr, bb_poly, sparse = FALSE)
+wdpa_gbr &lt;- wdpa_gbr[wdpa_gbr_2,]
+plot(wdpa_gbr$geometry[wdpa_gbr$IUCN_CAT == &quot;V&quot;])
+
+wdpa_cntr &lt;- sf::st_centroid(wdpa_gbr)
+plot(wdpa_cntr$geometry)
+
+## building a box from the st_bbox output
+g.bbox &lt;- raster::extent(as.numeric(sf::st_bbox(country_sf_gbr))[c(1,3,2,4)])
+g.bbox_sf &lt;- sf::st_set_crs(sf::st_as_sfc(as(g.bbox, 'SpatialPolygons')), 3035)
+plot(g.bbox_sf, add = TRUE)
+</code></pre>
+
+<blockquote>
+<p><em>Try it yourself</em>
+Get some river data from
+<a href="https://land.copernicus.eu/pan-european/satellite-derived-products/eu-hydro/eu-hydro-public-beta/eu-hydro-river-network/view">https://land.copernicus.eu/pan-european/satellite-derived-products/eu-hydro/eu-hydro-public-beta/eu-hydro-river-network/view</a></p>
+</blockquote>
+
+<p><a name="PostgreSQL"></a></p>
+
+<h2 id="interfacing-r-and-posgresql-postgis">Interfacing R and PosgreSQL/PostGIS</h2>
+
+<ol>
+<li>Install PostgreSQL, with the PostGIS extension</li>
+<li>Create a database</li>
+<li>Populate your database</li>
+<li>Extract from your database</li>
+</ol>
+
+<p><strong>NOTE</strong> This section with PostgreSQL require that you have a functional installation of PostgreSQL with the spatial extension PostGIS. I will add some installation instruction for Windows and Mac, later when I get some time, but if you are curious, search the web as it is a good and resourceful place to start.</p>
+
+<h2 id="create-postgresql-database">Create PostgreSQL database</h2>
+
+<pre><code class="language-r">library('RPostgreSQL')
+
+# create a new database in on your local PostgreSQL server
+sql_createdb &lt;- paste0(&quot;-h localhost -U &quot;, &quot;postgres&quot;, &quot; -T &quot;, &quot;postgis_22_sample&quot;, &quot; -E UTF8 -O postgres &quot;, &quot;RGIS_workshop&quot;)
+system2(&quot;createdb&quot;, sql_createdb, invisible = FALSE)
+
+# connect R to your server and newly created database
+drv &lt;- dbDriver(&quot;PostgreSQL&quot;)
+dbcon &lt;- dbConnect(drv, dbname = &quot;RGIS_workshop&quot;,
+                 host = &quot;localhost&quot;, port = 5432,
+                 user = &quot;postgres&quot;, password = &quot;*****&quot;)
+
+# create a schema, send your first SQL statement (query)
+sql_createschema &lt;- paste0(&quot;CREATE SCHEMA IF NOT EXISTS my_shemas AUTHORIZATION postgres;&quot;)
+dbSendStatement(dbcon, sql_createschema)
+
+# have a look at your PostgreSQL database, using pgAdmin
+</code></pre>
+
+<h3 id="send-spatial-data-to-your-newly-created-database-located-on-your-local-server">Send spatial data to your newly created database located on your local server</h3>
+
+<pre><code class="language-r">library(sf)
+dbcon &lt;- dbConnect(drv, dbname = &quot;RGIS_workshop&quot;,
+                 host = &quot;localhost&quot;, port = 5432,
+                 user = &quot;postgres&quot;, password = &quot;*****&quot;)
+
+wdpa_gbr &lt;- sf::st_read(&quot;data/wdpa_gbr.shp&quot;)
+sf::st_write(wdpa_gbr, dbcon, overwrite = TRUE)
+
+# check if you succeeded
+dbExistsTable(dbcon, &quot;wdpa_gbr&quot;)
+
+# extract some data with a SQL query and a condition
+psql_extract &lt;- dbGetQuery(dbcon, &quot;SELECT \&quot;IUCN_CAT\&quot;, ST_AsText(geometry) as geom FROM wdpa_gbr WHERE \&quot;IUCN_CAT\&quot; = \'V\' AND \&quot;MARINE\&quot; = \'0\'&quot;)
+
+str(psql_extract)
+new_extract &lt;- sf::st_as_sf(psql_extract, wkt = &quot;geom&quot;)
+new_extract &lt;- sf::st_set_crs(new_extract, 4326)
+plot(new_extract)
+
+new_area &lt;- sf::st_area(sf::st_transform(new_extract, 27700))
+head(new_area)
+</code></pre>
+
+<h3 id="interacting-with-postgresql-through-your-terminal">Interacting with PostgreSQL through your terminal</h3>
+
+<blockquote>
+<p><em>In your terminal, type</em>
+ogr2ogr -f &ldquo;PostgreSQL&rdquo; -t_srs EPSG:27700 PG:&ldquo;host=localhost port=5432 dbname=RGIS_workshop user=postgres password=****&rdquo; &lsquo;C:\Users\retoschm\OneDrive - Natural Environment Research Council\Rgis_workshop\data\GADM_2.8_GBR_adm2.shp&rsquo; -nln public.wdpa_gbr2 -nlt MULTIPOLYGON -overwrite -progress -unsetFid &ndash;config PG_USE_COPY YES</p>
+</blockquote>
+
+<h3 id="some-more-raster-operations">Some more raster operations</h3>
+
+<h4 id="hillshade-and-terrain-map">Hillshade and Terrain map</h4>
+
+<pre><code class="language-r">library(raster)
+alt &lt;- raster::getData(&quot;alt&quot;, country = &quot;GBR&quot;)
+slope &lt;- raster::terrain(alt, opt = &quot;slope&quot;)
+aspect &lt;- raster::terrain(alt, opt = &quot;aspect&quot;)
+hill &lt;- raster::hillShade(slope, aspect, angle = 40, direction = 270)
+
+# plot your raster and newly extracted polygons on a map
+raster::plot(hill, col = grey(0:100/100), legend = FALSE)
+plot(sf::st_transform(new_extract, 4326), add = TRUE)
+raster::plot(alt, col = terrain.colors(25, alpha = 0.5), add = TRUE)
+</code></pre>
+
+<p><a name="PlotWithggplot2"></a></p>
+
+<h2 id="plot-your-spatial-object-data-with-ggplot2">Plot your spatial object data with ggplot2</h2>
+
+<pre><code class="language-r">library(ggplot2)
+library(ggspatial)
+library(rmapshaper)
+
+country_sf_gbr &lt;- sf::st_as_sf(raster::getData(name = &quot;GADM&quot;, country = 'GBR', level = 1))
+country_sf_gbr_osgb &lt;- sf::st_transform(country_sf_gbr, crs = 27700)
+country_sf_gbr_osgb_simpl &lt;- ms_simplify(country_sf_gbr_osgb, keep = 0.1)
+
+point_liverpool &lt;- data.frame(name = 'Liverpool', longitude = -2.98, latitude = 53.41)
+point_edinburgh &lt;- data.frame(name = 'Edinburgh', longitude = -3.19, latitude = 55.95)
+city_points &lt;- rbind(point_liverpool, point_edinburgh)
+proj_city_points_osgb &lt;- sf::st_transform(sf::st_as_sf(city_points, coords = c(&quot;longitude&quot;, &quot;latitude&quot;), crs = 4326), crs = 27700)
+
+## simple plot with ggplot
+ggplot(data = country_sf_gbr_osgb_simpl) +
+    geom_sf() +
+    xlab(&quot;Longitude&quot;) + ylab(&quot;Latitude&quot;) +
+    ggtitle(&quot;GBR map&quot;, subtitle = paste0(&quot;(&quot;, length(unique(country_sf_gbr_osgb_simpl$NAME_1)), &quot; countries)&quot;))
+
+## add some colors
+ggplot(data = country_sf_gbr_osgb_simpl) +
+    geom_sf(color = &quot;black&quot;, fill = &quot;wheat1&quot; ) +
+    xlab(&quot;Longitude&quot;) + ylab(&quot;Latitude&quot;) +
+    ggtitle(&quot;GBR map&quot;, subtitle = paste0(&quot;(&quot;, length(unique(country_sf_gbr_osgb_simpl$NAME_1)), &quot; countries)&quot;))
+
+## color with some qualitative meaning
+ggplot(data = country_sf_gbr_osgb_simpl) +
+    geom_sf(aes(fill = as.numeric(sf::st_area(country_sf_gbr_osgb_simpl)))) +
+    scale_fill_viridis_c(option = &quot;plasma&quot;, name = &quot;Area&quot;) +
+    xlab(&quot;Longitude&quot;) + ylab(&quot;Latitude&quot;) +
+    ggtitle(&quot;GBR map&quot;, subtitle = paste0(&quot;(&quot;, length(unique(country_sf_gbr_osgb_simpl$NAME_1)), &quot; countries)&quot;))
+
+# add a scale bar and a north arrow
+ggplot(data = country_sf_gbr_osgb_simpl) +
+    geom_sf() +
+    xlab(&quot;Longitude&quot;) + ylab(&quot;Latitude&quot;) +
+    annotation_scale(location = &quot;bl&quot;, width_hint = 0.5) +
+    annotation_north_arrow(location = &quot;bl&quot;, which_north = &quot;true&quot;,
+          pad_x = unit(0.75, &quot;in&quot;), pad_y = unit(0.5, &quot;in&quot;),
+          style = north_arrow_fancy_orienteering) +
+    ggtitle(&quot;GBR map&quot;, subtitle = paste0(&quot;(&quot;, length(unique(country_sf_gbr_osgb_simpl$NAME_1)), &quot; countries)&quot;))
+
+# add more spatial object with geom_sf
+ggplot(data = country_sf_gbr_osgb_simpl) +
+    geom_sf() +
+    geom_sf(data = proj_city_points_osgb, size = 4, color = c(&quot;magenta&quot;, &quot;blue&quot;)) +
+    xlab(&quot;Longitude&quot;) + ylab(&quot;Latitude&quot;) +
+    annotate(geom = &quot;text&quot;,
+            x = sf::st_coordinates(sf::st_centroid(country_sf_gbr_osgb_simpl))[,1],
+            y = sf::st_coordinates(sf::st_centroid(country_sf_gbr_osgb_simpl))[,2],
+            label = country_sf_gbr_osgb_simpl$NAME_1,
+        fontface = &quot;italic&quot;, color = &quot;grey22&quot;, size = 3)  +
+    annotation_scale(location = &quot;bl&quot;, width_hint = 0.5) +
+    annotation_north_arrow(location = &quot;bl&quot;, which_north = &quot;true&quot;,
+          pad_x = unit(0.75, &quot;in&quot;), pad_y = unit(0.5, &quot;in&quot;),
+          style = north_arrow_fancy_orienteering) +
+    ggtitle(&quot;GBR map&quot;, subtitle = paste0(&quot;(&quot;, length(unique(country_sf_gbr_osgb_simpl$NAME_1)), &quot; countries)&quot;))
+</code></pre>
+
+<h3 id="adding-a-raster-to-a-ggplot">Adding a raster to a ggplot</h3>
+
+<pre><code class="language-r">library(raster)
+alt &lt;- raster::getData(&quot;alt&quot;, country = &quot;GBR&quot;)
+# need to reproject your raster to match the other layer and get a regular resolution
+alt_prj &lt;- raster::projectRaster(alt, crs = sp::CRS(&quot;+init=epsg:27700&quot;), res = 1000)
+
+# first method
+alt_prj_df &lt;- raster::as.data.frame(alt_prj, xy = TRUE)
+colnames(alt_prj_df)  &lt;- c(&quot;x&quot;, &quot;y&quot;, &quot;Altitude&quot;)
+
+ggplot() +
+    geom_tile(data = alt_prj_df, aes(x = x, y = y, fill = Altitude)) +
+    xlab(&quot;Longitude&quot;) + ylab(&quot;Latitude&quot;) +
+    annotate(geom = &quot;text&quot;,
+            x = sf::st_coordinates(sf::st_centroid(country_sf_gbr_osgb_simpl))[,1],
+            y = sf::st_coordinates(sf::st_centroid(country_sf_gbr_osgb_simpl))[,2],
+            label = country_sf_gbr_osgb_simpl$NAME_1,
+        fontface = &quot;italic&quot;, color = &quot;white&quot;, size = 3) +
+    annotation_scale(location = &quot;bl&quot;, width_hint = 0.5) +
+    annotation_north_arrow(location = &quot;bl&quot;, which_north = &quot;true&quot;,
+          pad_x = unit(0.75, &quot;in&quot;), pad_y = unit(0.5, &quot;in&quot;),
+          style = north_arrow_fancy_orienteering) +
+    ggtitle(&quot;GBR map&quot;, subtitle = paste0(&quot;(&quot;, length(unique(country_sf_gbr_osgb_simpl$NAME_1)), &quot; countries)&quot;)) +
+    theme(panel.background = element_rect(fill = &quot;aliceblue&quot;))
+
+## second method (better)
+alt_prj_spdf &lt;- as(alt_prj, &quot;SpatialPixelsDataFrame&quot;)
+alt_prj_df2 &lt;- as.data.frame(alt_prj_spdf)
+colnames(alt_prj_df2) &lt;- c(&quot;Altitude&quot;, &quot;x&quot;, &quot;y&quot;)
+
+ggplot() +
+    geom_sf(data = country_sf_gbr_osgb_simpl) +
+    geom_tile(data = alt_prj_df2, aes(x = x, y = y, fill = Altitude)) +
+    geom_sf(data = proj_city_points_osgb, size = 4, color = c(&quot;magenta&quot;, &quot;blue&quot;)) +
+    xlab(&quot;Longitude&quot;) + ylab(&quot;Latitude&quot;) +
+    annotate(geom = &quot;text&quot;,
+            x = sf::st_coordinates(sf::st_centroid(country_sf_gbr_osgb_simpl))[,1],
+            y = sf::st_coordinates(sf::st_centroid(country_sf_gbr_osgb_simpl))[,2],
+            label = country_sf_gbr_osgb_simpl$NAME_1,
+        fontface = &quot;italic&quot;, color = &quot;white&quot;, size = 3) +
+    annotation_scale(location = &quot;bl&quot;, width_hint = 0.5) +
+    annotation_north_arrow(location = &quot;bl&quot;,which_north = &quot;true&quot;,
+          pad_x = unit(0.75, &quot;in&quot;), pad_y = unit(0.5, &quot;in&quot;),
+          style = north_arrow_fancy_orienteering) +
+    ggtitle(&quot;GBR map&quot;, subtitle = paste0(&quot;(&quot;, length(unique(country_sf_gbr_osgb$NAME_1)), &quot; countries)&quot;)) +
+    theme(panel.background = element_rect(fill = &quot;aliceblue&quot;))
+</code></pre>
+
+<h3 id="can-you-plot-the-deer-occurrence-extracted-from-gbif-on-a-uk-map">Can you plot the deer occurrence extracted from GBIF on a UK map?</h3>
+
+<pre><code class="language-r">library(rgbif)
+deer_locations &lt;- occ_search(scientificName = &quot;Cervus elaphus&quot;, limit = 5000,
+                             hasCoordinate = TRUE, country = &quot;GB&quot;,
+                             return = &quot;data&quot;) %&gt;% dplyr::select(key, name, decimalLongitude,
+		                         decimalLatitude, year, individualCount, datasetKey, country)
+
+deer_locations_sf &lt;- sf::st_as_sf(deer_locations, coords = c(&quot;decimalLongitude&quot;, &quot;decimalLatitude&quot;), crs = 4326)
+plot(deer_locations_sf[, &quot;datasetKey&quot;])
+# ============
+# YOUR TURN!
+# ===========
+</code></pre>
+
+<h2 id="your-challenge-build-some-wider-map-for-europe">Your challenge, build some wider map for Europe</h2>
+
+<p>Have a look at tutorial 1, 2 and 3 on how to draw beautiful map with sf.</p>
+
+<ol>
+<li><a href="https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html">https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html</a></li>
+<li><a href="https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html">https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-2.html</a></li>
+<li><a href="https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-3.html">https://www.r-spatial.org/r/2018/10/25/ggplot2-sf-3.html</a></li>
+</ol>
+
+<p>Look at the exellent sf vignettes (<em>see list here</em>: <a href="https://cran.r-project.org/web/packages/sf/index.html">https://cran.r-project.org/web/packages/sf/index.html</a>)</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Footer Section Start -->
+<footer id="footer">
+    <div class="container">
+        <div class="row content-justify-between">
+            <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+                <p class="copyright">
+                  <img src="/surpass2web/surpass2web/images/UKCEH-Logo_Long_Positive_RGB.png" alt="logo" style="width:200px;">
+                  <br> Copyright:
+                    <span>
+                        <script>document.write(new Date().getFullYear())</script>
+                    </span> Design by Reto Schmucki - adapted from Timer theme developed by
+                    <a href="https://www.Themefisher.com" target="_blank">Themefisher</a>.
+                </p>
+            </div>
+            <div class="col-md-4 col-12">
+                <!-- Social Media -->
+                <ul class="social text-center text-md-right text-lg-right">
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer section end -->
+
+<!-- jquery -->
+<script src="/surpass2web/surpass2web/plugins/jQurey/jquery.min.js"></script>
+<!-- Form Validation -->
+<script src="/surpass2web/surpass2web/plugins/form-validation/jquery.form.js"></script>
+<script src="/surpass2web/surpass2web/plugins/form-validation/jquery.validate.min.js"></script>
+<!-- slick slider -->
+<script src="/surpass2web/surpass2web/plugins/slick/slick.min.js"></script>
+<!-- bootstrap js -->
+<script src="/surpass2web/surpass2web/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- wow js -->
+<script src="/surpass2web/surpass2web/plugins/wow-js/wow.min.js"></script>
+<!-- slider js -->
+<script src="/surpass2web/surpass2web/plugins/slider/slider.js"></script>
+<!-- Fancybox -->
+<script src="/surpass2web/surpass2web/plugins/facncybox/jquery.fancybox.js"></script>
+<!-- template main js -->
+
+<script src="/surpass2web/surpass2web/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'Your ID', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+baseURL = "https://retoschmucki.github.io/surpass2web/"
+languageCode = "en-us"
+title = "surpass"
+theme = "timer-hugo"
+publishDir = "docs"
+canonifyURLs = true
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Research"
+        url     = "research"
+        weight  = 3
+    # [[menu.nav]]
+    #     name    = "Gallery"
+    #     url     = "gallery"
+    #     weight  = 4
+    # [[menu.nav]]
+    #     name    = "Blog"
+    #     url     = "blog"
+    #     weight  = 5
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "contact"
+        weight  = 6
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/surpass_logo.png"
+    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Reto Schmucki"
+    # Google Analitycs
+    googleAnalitycsID = "Your ID"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider_2.jpg"
+        heading = "Safeguarding Pollinators and Pollination Services"
+        description = "Healthy and resilient ecosystems underpin human well-being and quality of life. Pollinators contribute to plant reproduction in natural and managed ecosystems which supports food security, local and national economies, and provides wider biodiversity and ecosystem benefits."
+        # btn     = true
+        # btnText = "Download More"
+        # btnURL  = "https://themefisher.com/"
+        [[params.banner.flipText]]
+            title   = "SUSTAINABILITY"
+        [[params.banner.flipText]]
+            title   = "POLLINATION"
+        [[params.banner.flipText]]
+            title   = "AGRICUTLTURE"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT US"
+        content = "SURPASS is an international partnership between Argentina, Brasil, Chile and the UK, working on pollinators and pollination services in South America. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation and sustainable use of pollinators. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes."
+        image   = "images/about/about.jpg"
+
+    # # Call to Action
+    # [params.cta]
+    #     enable  = true
+    #     title   = "SO WHAT YOU THINK ?"
+    #     content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+    #     btnText = "Contact with me"
+    #     btnURL  = "/contact"
+    #
+    # # Portfolio Section On Homepage
+    # [params.portfolio]
+    #     enable  = true
+    #     title   = "Latest Works"
+    #     subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+    #
+    # [params.footer]
+    #    [[params.footer.socialIcon]]
+    #        icon = "ion-social-twitter"
+    #        url = "#"
+    #
+    #     [[params.footer.socialIcon]]
+    #         icon = "ion-social-instagram"
+    #         url = "#"

@@ -1,0 +1,19 @@
+{{ if .Site.Data.partner.enable }}
+{{ "<!-- Partner Section Start -->" | safeHTML }}
+<section id="partners">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {{ with .Site.Data.partner.title }}<h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
+                {{ with .Site.Data.partner.subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+                <div id="partners-logo" class="partners-logo-slider">
+                    {{ range .Site.Data.partner.partnersLogo }}
+                    <img class="img-fluid mx-2" src="{{ .image | absURL }}" alt="partner-logo">
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- Partner Section End -->" | safeHTML }}
+{{ end }}

@@ -1,0 +1,86 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if .Site.Data.research.enable }}
+{{ "<!-- Service Section Start -->" | safeHTML }}
+<!-- <section id="service-page" class="pages service-page">
+    <div class="container">
+        <div class="row"><div class="col-lg-6">
+            {{ with .Site.Data.research.title }}<h2 class="subtitle wow fadeInUp animated" data-wow-delay=".3s" data-wow-duration="500ms">{{ . }}</h2>{{ end }}
+            {{ with .Site.Data.research.subtitle }}<p class="subtitle-des wow fadeInUp animated" data-wow-delay=".5s" data-wow-duration="500ms">{{ . }}</p>{{ end }}
+        </div>
+    </div>
+        <div class="row">
+            <div class="col-lg-6 order-2 order-lg-1">
+                <div class="block">
+                    <div class="row service-parts">
+                        {{ range .Site.Data.research.serviceItem }}
+                        <div class="col-md-6">
+                            <div class="block wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="600ms">
+                                {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+                                {{ with .title }}<h4>{{ . }}</h4>{{ end }}
+                                {{ with .description }}<p>{{ . }}</p>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+            {{ with .Site.Data.service.image }}
+            <div class="col-lg-6 order-1 order-lg-2">
+                <div class="block">
+                    <img class="img-fluid" src="{{ . | absURL }}" alt="about-image">
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section> -->
+
+
+<section id="works" class="works">
+    <div class="container">
+        <div class="section-heading">
+            {{ with .Site.Params.portfolio.title }}<h1 class="title wow fadeInDown" data-wow-delay=".3s">{{ . }}</h1>{{ end }}
+            {{ with .Site.Params.portfolio.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+        </div>
+        <div class="row">
+            {{ range $index, $element:= where .Site.RegularPages "Type" "portfolio" }}
+            <div class="col-md-6 col-sm-6">
+                {{ $delay := mul $index 300 }}
+                <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
+                    <div class="img-wrapper">
+                        <img src="{{ .Params.Image | relURL }}" class="img-fluid" alt="this is a title">
+                        <div class="overlay">
+                            <div class="buttons">
+                                <!-- <a rel="gallery" class="fancybox" href="{{ .Params.Image | relURL }}">Demo</a> -->
+                                <a href="{{ .Permalink }}">Details</a>
+                            </div>
+                        </div>
+                    </div>
+                    <figcaption>
+                        <h4>
+                            <a href="{{ .Permalink }}">
+                                {{ .Title }}
+                            </a>
+                        </h4>
+                        <p>
+                            {{ .Params.caption }}
+                        </p>
+                    </figcaption>
+                </figure>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ "<!-- Service Section End -->" | safeHTML }}
+{{ end }}
+
+<!-- {{ partial "clients.html" . }}
+
+{{ partial "cta.html" . }} -->
+
+{{ end }}

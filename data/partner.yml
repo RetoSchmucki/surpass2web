@@ -1,0 +1,10 @@
+enable  : true
+title   : Our partners in Argentina, Chile, and Brazil
+subtitle: ""
+partnersLogo:
+  - image : images/partners/conicetlogo.png
+  - image : images/partners/Instituto_Bio_PUCV_color.png
+  - image : images/partners/usp-logo-png.png
+  - image : images/partners/ufabc-logo.png
+  - image : images/partners/ufscar-logo-2.png
+  - image : images/partners/usp-logo-png.png
