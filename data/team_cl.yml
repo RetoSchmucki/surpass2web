@@ -5,7 +5,7 @@ members  :
   - name  : Francisco E. Fonturbel
     image : images/team/anonymous.jpg
     designation : Ecologist (Pontificia Universidad Católica de Valparaíso)
-    #description : France works on the development of remotely sensed-derived data to constrain and validate models, support process understanding and inform conservation and enable sustainable management of natural resources. 
+    #description : Francisco works on 
     #website : https://www.ceh.ac.uk/staff/france-gerard
     #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
     #facebook    : https://www.fb.com/themefisher
@@ -15,27 +15,41 @@ members  :
   - name  : Lorena Vieli
     image : images/team/anonymous.jpg
     designation : Ecologist (Universidad de La Frontera)
-    #description : Reto works on the impact of global changes on species distribution and community assemblages. He is interested in plant-insect interactions and the mechanisms that structure biological diversity across scales.
+    #description : Lorena works on 
     #website : https://www.ceh.ac.uk/staff/reto-schmucki
     #twitter : https://www.twitter.com/SchmuckiReto
 
   - name  : Gaston Carvallo
     image : images/team/anonymous.jpg
     designation : Ecologist (Pontificia Universidad Católica de Valparaíso)
-    #description : Claire works on the ecology and conservation of wild bees and other insect pollinators to inform restoration and management of agro-ecosystems and enhance plant and invertebrate biodiversity.
+    #description : Gaston works on 
     #website : https://www.ceh.ac.uk/staff/claire-carvell
     #twitter : https://twitter.com/Claire_Carvell
 
   - name  : Maureen Murúa
     image : images/team/anonymous.jpg
     designation : Ecologist (Universidad Mayor)
-    #description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities. His research address questions of biodiversity management and trade-offs between invertebrates and plant communities.
+    #description : Maureen works on
     #twitter     : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Luis Flores Prado
     image : images/team/anonymous.jpg
     designation : Ecologist (Universidad Metropolitana de Ciencias de la Educación)
-    #description : Dan specialises in the production and the analysis of large scale satellite derived datasets. His work aims to improve our capability to monitor biodiversity and measure the impact of land use change on biodiversity and ecosystem services.
+    #description : Luis works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Carlos Valdivia
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidad de Los Lagos)
+    #description : Carlos works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Cecilia Smith-Ramirez
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidad de Los Lagos)
+    #description : Cecilia works on 
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
