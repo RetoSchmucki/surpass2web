@@ -1,11 +1,11 @@
 enable  : true
-title   : Meet our team
+title   : SURPASS partners in UK
 members  :
 
   - name  : France Gerard
     image : images/team/photoFrance.png
-    designation : Earth Observation Scientist
-    description : France works on the development of remotely sensed-derived data to constrain and validate models, support process understanding and inform conservation and enable sustainable management of natural resources. 
+    designation : Earth Observation Scientist (UKCEH)
+    description : France works on the development of remotely sensed-derived data to validate models and inform conservation and sustainable management of natural resources. 
     website : https://www.ceh.ac.uk/staff/france-gerard
     linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
     #facebook    : https://www.fb.com/themefisher
@@ -14,28 +14,49 @@ members  :
 
   - name  : Reto Schmucki
     image : images/team/team_reto.png
-    designation : Community Ecologist
-    description : Reto works on the impact of global changes on species distribution and community assemblages. He is interested in plant-insect interactions and the mechanisms that structure biological diversity across scales.
+    designation : Community Ecologist (UKCEH)
+    description : Reto works on the impact of global changes on species distribution, plant-insect interactions and the mechanisms that structure biological diversity across scales.
     website : https://www.ceh.ac.uk/staff/reto-schmucki
     twitter : https://www.twitter.com/SchmuckiReto
 
   - name  : Claire Carvell
     image : images/team/ClaireCarvell.png
-    designation : Pollination Ecologist
-    description : Claire works on the ecology and conservation of wild bees and other insect pollinators to inform restoration and management of agro-ecosystems and enhance plant and invertebrate biodiversity.
+    designation : Pollination Ecologist (UKCEH)
+    description : Claire works on the ecology and conservation of wild bees and other insect pollinators to inform management of agro-ecosystems and enhance invertebrate biodiversity.
     website : https://www.ceh.ac.uk/staff/claire-carvell
     twitter : https://twitter.com/Claire_Carvell
 
   - name  : Ben Woodcock
     image : images/team/BenWoodcock2.png
-    designation : Ecological Entomologist
-    description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities. His research address questions of biodiversity management and trade-offs between invertebrates and plant communities.
+    designation : Ecological Entomologist (UKCEH)
+    description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities and trade-offs between plant and invertebrates communities.
     #twitter     : https://www.twitter.com/SchmuckiReto
     website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Dan Morton
     image : images/team/dan_morton2.jpg
-    designation : Ecological Remote Sensing Scientist
-    description : Dan specialises in the production and the analysis of large scale satellite derived datasets. His work aims to improve our capability to monitor biodiversity and measure the impact of land use change on biodiversity and ecosystem services.
+    designation : Ecological Remote Sensing Scientist (UKCEH)
+    description : Dan works on the production and the analysis of large scale satellite derived datasets to improve our capability to monitor and measure the impact of land use change on biodiversity.
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Jeff Ollerton
+    image : images/team/anonymous.jpg
+    designation : Ecologist (University of Northampton)
+    #description : Dan works on the production and the analysis of large scale satellite derived datasets to improve our capability to monitor and measure the impact of land use change on biodiversity.
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Juliet Osborn
+    image : images/team/anonymous.jpg
+    designation : Ecologist (University of Exeter)
+    #description : Dan works on the production and the analysis of large scale satellite derived datasets to improve our capability to monitor and measure the impact of land use change on biodiversity.
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Matthias Becher
+    image : images/team/anonymous.jpg
+    designation : Ecologist (University of Exeter)
+    #description : Dan works on the production and the analysis of large scale satellite derived datasets to improve our capability to monitor and measure the impact of land use change on biodiversity.
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
