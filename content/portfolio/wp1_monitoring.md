@@ -4,7 +4,19 @@ category:
 - Monitoring
 - Status 
 - Modelling
-wp_leader: Claire Carvell
+investigator: 
+  - Claire Carvell
+  - Gaston Carvallo
+  - Francisco E. Fonturbel
+  - Eduardo Zattara
+  - Tiago Mauricio Francoy
+  - Bruno de Carvalho Albertini
+  - Sheina Koffler
+  - Natalia Pirani Ghilardi-Lopes
+  - Etienne Americo Cartolano Junior
+  - Charles Fernando dos Santo
+  - Rob Boyds
+  - Jeff Ollerton
 date: "2019-02-04"
 description: This is meta description
 location: Argentina, Brazil & Chile

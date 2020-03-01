@@ -1,10 +1,20 @@
 ---
 caption: Work Package 3
 category:
-- Remote Sensing
-- Machine Learning
-- Pollination Demand
-wp_leader: Dan Morton
+  - Remote Sensing
+  - Machine Learning
+  - Pollination Demand
+investigator: 
+  - Dan Morton
+  - Kayna Agostini
+  - Allan Koch Veiga
+  - Bruno de Carvalho Albertini
+  - Andre Rodrigo Rech
+  - Marina Wolowski Torres
+  - Jose Augusto Salim
+  - Francisco E. Fonturbel
+  - Gaston Carvallo
+  - Luis Flores
 location: Argentina, Brasil & Chile
 date: "2019-02-02"
 description: This is meta description

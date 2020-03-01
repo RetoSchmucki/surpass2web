@@ -3,7 +3,18 @@ caption: Work Package 4
 category:
 - Ecosystem Services
 - Modelling
-wp_leader: Reto Schmucki
+investigator: 
+  - Reto Schmucki
+  - Juliet Osborn
+  - Matthias Becher
+  - Grecia de Groot
+  - Carolina Morales
+  - Agustin Saez
+  - Kayna Agostini
+  - Tiago Mauricio Francoy
+  - Bruno de Carvalho Albertini
+  - Natalia Pirani Ghilardi-Lopes
+  - Lucy Ridding
 date: "2019-02-01"
 location: Argentina, Brasil & Chile
 description: This is meta description

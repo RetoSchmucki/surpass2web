@@ -1,10 +1,30 @@
 ---
 caption: Work Package 2
 category:
-- Field Experiment
-- Crop Pollination
-- Landscape
-wp_leader: Ben Woodcock
+  - Field Experiment
+  - Crop Pollination
+  - Landscape
+investigator:
+  - Ben Woodcock
+  - Lorena Vieli
+  - Maureen Murua
+  - Francisco E. Fonturbel
+  - Carlos Valdivia
+  - Cecilia Smith-Ramirez
+  - Natacha Chacoff
+  - Mariano Devoto
+  - Leonardo Galetto
+  - Carolina Morales
+  - Marina Arbetman
+  - Marcelo Aizen
+  - Agustin Saez
+  - Kayna Agostini
+  - Tiago Mauricio Francoy
+  - Betina Blochtein
+  - Patricia Nunes Silva
+  - Nicolay Leme da Cunha
+  - Rodrigo Yoiti Tsukahara
+  
 date: "2019-02-03"
 location: Argentina, Brazil & Chile
 description: This is meta description
