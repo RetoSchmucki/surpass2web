@@ -1,9 +1,9 @@
 enable  : true
-title   : Funding Research Councils
-subtitle: ""
+title   : Funding
+subtitle: "UK - Argentina - Chile - Brazil"
 partnersLogo:
   - image : images/partners/UKRI_NER_Council-Logo.png
   - image : images/partners/conicetlogo.png
-  - image : images/partners/conicyt.png
+  - image : images/partners/conicyt_wide.png
   - image : images/partners/fapesp.png
 
