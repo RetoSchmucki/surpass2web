@@ -1,0 +1,142 @@
+enable  : true
+title   : SURPASS partners in Brazil
+members  :
+
+  - name  : Antonio Mauro Saraiva
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Francisco works on 
+    #website : https://www.ceh.ac.uk/staff/france-gerard
+    #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Kayna Agostini
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade Federal de São Carlos)
+    #description : Lorena works on 
+    #website : https://www.ceh.ac.uk/staff/reto-schmucki
+    #twitter : https://www.twitter.com/SchmuckiReto
+
+  - name  : Tiago Mauricio Francoy
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Gaston works on 
+    #website : https://www.ceh.ac.uk/staff/claire-carvell
+    #twitter : https://twitter.com/Claire_Carvell
+
+  - name  : Bruno de Carvalho Albertini
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Maureen works on
+    #twitter     : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Allan Koch Veiga
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Luis works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Betina Blochtein
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Pontifícia Universidade Católica do Rio Grande do Sul)
+    #description : Carlos works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Andre Rodrigo Rech
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade Federal dos Vales do Jequitinhonha e Mucuri)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Particia Nunes Silva
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade do Vale dos Sinos)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+
+  - name  : Charles Fernando dos Santos
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Etienne Américo Cartolano Júnior
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Isabela Galarda Varassin
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade Federal do Paraná)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Leandro Freitas
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Jardim Botânico do Rio de Janeiro)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Márcia Motta Maués
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Embrapa Amazônia Oriental)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Marina Wolowski Torres
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade Federal de Alfenas)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Natália Pirani Ghilardi-Lopes
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade Federal do ABC)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Sheina Koffler
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : José Augusto Salim 
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade de São Paulo)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Nicolay Leme da Cunha 
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidade Federal de São Carlos)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Rodrigo Yoiti Tsukahara 
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Fundação ABC)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+
