@@ -22,7 +22,7 @@ members  :
   - name  : Claire Carvell
     image : images/team/ClaireCarvell.png
     designation : Pollination Ecologist (UKCEH)
-    description : Claire works on the ecology and conservation of wild bees and other insect pollinators to inform management of agro-ecosystems and enhance invertebrate biodiversity.
+    description : Claire works on the ecology, monitoring and conservation of wild bees and other insect pollinators to inform management of agro-ecosystems and enhance invertebrate biodiversity.
     website : https://www.ceh.ac.uk/staff/claire-carvell
     twitter : https://twitter.com/Claire_Carvell
 
@@ -41,11 +41,12 @@ members  :
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Jeff Ollerton
-    image : images/team/anonymous.jpg
-    designation : Ecologist (University of Northampton)
-    #description : Dan works on the production and the analysis of large scale satellite derived datasets to improve our capability to monitor and measure the impact of land use change on biodiversity.
+    image : images/team/jeff_ollerton.png
+    designation : Professor of Biodiversity (University of Northampton)
+    description : Jeff works on the insect pollinators and functional biodiversity of pollinator assemblages.
     twitter : https://twitter.com/JeffOllerton
     website : https://jeffollerton.wordpress.com/
+    #researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
 
   - name  : Juliet Osborne
     image : images/team/anonymous.jpg
