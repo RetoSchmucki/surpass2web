@@ -2,7 +2,7 @@ enable  : true
 title   : Funding Research Councils
 subtitle: ""
 partnersLogo:
-  - image : images/partners/UKRI_NERC_Council-Logo_Horiz-RGB.png
+  - image : images/partners/UKRI_NER_Council-Logo_Horiz-RGB.png
   - image : images/partners/conicetlogo.png
   - image : images/partners/conicyt.png
   - image : images/partners/fapesp.png
