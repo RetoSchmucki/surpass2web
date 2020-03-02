@@ -20,7 +20,7 @@ date: "2019-02-02"
 description: This is meta description
 image: images/research/landscape_wp3.jpg
 liveLink: https://www.ceh.ac.uk
-partners: UKCEH, Lancaster, UK
+# partners: UKCEH, Lancaster, UK
 submitDate: February 02, 2019
 title: Landcover Mapping
 type: portfolio

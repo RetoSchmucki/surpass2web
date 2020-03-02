@@ -22,7 +22,7 @@ description: This is meta description
 location: Argentina, Brazil & Chile
 image: images/research/bombus_wp1.jpg
 liveLink: https://www.ceh.ac.uk
-partners: UKCEH, University of Northampton
+# partners: UKCEH, University of Northampton
 submitDate: February 04, 2019
 title: Insect Pollinator Monitoring
 type: portfolio

@@ -9,7 +9,7 @@ location: Argentina, Brasil & Chile
 description: This is meta description
 image: images/research/pollination_wp4.jpg
 liveLink: https://www.ceh.ac.uk
-partners: UKCEH, University of Exeter
+# partners: UKCEH, University of Exeter
 submitDate: February 04, 2019
 title: Ecosystem Services
 

@@ -11,7 +11,7 @@ location: Argentina, Brazil & Chile
 description: This is meta description
 image: images/research/colza_wp2.jpg
 liveLink: https://www.ceh.ac.uk
-partners: UKCEH, Wallingford, UK
+# partners: UKCEH, Wallingford, UK
 submitDate: February 03, 2019
 title: Crop Pollination
 type: portfolio
