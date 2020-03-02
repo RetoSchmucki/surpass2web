@@ -5,7 +5,7 @@ category:
 - Modelling
 investigator: Reto Schmucki, Juliet Osborne, Matthias Becher, Grecia de Groot, Carolina Morales, Agustin Saez, Kayna Agostini, Tiago Mauricio Francoy, Bruno de Carvalho Albertini, Natalia Pirani Ghilardi-Lopes, Lucy Ridding
 date: "2019-02-01"
-location: Argentina, Brasil & Chile
+location: Argentina, Brazil & Chile
 description: This is meta description
 image: images/research/pollination_wp4.jpg
 liveLink: https://www.ceh.ac.uk

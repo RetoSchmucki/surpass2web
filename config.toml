@@ -64,7 +64,7 @@ canonifyURLs = true
     [params.about]
         enable  = true
         title   = "ABOUT US"
-        content = "SURPASS is an international partnership between Argentina, Brasil, Chile and the UK, working on pollinators and pollination services in South America. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation and sustainable use of pollinators. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes."
+        content = "SURPASS is an international partnership between Argentina, Brazil, Chile and the UK, working on pollinators and pollination services in South America. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation and sustainable use of pollinators. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes."
         image   = "images/about/about.jpg"
 
     # # Call to Action
