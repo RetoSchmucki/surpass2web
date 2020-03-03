@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on surpass</title>
-    <link>/surpass2web/categories/r/</link>
+    <link>https://retoschmucki.github.io/surpass2web/categories/r/</link>
     <description>Recent content in R on surpass</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/surpass2web/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retoschmucki.github.io/surpass2web/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/surpass2web/blog/2015-07-23-r-rmarkdown/</link>
+      <link>https://retoschmucki.github.io/surpass2web/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see https://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -24,10 +24,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>RGIS workshop liverpool</title>
-      <link>/surpass2web/blog/rgis_liverpool_workshop/</link>
+      <link>https://retoschmucki.github.io/surpass2web/blog/rgis_liverpool_workshop/</link>
       <pubDate>Thu, 12 Apr 2018 09:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/blog/rgis_liverpool_workshop/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/blog/rgis_liverpool_workshop/</guid>
       <description>Together with the R script below, you will need to download the data folder available via this link. The data are contained in a zip file (674Mb) that you will have to unzip and save in your working directory, or amend the path in the R script. The data used in this tutorial should be used for a training purpose only.
 NOTE: This tutorial is a work-in-progress and I am expecting to maintain, edit and update the script to improve and add new material.</description>
     </item>
