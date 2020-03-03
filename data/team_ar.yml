@@ -40,11 +40,11 @@ members  :
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
-  - name  : Natach Chacoff
-    image : images/team/anonymous.jpg
-    designation : Ecologist (National University of Tucuman)
-    #description : Carlos works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
+  - name  : Natacha Chacoff
+    image : images/team/natacha_chacoff.png
+    designation : Pollination ecologist (Instituto de Ecología Regional (UNT-CONICET)
+    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination service. 
+    twitter     : https://twitter.com/ChacoffNatacha
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Leonardo Galetto
