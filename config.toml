@@ -67,6 +67,20 @@ canonifyURLs = true
         content = "SURPASS is an international partnership between Argentina, Brazil, Chile and the UK, working on pollinators and pollination services in South America. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation and sustainable use of pollinators. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes."
         image   = "images/about/about.jpg"
 
+    # Homepage Funding Section
+    [params.partners]  
+        enable  = true
+        title   = "Funding"
+        subtitle = "UK - Argentina - Chile - Brazil"
+    [[params.partners.partnersLogo]]
+            image = "images/partners/UKRI_NER_Council-Logo.png"
+    [[params.partners.partnersLogo]]
+            image = "images/partners/conicet_scale.png"
+    [[params.partners.partnersLogo]]
+            image = "images/partners/conicyt_wide.png"
+    [[params.partners.partnersLogo]]
+            image = "images/partners/fapesp_scale.png"
+
     # # Call to Action
     # [params.cta]
     #     enable  = true
