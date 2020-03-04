@@ -19,12 +19,12 @@ members  :
     #website : https://www.ceh.ac.uk/staff/reto-schmucki
     #twitter : https://www.twitter.com/SchmuckiReto
 
-  - name  : Eduardo E. Zattara
-    image : images/team/anonymous.jpg
-    designation : Ecologist (INIBIOMA - CONICET)
-    #description : Gaston works on 
+  - name  : Eduardo Zattara
+    image : images/team/edZattara.png
+    designation : Integrative biologist  (INIBIOMA - CONICET)
+    description : Ed works on the modulation of developmental evolution by ecology.
     #website : https://www.ceh.ac.uk/staff/claire-carvell
-    #twitter : https://twitter.com/Claire_Carvell
+    twitter : https://twitter.com/ezattara
 
   - name  : Carolina L. Morales
     image : images/team/anonymous.jpg
