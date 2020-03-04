@@ -23,8 +23,10 @@ members  :
     image : images/team/edZattara.png
     designation : Integrative biologist  (INIBIOMA - CONICET)
     description : Ed works on the modulation of developmental evolution by ecology.
-    #website : https://www.ceh.ac.uk/staff/claire-carvell
     twitter : https://twitter.com/ezattara
+    #website : https://www.ceh.ac.uk/staff/claire-carvell
+
+    
 
   - name  : Carolina L. Morales
     image : images/team/anonymous.jpg
