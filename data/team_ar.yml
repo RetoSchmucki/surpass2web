@@ -23,8 +23,11 @@ members  :
     image : images/team/EdZattara2.png
     designation : Integrative biologist (INIBIOMA - CONICET)
     description : Ed works on the modulation of developmental evolution by ecology.
+    website : https://sites.google.com/view/ecopol/miembros-del-grupo/eduardo-zattara
     twitter : https://twitter.com/ezattara
-    website : https://www.researchgate.net/profile/Eduardo_Zattara
+    researchgate: https://www.researchgate.net/profile/Eduardo_Zattara
+    orcid: https://orcid.org/0000-0002-9947-9036
+    googlescholar: https://scholar.google.com/citations?hl=fr&user=tOS9plIAAAAJ
     
 
   - name  : Carolina L. Morales
@@ -46,6 +49,9 @@ members  :
     designation : Pollination ecologist (Instituto de Ecología Regional UNT-CONICET)
     description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services. 
     twitter     : https://twitter.com/ChacoffNatacha
+    researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
+    orcid: 
+    googlescholar: https://scholar.google.com/citations?user=rxJBqGcAAAAJ&hl=fr
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Leonardo Galetto

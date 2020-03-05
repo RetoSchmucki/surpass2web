@@ -19,7 +19,7 @@ members  :
     website : https://www.ceh.ac.uk/staff/reto-schmucki
     twitter : https://www.twitter.com/SchmuckiReto
     researchgate: https://www.researchgate.net/profile/Reto_Schmucki
-    orid: https://orcid.org/0000-0003-3064-7553
+    orcid: https://orcid.org/0000-0003-3064-7553
     googlescholar: https://scholar.google.ca/citations?user=SVm6CkgAAAAJ&hl=en
 
   - name  : Claire Carvell
@@ -29,12 +29,14 @@ members  :
     website : https://www.ceh.ac.uk/staff/claire-carvell
     twitter : https://twitter.com/Claire_Carvell
 
+
   - name  : Ben Woodcock
     image : images/team/BenWoodcock2.png
     designation : Ecological Entomologist (UKCEH)
     description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities and trade-offs between plant and invertebrates communities.
-    #twitter     : https://www.twitter.com/SchmuckiReto
     website : https://www.ceh.ac.uk/staff/ben-woodcock
+    orcid: https://orcid.org/0000-0003-0300-9951
+    googlescholar: https://scholar.google.ca/citations?hl=en&user=u4JXDGEAAAAJ
 
   - name  : Dan Morton
     image : images/team/dan_morton2.jpg
@@ -49,7 +51,8 @@ members  :
     description : Jeff works on the insect pollinators and functional biodiversity of pollinator assemblages.
     twitter : https://twitter.com/JeffOllerton
     website : https://jeffollerton.wordpress.com/
-    #researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
+    researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
+    googlescholar: https://scholar.google.com/citations?hl=fr&user=pGS18ZgAAAAJ
 
   - name  : Juliet Osborne
     image : images/team/anonymous.jpg
