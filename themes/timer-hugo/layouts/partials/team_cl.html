@@ -56,6 +56,16 @@
                             <i class="ai ai-google-scholar-square ai-lg"></i>
                         </a>
                         {{ end }}
+                        {{ with .publons }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ai ai-publons-square ai-lg"></i>
+                        </a>
+                        {{ end }}
+                        {{ with .publons }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ai ai-publons-square ai-lg"></i>
+                        </a>
+                        {{ end }}
                         {{ with .orcid }}
                         <a href="{{ . }}" target="_blank">
                             <i class="ai ai-orcid-square ai-lg"></i>
