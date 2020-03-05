@@ -21,8 +21,8 @@
                     <p class="social-icons">
                         {{ with .website }}
                         <a href="{{ . }}" target="_blank">
-                             <i class="ion-information-circled"></i>
-                             <!-- <ion-icon name="globe"></ion-icon> -->
+                            <i class="ion-information-circled"></i>
+                            <!-- <ion-icon name="globe"></ion-icon> -->
                         </a>
                         {{ end }}
                         {{ with .facebook }}
@@ -43,6 +43,16 @@
                         {{ with .googleplus }}
                         <a href="{{ . }}" target="_blank">
                             <i class="ion-social-googleplus-outline"></i>
+                        </a>
+                        {{ end }}
+                        {{ with .github }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ion-social-github-outline"></i>
+                        </a>
+                        {{ end }}
+                        {{ with .wordpress }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ion-social-wordpress-outline"></i>
                         </a>
                         {{ end }}
                         {{ with .researchgate }}
