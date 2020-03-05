@@ -41,16 +41,6 @@
                             <i class="ion-social-linkedin-outline"></i>
                         </a>
                         {{ end }}
-                        {{ with .googleplus }}
-                        <a href="{{ . }}" target="_blank">
-                            <i class="ion-social-googleplus-outline"></i>
-                        </a>
-                        {{ end }}
-                        {{ with .github }}
-                        <a href="{{ . }}" target="_blank">
-                            <i class="ion-social-github-outline"></i>
-                        </a>
-                        {{ end }}
                         {{ with .wordpress }}
                         <a href="{{ . }}" target="_blank">
                             <i class="ion-social-wordpress-outline"></i>
@@ -61,14 +51,19 @@
                             <i class="ai ai-researchgate-square ai-lg"></i>
                         </a>
                         {{ end }}
+                        {{ with .googlescholar }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ai ai-google-scholar-square ai-lg"></i>
+                        </a>
+                        {{ end }}
                         {{ with .orcid }}
                         <a href="{{ . }}" target="_blank">
                             <i class="ai ai-orcid-square ai-lg"></i>
                         </a>
                         {{ end }}
-                        {{ with .googlescholar }}
+                        {{ with .github }}
                         <a href="{{ . }}" target="_blank">
-                            <i class="ai ai-google-scholar-square ai-lg"></i>
+                            <i class="ion-social-github-outline"></i>
                         </a>
                         {{ end }}
                     </p>
