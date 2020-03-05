@@ -3,14 +3,13 @@ title   : SURPASS partners in Chile
 members  :
 
   - name  : Francisco E. Fonturbel
-    image : images/team/anonymous.jpg
+    image : images/team/fonturbel2.png
     designation : Ecologist (Pontificia Universidad Católica de Valparaíso)
-    #description : Francisco works on 
-    #website : https://www.ceh.ac.uk/staff/france-gerard
-    #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
-    #facebook    : https://www.fb.com/themefisher
-    #twitter     : https://www.twitter.com/themefisher
-    #googleplus  : https://plus.google.com/themefisher
+    description : Francisco works on plant-animal interactions (particularly pollination and seed dispersal), habitat disturbance, and global change, to understand its eco-evolutionary dynamics.
+    website : https://sites.google.com/site/ecoevolutionary/
+    github: https://github.com/fonturbel
+    orcid: https://orcid.org/0000-0001-8585-2816
+
 
   - name  : Lorena Vieli
     image : images/team/anonymous.jpg
@@ -26,12 +25,12 @@ members  :
     #website : https://www.ceh.ac.uk/staff/claire-carvell
     #twitter : https://twitter.com/Claire_Carvell
 
-  - name  : Maureen Murúa
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidad Mayor)
-    #description : Maureen works on
-    #twitter     : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+  - name  : Maureen Murúa Ibarra
+    image : images/team/murua3.png
+    designation : Evolutionary Ecologist (Universidad Mayor)
+    description : Maureen works on the evolutionary ecology of plant-animal interactions with a strong interest in the processes and mechanisms that underlie plants-pollinator relationships.
+    twitter     : https://www.twitter.com/MaureenMurua
+    website : https://maureenmurua.wordpress.com/
 
   - name  : Luis Flores Prado
     image : images/team/anonymous.jpg

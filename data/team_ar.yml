@@ -38,16 +38,18 @@ members  :
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Agustin Saez
-    image : images/team/anonymous.jpg
+    image : images/team/agustin_saez2.png
     designation : Ecologist (Universidad Nacional del Comahue - CONICET)
-    #description : Luis works on 
+    description : Agustin works on applied pollination ecology and pollination services in agricultural systems.
     #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    researchgate : https://www.researchgate.net/profile/Agustin_Saez
+    academia: https://independent.academia.edu/Agust%C3%ADnS%C3%A1ez
+    googlescholar: https://scholar.google.com/citations?user=Ry-MHpQAAAAJ&hl=en
 
   - name  : Natacha Chacoff
     image : images/team/natacha_chacoff.png
     designation : Pollination Ecologist (Instituto de Ecología Regional UNT-CONICET)
-    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services. 
+    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services.
     twitter     : https://twitter.com/ChacoffNatacha
     researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
     orcid: 
