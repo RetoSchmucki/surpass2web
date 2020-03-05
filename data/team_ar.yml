@@ -3,14 +3,14 @@ title   : SURPASS partners in Argentina
 members  :
 
   - name  : Marcelo A. Aizen
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidad Nacional del Comahue - CONICET)
-    #description : Francisco works on 
+    image : images/team/marcelo_aizen.jpg
+    designation : Pollination Biologist (Universidad Nacional del Comahue - CONICET)
+    description : Marcelo works on plant reproductive ecology, plant-pollinator interactions and the consequences of invasive species on native biota and agriculture.
     #website : https://www.ceh.ac.uk/staff/france-gerard
-    #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
-    #facebook    : https://www.fb.com/themefisher
-    #twitter     : https://www.twitter.com/themefisher
-    #googleplus  : https://plus.google.com/themefisher
+    orcid  : https://orcid.org/0000-0001-9079-9749  
+    researchgate    : https://www.researchgate.net/profile/Marcelo_Aizen 
+    twitter     : https://twitter.com/marcelo_aizen
+    googlescholar  : https://scholar.google.com/citations?user=PlIGRS0AAAAJ&hl=es  
 
   - name  : Marina Arbetman
     image : images/team/anonymous.jpg
@@ -21,7 +21,7 @@ members  :
 
   - name  : Eduardo Zattara
     image : images/team/EdZattara2.png
-    designation : Integrative biologist (INIBIOMA - CONICET)
+    designation : Integrative Biologist (INIBIOMA - CONICET)
     description : Ed works on the modulation of developmental evolution by ecology.
     website : https://sites.google.com/view/ecopol/miembros-del-grupo/eduardo-zattara
     twitter : https://twitter.com/ezattara
@@ -46,7 +46,7 @@ members  :
 
   - name  : Natacha Chacoff
     image : images/team/natacha_chacoff.png
-    designation : Pollination ecologist (Instituto de Ecología Regional UNT-CONICET)
+    designation : Pollination Ecologist (Instituto de Ecología Regional UNT-CONICET)
     description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services. 
     twitter     : https://twitter.com/ChacoffNatacha
     researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
