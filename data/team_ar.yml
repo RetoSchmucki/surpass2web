@@ -30,12 +30,14 @@ members  :
     googlescholar: https://scholar.google.com/citations?hl=fr&user=tOS9plIAAAAJ
     github: https://github.com/ezattara
 
-  - name  : Carolina L. Morales
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Centro Científico Tecnológico Conicet Comahue)
-    #description : Maureen works on
-    #twitter     : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+  - name  : Carolina Laura Morales
+    image : images/team/carolina_morales.png
+    designation : Pollination and Bee Ecologist (Centro Científico Tecnológico Conicet Comahue)
+    description : Carolina works on pollination and bee ecology with emphasis on the link between invasive alien species, conservation of biodiversity and pollination services.
+    academia : https://inibioma.academia.edu/CarolinaLauraMorales
+    researchgate : https://www.researchgate.net/profile/Carolina_Morales
+    googlescholar : https://scholar.google.com/citations?user=UL_jwxUAAAAJ&hl=es&oi=ao
+
 
   - name  : Agustin Saez
     image : images/team/agustin_saez2.png
