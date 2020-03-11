@@ -13,11 +13,15 @@ members  :
     #googleplus  : https://plus.google.com/themefisher
 
   - name  : Kayna Agostini
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade Federal de São Carlos)
-    #description : Lorena works on 
-    #website : https://www.ceh.ac.uk/staff/reto-schmucki
-    #twitter : https://www.twitter.com/SchmuckiReto
+    image : images/team/kayna_agostini.png
+    designation : Pollination Biologist (Universidade Federal de São Carlos)
+    description : Kayna works on pollination biology and ecosystem services in urban and agricultural areas. 
+    linkedIn : https://www.linkedin.com/in/kayna-agostini
+    #facebook    : https://www.fb.com/kayna.agostini
+    #instagram  : https://www.instagram.com/kaynaagostini
+    twitter : https://www.twitter.com/AgostiniKayna
+    googlescholar : https://scholar.google.com.br/citations?user=4xd-rdoAAAAJ&hl=pt-BR
+
 
   - name  : Tiago Mauricio Francoy
     image : images/team/anonymous.jpg
@@ -27,7 +31,7 @@ members  :
     #twitter : https://twitter.com/Claire_Carvell
 
   - name  : Bruno de Carvalho Albertini
-    image : images/team/anonymous.jpg
+    image : images/team/bruno_albertini.png
     designation : Ecologist (Universidade de São Paulo)
     #description : Maureen works on
     #twitter     : https://www.twitter.com/SchmuckiReto
