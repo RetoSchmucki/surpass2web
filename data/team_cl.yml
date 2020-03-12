@@ -18,12 +18,13 @@ members  :
     #website : https://www.ceh.ac.uk/staff/reto-schmucki
     #twitter : https://www.twitter.com/SchmuckiReto
 
-  - name  : Gaston Carvallo
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Pontificia Universidad Católica de Valparaíso)
-    #description : Gaston works on 
-    #website : https://www.ceh.ac.uk/staff/claire-carvell
-    #twitter : https://twitter.com/Claire_Carvell
+  - name  : Gastón  Carvallo
+    image : images/team/gaston_carvallo.png
+    designation : Researcher in plant ecology and evolution (Pontificia Universidad Católica de Valparaíso)
+    description : Gastón works in pollination ecology and phylogenetic diversity of angiosperms.
+    website : https://www.ecologiavegetal.cl
+    twitter : https://twitter.com/ecologiavegetal
+    googlescholar : https://scholar.google.com/citations?user=GbPdJO4AAAAJ&hl=en
 
   - name  : Maureen Murúa Ibarra
     image : images/team/murua3.png
