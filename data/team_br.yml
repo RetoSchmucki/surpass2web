@@ -54,12 +54,17 @@ members  :
     researchgate: https://www.researchgate.net/profile/Patricia_Nunes-Silva
     orcid: https://orcid.org/0000-0002-9215-9822
 
-  - name  : Natália Pirani Ghilardi-Lopes
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade Federal do ABC)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+  - name  : Natalia P. Ghilardi-Lopes
+    image : images/team/natalia_ghilardi.png
+    designation : Marine Ecologist and Environmental Educator (Universidade Federal do ABC)
+    description : Natalia works on environmental education and citizen science for ocean conservation.
+    website: http://professor.ufabc.edu.br/~natalia.lopes/cienciacidada/
+    researchgate: https://www.researchgate.net/profile/Natalia_Ghilardi-Lopes
+    googlescholar: https://scholar.google.com.br/citations?user=9Ulbz_UAAAAJ&hl=pt-BR
+    academia: https://ufabc-br.academia.edu/NPiraniGhilardiLopes
+    orcid: https://orcid.org/0000-0001-6213-8871
+    publons: https://publons.com/researcher/2725188/natalia-p-ghilardi-lopes/
+
 
   - name  : Sheina Koffler
     image : images/team/anonymous.jpg
