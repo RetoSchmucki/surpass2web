@@ -37,13 +37,6 @@ members  :
     #twitter     : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
-  - name  : Allan Koch Veiga
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade de São Paulo)
-    #description : Luis works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
   - name  : Betina Blochtein
     image : images/team/anonymous.jpg
     designation : Ecologist (Pontifícia Universidade Católica do Rio Grande do Sul)
@@ -51,62 +44,15 @@ members  :
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
-  - name  : Andre Rodrigo Rech
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade Federal dos Vales do Jequitinhonha e Mucuri)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-  - name  : Particia Nunes Silva
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade do Vale dos Sinos)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-
-  - name  : Charles Fernando dos Santos
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade de São Paulo)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-  - name  : Etienne Américo Cartolano Júnior
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade de São Paulo)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-  - name  : Isabela Galarda Varassin
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade Federal do Paraná)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-  - name  : Leandro Freitas
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Jardim Botânico do Rio de Janeiro)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-  - name  : Márcia Motta Maués
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Embrapa Amazônia Oriental)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-  - name  : Marina Wolowski Torres
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade Federal de Alfenas)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+  - name  : Patricia Nunes-Silva
+    image : images/team/partricia_nunes.png
+    designation : Bee and Pollination Ecologist (Universidade do Vale dos Sinos)
+    description : Patricia works on bee behavioral ecology and pollination on agricultural areas.
+    linkedin: https://www.linkedin.com/in/patrícia-nunes-silva-40113b40 
+    instagram : https://www.instagram.com/patricians/
+    twitter : https://www.twitter.com/patriciabelhuda
+    researchaate: https://www.researchgate.net/profile/Patricia_Nunes-Silva
+    orcid: https://orcid.org/0000-0002-9215-9822
 
   - name  : Natália Pirani Ghilardi-Lopes
     image : images/team/anonymous.jpg
@@ -122,19 +68,16 @@ members  :
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
-  - name  : José Augusto Salim 
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade de São Paulo)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
-
-  - name  : Nicolay Leme da Cunha 
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade Federal de São Carlos)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+  - name  : Nicolay Cunha 
+    image : images/team/nicolay_cunha.png
+    designation : Evolution biologist (Universidade Federal de São Carlos)
+    description : Nicolay works on plant reproduction and pollination biology in natural and agricultural areas.
+    website : https://sites.google.com/view/ecopol/home
+    twitter : https://www.twitter.com/nicolaycunha
+    researchgate: https://www.researchgate.net/profile/Nicolay_Leme_da_Cunha
+    googlescholar: https://scholar.google.com.br/citations?user=RvAg_LsAAAAJ&hl=en
+    publons: https://publons.com/researcher/959508/nicolay-leme-da-cunha/
+    orcid: https://orcid.org/0000-0001-5509-6757
 
   - name  : Rodrigo Yoiti Tsukahara 
     image : images/team/anonymous.jpg
