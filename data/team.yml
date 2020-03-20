@@ -17,11 +17,11 @@ members  :
     description : Reto works on the impact of global changes on species distribution, plant-insect interactions and the mechanisms that structure biological diversity across scales.
     website : https://www.ceh.ac.uk/staff/reto-schmucki
     twitter : https://www.twitter.com/SchmuckiReto
-    researchgate: https://www.researchgate.net/profile/Reto_Schmucki
-    orcid: https://orcid.org/0000-0003-3064-7553
+    # researchgate: https://www.researchgate.net/profile/Reto_Schmucki
+    # orcid: https://orcid.org/0000-0003-3064-7553
     googlescholar: https://scholar.google.ca/citations?user=SVm6CkgAAAAJ&hl=en
     github: https://github.com/RetoSchmucki
-    publons: https://publons.com/researcher/461487/reto-schmucki/
+    # publons: https://publons.com/researcher/461487/reto-schmucki/
 
   - name  : Claire Carvell
     image : images/team/ClaireCarvell.png
