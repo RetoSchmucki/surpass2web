@@ -67,11 +67,14 @@ members  :
 
 
   - name  : Sheina Koffler
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade de São Paulo)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    image : images/team/sheina_koffler.png
+    designation : Biologist (Universidade de São Paulo)
+    description : Sheina works on bee evolutionary ecology and citizen science for pollinator monitoring.
+    researchgate : https://www.researchgate.net/profile/Sheina_Koffler
+    googlescholar : https://scholar.google.com.br/citations?user=XEJinUMAAAAJ&hl=pt-BR
+    orcid : http://orcid.org/0000-0002-1126-8999 
+    publons : https://publons.com/researcher/1186758/sheina-koffler/
+
 
   - name  : Nicolay Cunha 
     image : images/team/nicolay_cunha.png
