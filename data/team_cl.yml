@@ -16,7 +16,7 @@ members  :
     designation : Ecologist (Universidad de La Frontera)
     #description : Lorena works on 
     #website : https://www.ceh.ac.uk/staff/reto-schmucki
-    #twitter : https://www.twitter.com/SchmuckiReto
+    researchgate : https://www.researchgate.net/profile/Lorena_Vieli2
 
   - name  : Gastón  Carvallo
     image : images/team/gaston_carvallo.png
@@ -45,11 +45,18 @@ members  :
     designation : Ecologist (Universidad de Los Lagos)
     #description : Carlos works on 
     #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    researchgate : https://www.researchgate.net/profile/Carlos_Valdivia7
 
   - name  : Cecilia Smith-Ramirez
     image : images/team/anonymous.jpg
     designation : Ecologist (Universidad de Los Lagos)
     #description : Cecilia works on 
     #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    researchgate : https://www.researchgate.net/profile/Cecilia_Smith-Ramirez
+
+  - name  : Rodrigo Barahona-Segovia
+    image : images/team/anonymous.jpg
+    designation : Ecologist (Universidad de Los Lagos)
+    #description : Cecilia works on 
+    #twitter : https://www.twitter.com/SchmuckiReto
+    researchgate : https://www.researchgate.net/profile/Rodrigo_Barahona-Segovia2
