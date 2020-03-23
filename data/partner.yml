@@ -1,6 +1,6 @@
 enable  : true
 title   : Funding
-subtitle: "UK - Argentina - Chile - Brazil"
+subtitle: "[Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/), awarded by by the [UKRI NERC](https://nerc.ukri.org/), in partnership with the [CONICET](https://www.conicet.gov.ar/), [CONICYT](https://www.conicyt.cl/), and [FAPESP](http://www.fapesp.br/en/)."
 partnersLogo:
   - image : images/partners/UKRI_NER_Council-Logo.png
   - image : images/partners/conicet_scale.png
