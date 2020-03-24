@@ -11,7 +11,7 @@ image   : images/about/planning.jpg
 aboutItem:
   - title : Funding
     description: > 
-      The SURPASS2 project is funded under the [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), in partnership with the Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), and Chile National Commission for Scientific and Technological Research [(CONICYT)](https://www.conicyt.cl/). Grant references: [NERC: NE/S011870/1](http://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FS011870%2F2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - CONICYT: NE/S011870/1.
+      The SURPASS2 project is funded under the [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), in partnership with the Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), and Chile National Commission for Scientific and Technological Research [(CONICYT)](https://www.conicyt.cl/). Grant references: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - CONICYT: NE/S011870/1.
 
   # - title : Meet The Energy
   #   description: >
