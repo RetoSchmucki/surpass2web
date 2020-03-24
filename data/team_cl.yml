@@ -12,10 +12,10 @@ members  :
 
 
   - name  : Lorena Vieli
-    image : images/team/anonymous.jpg
+    image : images/team/lorena_vieli.png
     designation : Ecologist (Universidad de La Frontera)
-    #description : Lorena works on 
-    #website : https://www.ceh.ac.uk/staff/reto-schmucki
+    description : Lorena's research is on pollination ecology in agricultural landscapes and their impact on pollinator dependent crops. 
+    googlescholar : https://scholar.google.com/citations?user=LHNXo5wAAAAJ&hl=es
     researchgate : https://www.researchgate.net/profile/Lorena_Vieli2
 
   - name  : Gastón  Carvallo
