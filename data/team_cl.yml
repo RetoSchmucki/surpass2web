@@ -48,11 +48,13 @@ members  :
     researchgate : https://www.researchgate.net/profile/Carlos_Valdivia7
 
   - name  : Cecilia Smith-Ramirez
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidad de Los Lagos)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
+    image : images/team/cecilia_smith.png
+    designation : Conservation biologist (Universidad de Los Lagos)
+    description : Cecilia works on applied conservation and impact of invasive species and habitat loss on biodiversity and provision of ecosystem services in rural communities. 
+    googlescholar : https://scholar.google.es/citations?user=a2kIjrIAAAAJ&hl=es&oi=ao
     researchgate : https://www.researchgate.net/profile/Cecilia_Smith-Ramirez
+    orcid : https://orcid.org/0000-0002-8099-2673
+    academia : https://independent.academia.edu/CeciliaSmithRamirez
 
   - name  : Rodrigo Barahona-Segovia
     image : images/team/anonymous.jpg
