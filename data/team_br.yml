@@ -17,18 +17,19 @@ members  :
     designation : Pollination Biologist (Universidade Federal de São Carlos)
     description : Kayna works on pollination biology and ecosystem services in urban and agricultural areas. 
     linkedIn : https://www.linkedin.com/in/kayna-agostini
-    #facebook    : https://www.fb.com/kayna.agostini
     #instagram  : https://www.instagram.com/kaynaagostini
     twitter : https://www.twitter.com/AgostiniKayna
     googlescholar : https://scholar.google.com.br/citations?user=4xd-rdoAAAAJ&hl=pt-BR
 
 
   - name  : Tiago Mauricio Francoy
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidade de São Paulo)
-    #description : Gaston works on 
-    #website : https://www.ceh.ac.uk/staff/claire-carvell
-    #twitter : https://twitter.com/Claire_Carvell
+    image : images/team/tiago_francoy.png
+    designation : Bee genetics and conservation (Universidade de São Paulo)
+    description : Tiago works on population genetics, genomics, conservation and biotechnological use of bee products.
+    googlescholar : https://scholar.google.com/citations?hl=en&user=FS_lFg0AAAAJ
+    twitter : https://www.twitter.com/tiagofrancoy
+    researchgate : https://www.researchgate.net/profile/Tiago_Francoy
+    website : http://each.uspnet.usp.br/web/prof/francoy/
 
   - name  : Bruno de Carvalho Albertini
     image : images/team/bruno_albertini.png
