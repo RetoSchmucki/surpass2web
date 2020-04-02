@@ -88,11 +88,13 @@ members  :
     publons: https://publons.com/researcher/959508/nicolay-leme-da-cunha/
     orcid: https://orcid.org/0000-0001-5509-6757
 
-  - name  : Rodrigo Yoiti Tsukahara 
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Fundação ABC)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+  - name : Rodrigo Yoiti Tsukahara 
+    image : images/team/rodrigo_tsukahara.png
+    designation : Agrometeorologist and crop-modeller (Fundação ABC)
+    description : Rodrigo works in agrometeorological instrumentation and crop modelling, decision support systems and data analysis in agricultural experimentation.
+    website : http://lattes.cnpq.br/7602310105303724
+    orcid : https://orcid.org/0000-0001-5926-2847
+    researchgate : https://www.researchgate.net/profile/Rodrigo_Tsukahara
+    googlescholar : https://scholar.google.com.br/citations?user=ZYL2XmYAAAAJ&hl=pt-BR
 
 
