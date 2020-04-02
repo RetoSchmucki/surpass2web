@@ -4,7 +4,7 @@ members  :
 
   - name  : Antonio Mauro Saraiva
     image : images/team/antonio_saraiva.png
-    designation : Agricultural Engineer (Universidade de São Paulo)
+    designation : Electrical engineer & agronomist (Universidade de São Paulo)
     description : Antonio works on the application of techniques and tools of information and communication technologies to agriculture, biodiversity and global health.
     website : http://www.pcs.usp.br/~amsaraiv
     #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
@@ -33,10 +33,17 @@ members  :
 
   - name  : Bruno de Carvalho Albertini
     image : images/team/bruno_albertini.png
-    designation : Ecologist (Universidade de São Paulo)
-    #description : Maureen works on
-    #twitter     : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    designation : Computer Engineer (Universidade de São Paulo)
+    description : Bruno works on applying technology for environment conservation and supporting citizen science initiatives.
+    website : https://balbertini.github.io/
+    linkedIn : https://www.linkedin.com/in/bruno-albertini-b7baa58/
+    facebook : https://www.facebook.com/balbertini
+    instagram : bc.albertini
+    researchid : http://www.researcherid.com/rid/J-5779-2013
+    lattes: http://lattes.cnpq.br/2729012989571213
+    publons: https://publons.com/a/1399880
+    orcid: http://orcid.org/0000-0003-3738-6448
+
 
   - name  : Betina Blochtein
     image : images/team/anonymous.jpg
@@ -50,7 +57,7 @@ members  :
     designation : Bee and Pollination Ecologist (Universidade do Vale do Rio dos Sinos)
     description : Patricia works on bee behavioral ecology and pollination on agricultural areas.
     linkedIn: https://www.linkedin.com/in/patrícia-nunes-silva-40113b40 
-    instagram : https://www.instagram.com/patricians/
+    #instagram : https://www.instagram.com/patricians/
     twitter : https://www.twitter.com/patriciabelhuda
     researchgate: https://www.researchgate.net/profile/Patricia_Nunes-Silva
     orcid: https://orcid.org/0000-0002-9215-9822
@@ -90,9 +97,9 @@ members  :
 
   - name : Rodrigo Yoiti Tsukahara 
     image : images/team/rodrigo_tsukahara.png
-    designation : Agrometeorologist and crop-modeller (Fundação ABC)
+    designation : Agrometeorologist (Fundação ABC)
     description : Rodrigo works in agrometeorological instrumentation and crop modelling, decision support systems and data analysis in agricultural experimentation.
-    website : http://lattes.cnpq.br/7602310105303724
+    lattes : http://lattes.cnpq.br/7602310105303724
     orcid : https://orcid.org/0000-0001-5926-2847
     researchgate : https://www.researchgate.net/profile/Rodrigo_Tsukahara
     googlescholar : https://scholar.google.com.br/citations?user=ZYL2XmYAAAAJ&hl=pt-BR

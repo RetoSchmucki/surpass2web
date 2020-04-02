@@ -61,6 +61,16 @@
                             <i class="ai ai-academia-square ai-lg"></i>
                         </a>
                         {{ end }}
+                        {{ with .lattes }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ai ai-lattes-square ai-lg"></i>
+                        </a>
+                        {{ end }}
+                        {{ with .researcherid }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ai ai-researcherid-square ai-lg"></i>
+                        </a>
+                        {{ end }}
                         {{ with .publons }}
                         <a href="{{ . }}" target="_blank">
                             <i class="ai ai-publons-square ai-lg"></i>
