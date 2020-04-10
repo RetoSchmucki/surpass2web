@@ -61,11 +61,13 @@ members  :
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Leonardo Galetto
-    image : images/team/anonymous.jpg
-    designation : Ecologist (National University of Cordoba)
-    #description : Cecilia works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    image : images/team/leonardo_galleto.png
+    designation : Community & Conservation Ecologist (National University of Cordoba)
+    description : Leonardo works on species interactions with a focused on the impact of habitat loss and fragmentation on biodiversity and ecosystem services in agricultural systems.
+    researchgate: https://www.researchgate.net/profile/Leonardo_Galetto
+    googlescholar : https://scholar.google.com/citations?user=5FmsH3EAAAAJ&hl=en&oi=sra
+    publons: https://publons.com/researcher/1516711/leonardo-galetto/
+    orcid: https://orcid.org/0000-0003-3828-657X
 
   - name  : Mariano Devoto
     image : images/team/mariano_devoto.png
