@@ -34,16 +34,18 @@ members  :
     website : https://maureenmurua.wordpress.com/
 
   - name  : Luis Flores Prado
-    image : images/team/anonymous.jpg
-    designation : Ecologist (Universidad Metropolitana de Ciencias de la Educación)
-    #description : Luis works on 
-    #twitter : https://www.twitter.com/SchmuckiReto
-    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+    image : images/team/luis_flores2.png
+    designation : Behavioural Ecologist & Entomologist (Universidad Metropolitana de Ciencias de la Educación)
+    description : Luis works on behavioural ecology of insects, particularly studying bee-plant interactions, use of resources and sociability in insects.
+    website: http://www.umce.cl/index.php/ientomologia-equipo-academico?id=1076
+    linkedIn: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+    researchgate: https://www.researchgate.net/scientific-contributions/2033353451_Luis_Flores-Prado
+
 
   - name  : Carlos Valdivia
-    image : images/team/anonymous.jpg
+    image : images/team/carlos_valdivia.png
     designation : Ecologist (Universidad de Los Lagos)
-    #description : Carlos works on 
+    description : Carlos works on pollination and seed dispersal
     #twitter : https://www.twitter.com/SchmuckiReto
     researchgate : https://www.researchgate.net/profile/Carlos_Valdivia7
 

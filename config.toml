@@ -106,3 +106,27 @@ canonifyURLs = true
     #     [[params.footer.socialIcon]]
     #         icon = "ion-social-instagram"
     #         url = "#"
+
+DefaultContentLanguage = "en-us"
+
+[languages]
+
+  [languages.en]
+    weight = 1
+
+  [languages.fr]
+    [languages.fr.menu]
+        [[languages.fr.menu.nav]]
+        name    = "A Propos"
+        url     = "about"
+        weight  = 2
+
+    [languages.fr.params.banner]
+        heading = "Sauvegard des Pollinisateurs et des Services de Pollinisation"
+        description = "Des écosystèmes sains et résilients sont à la base du bien-être et de la qualité de vie de l'homme. Les pollinisateurs contribuent à la reproduction des plantes dans les écosystèmes naturels et gérés, ce qui soutient la sécurité alimentaire, les économies locales et nationales, et offre une plus grande biodiversité et des avantages pour les écosystèmes."
+        [[languages.fr.params.banner.flipText]]
+            title   = "DURABILITE"
+        [[languages.fr.params.banner.flipText]]
+            title   = "POLLINISATION"
+        [[languages.fr.params.banner.flipText]]
+            title   = "AGRICULTURE"
