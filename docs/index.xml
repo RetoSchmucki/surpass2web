@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>surpass</title>
-    <link>/surpass2web/</link>
+    <link>https://retoschmucki.github.io/surpass2web/</link>
     <description>Recent content on surpass</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/surpass2web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retoschmucki.github.io/surpass2web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/surpass2web/blog/2015-07-23-r-rmarkdown/</link>
+      <link>https://retoschmucki.github.io/surpass2web/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see https://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -24,66 +24,66 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>bravo</title>
-      <link>/surpass2web/blog/2018-09-26-bravo/</link>
+      <link>https://retoschmucki.github.io/surpass2web/blog/2018-09-26-bravo/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/blog/2018-09-26-bravo/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/blog/2018-09-26-bravo/</guid>
       <description>We are launching SURPASS project website with some new references!</description>
     </item>
     
     <item>
       <title>Insect Pollinator Monitoring</title>
-      <link>/surpass2web/portfolio/wp1_monitoring/</link>
+      <link>https://retoschmucki.github.io/surpass2web/portfolio/wp1_monitoring/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/portfolio/wp1_monitoring/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/portfolio/wp1_monitoring/</guid>
       <description>Monitoring the status and trends of pollinators and pollination services Evidence of large-scale declines in pollinators exists in North America and Europe, yet relatively little is known of their status and trends in South America. A robust monitoring approach is critical to increase the evidence base for understanding threats to animal pollinators and underpin policies for their sustainable management and conservation.
  In the UK, CEH has led the development of a National Pollinator and Pollination Monitoring Framework, which is currently implementing the UK Pollinator Monitoring Scheme using a combination of volunteer citizen science and professionally led surveys.</description>
     </item>
     
     <item>
       <title>Crop Pollination</title>
-      <link>/surpass2web/portfolio/wp2_experiment/</link>
+      <link>https://retoschmucki.github.io/surpass2web/portfolio/wp2_experiment/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/portfolio/wp2_experiment/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/portfolio/wp2_experiment/</guid>
       <description>WP2 Assess the impacts of landscape intensification and context on pollinator abundance and behaviour Agricultural expansion and intensification have been linked with losses of pollinators and pollination, and although multiple pressures interact, habitat clearance and deterioration are considered the most important drivers of these effects. Effective monitoring of populations and their impact on pollination services is thus a crucial part of validating the cost of such management. In WP2 of the SURPASS project we are looking at the how wild insects, principally bees, provide key pollination services to a range of crops in Argentina, Brazil and Chile, and how this is affected by surrounding landscape factors that help support these wild pollinators.</description>
     </item>
     
     <item>
       <title>Landcover Mapping</title>
-      <link>/surpass2web/portfolio/wp3_landcover/</link>
+      <link>https://retoschmucki.github.io/surpass2web/portfolio/wp3_landcover/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/portfolio/wp3_landcover/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/portfolio/wp3_landcover/</guid>
       <description>Mapping Land Cover and Pollination Demand Remote sensing products, ground information and pollination service models will be used to develop land cover maps capable of informing about the distribution of pollination demand. When coupled with functional trait and interaction network models, these maps will help us quantify the demand in pollination services across landscapes and better predict and manage stocks and benefits available. These tools will also help us identify potential mismatches between high demand and low supply of pollination services to allow targeting of interventions (mitigation &amp;amp; conservation).</description>
     </item>
     
     <item>
       <title>Ecosystem Services</title>
-      <link>/surpass2web/portfolio/wp4_modelling/</link>
+      <link>https://retoschmucki.github.io/surpass2web/portfolio/wp4_modelling/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/portfolio/wp4_modelling/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/portfolio/wp4_modelling/</guid>
       <description>Modelling Pollination Services and Insect Populations Managed and wild bees provide important pollination services for many crops. While the demand for pollination has been increasing, bee abundances have been declining in many areas.
 It is important to study how agricultural landscapes affect bee populations and how bees in turn improve the pollination of crops. Understanding these processes in more detail will help us create a win-win situation for farmers and bees.</description>
     </item>
     
     <item>
       <title>Space Shouldn&#39;t Be the Final Frontier</title>
-      <link>/surpass2web/blog/space-shouldnt-be-the-final-frontier/</link>
+      <link>https://retoschmucki.github.io/surpass2web/blog/space-shouldnt-be-the-final-frontier/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>/surpass2web/blog/space-shouldnt-be-the-final-frontier/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/blog/space-shouldnt-be-the-final-frontier/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
     </item>
     
     <item>
       <title>RGIS workshop liverpool</title>
-      <link>/surpass2web/blog/rgis_liverpool_workshop/</link>
+      <link>https://retoschmucki.github.io/surpass2web/blog/rgis_liverpool_workshop/</link>
       <pubDate>Thu, 12 Apr 2018 09:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/blog/rgis_liverpool_workshop/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/blog/rgis_liverpool_workshop/</guid>
       <description>Together with the R script below, you will need to download the data folder available via this link. The data are contained in a zip file (674Mb) that you will have to unzip and save in your working directory, or amend the path in the R script. The data used in this tutorial should be used for a training purpose only.
 NOTE: This tutorial is a work-in-progress and I am expecting to maintain, edit and update the script to improve and add new material.</description>
     </item>
