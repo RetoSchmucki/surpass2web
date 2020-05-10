@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/surpass2web/es/portfolio/wp1_monitoring/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/surpass2web/portfolio/wp1_monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/surpass2web/es/portfolio/wp1_monitoring/"
-                />
-  </url>
-  
-  <url>
-    <loc>/surpass2web/es/portfolio/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/surpass2web/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/surpass2web/es/portfolio/"
-                />
-  </url>
-  
-  <url>
-    <loc>/surpass2web/es/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/surpass2web/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/surpass2web/es/"
-                />
-  </url>
-  
-  <url>
     <loc>/surpass2web/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,6 +13,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="/surpass2web/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/surpass2web/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/surpass2web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/surpass2web/es/"
                 />
   </url>
   
