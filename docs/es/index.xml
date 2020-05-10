@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>surpass2es</title>
+    <link>/surpass2web/es/</link>
+    <description>Recent content on surpass2es</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/surpass2web/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Insect Pollinator Monitoring</title>
+      <link>/surpass2web/es/portfolio/wp1_monitoring/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/surpass2web/es/portfolio/wp1_monitoring/</guid>
+      <description>Monitoring the status and trends of pollinators and pollination services Evidence of large-scale declines in pollinators exists in North America and Europe, yet relatively little is known of their status and trends in South America. A robust monitoring approach is critical to increase the evidence base for understanding threats to animal pollinators and underpin policies for their sustainable management and conservation.
+ In the UK, CEH has led the development of a National Pollinator and Pollination Monitoring Framework, which is currently implementing the UK Pollinator Monitoring Scheme using a combination of volunteer citizen science and professionally led surveys.</description>
+    </item>
+    
+  </channel>
+</rss>
