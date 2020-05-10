@@ -1,7 +1,6 @@
 baseURL = "https://retoschmucki.github.io/surpass2web/"
-#languageCode = "en-us"
-defaultContentLanguage = "en"
-#title = "surpass"
+languageCode = "en-us"
+title = "surpass"
 theme = "timer-hugo"
 publishDir = "docs"
 canonifyURLs = true
@@ -10,22 +9,16 @@ canonifyURLs = true
   fractions = false
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
-[languages]
-[languages.en]
-    title = "surpass2"
-    languageName = "English"
-    weight = 1
 # Site Menus
-[[languages.en.menu.nav]]
-    ## Navbar Menus
-    #[[menu.nav]]
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
         name    = "About"
         url     = "about"
         weight  = 2
-    #[[menu.nav]]
-[[languages.en.menu.nav]]
+    [[menu.nav]]
         name    = "Research"
-        url     = "en/research"
+        url     = "research"
         weight  = 3
     # [[menu.nav]]
     #     name    = "Gallery"
@@ -35,55 +28,10 @@ canonifyURLs = true
     #     name    = "Blog"
     #     url     = "blog"
     #     weight  = 5
-    #[[menu.nav]]
-[[languages.en.menu.nav]]
+    [[menu.nav]]
         name    = "Contact"
         url     = "contact"
         weight  = 6
-
-[languages.es]
-    title = "surpass2es"
-    languageName = "Spanish"
-    weight = 2
-# Site Menus
-    ## Navbar Menus
-    #[[menu.nav]]
-[[languages.es.menu.nav]]
-        name    = "Acertado"
-        url     = "es/acertado"
-        weight  = 2
-[[languages.es.menu.nav]]
-        name    = "Investigación"
-        url     = "es/investigacion"
-        weight  = 3
-[[languages.es.menu.nav]]
-        name    = "Contacto"
-        url     = "es/contacto"
-        weight  = 6
-
-## Site Menus
-#[menu]
-#    # Navbar Menus
-#    [[menu.nav]]
-#        name    = "About"
-#        url     = "about"
-#        weight  = 2
-#    [[menu.nav]]
-#        name    = "Research"
-#        url     = "research"
-#        weight  = 3
-    # [[menu.nav]]
-    #     name    = "Gallery"
-    #     url     = "gallery"
-    #     weight  = 4
-    # [[menu.nav]]
-    #     name    = "Blog"
-    #     url     = "blog"
-    #     weight  = 5
-#    [[menu.nav]]
-#        name    = "Contact"
-#        url     = "contact"
-#        weight  = 6
 
 # Site Params
 [params]
