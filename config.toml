@@ -25,24 +25,24 @@ DefaultContentLanguage = "en"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 # Site Menus
-[menu]
-    # Navbar Menus
-    [[menu.nav]]
-        name    = "Home"
-        url     = "/"
-        weight  = 1
-    [[menu.nav]]
-        name    = "About"
-        url     = "/about/"
-        weight  = 2
-    [[menu.nav]]
-        name    = "Research"
-        url     = "/research/"
-        weight  = 3
-    [[menu.nav]]
-        name    = "Contact"
-        url     = "/contact/"
-        weight  = 4
+#[menu]
+#    # Navbar Menus
+#    [[menu.nav]]
+#        name    = "Home"
+#        url     = "/"
+#        weight  = 1
+#    [[menu.nav]]
+#        name    = "About"
+#        url     = "/about/"
+#        weight  = 2
+#    [[menu.nav]]
+#        name    = "Research"
+#        url     = "/research/"
+#        weight  = 3
+#    [[menu.nav]]
+#        name    = "Contact"
+#        url     = "/contact/"
+#        weight  = 4
 
 [Languages]
     [Languages.en]
