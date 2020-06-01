@@ -3,7 +3,7 @@ languageCode = "en"
 title = "SURPASS2"
 theme = "timer-hugo"
 publishDir = "docs"
-canonifyURLs = false
+canonifyURLs = true
 disableLanguages = ["fr"]
 
 [blackfriday]
