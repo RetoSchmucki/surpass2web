@@ -1,11 +1,11 @@
 enable  : true
-title   : SURPASS partners in UK
+title   : Miembros de SURPASS en UK
 members  :
 
   - name  : France Gerard
     image : images/team/photoFrance.png
     designation : Earth Observation Scientist (UKCEH)
-    description : France works on the development of remotely sensed-derived data to validate models and inform conservation and sustainable management of natural resources. 
+    description : France trabaja en el desarrollo de datos derivados de sensores remotos para validar modelos e informar la conservación y manejo sustentable de recursos naturales. 
     website : https://www.ceh.ac.uk/staff/france-gerard
     linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
     researchgate    : https://www.researchgate.net/profile/France_Gerard
@@ -13,8 +13,8 @@ members  :
 
   - name  : Reto Schmucki
     image : images/team/team_reto.png
-    designation : Community Ecologist (UKCEH)
-    description : Reto works on the impact of global changes on species distribution, plant-insect interactions and the mechanisms that structure biological diversity across scales.
+    designation : Ecólogo de Comunidades (UKCEH)
+    description : Reto estudia el impacto de cambios globales en la distribución de especies, interacciones planta-insecto y los mecanismos que estructuran la biodiversidad biológica a distintas escalas.
     website : https://www.ceh.ac.uk/staff/reto-schmucki
     twitter : https://www.twitter.com/SchmuckiReto
     # researchgate: https://www.researchgate.net/profile/Reto_Schmucki
@@ -25,31 +25,31 @@ members  :
 
   - name  : Claire Carvell
     image : images/team/ClaireCarvell.png
-    designation : Pollination Ecologist (UKCEH)
-    description : Claire works on the ecology, monitoring and conservation of wild bees and other insect pollinators to inform management of agro-ecosystems and enhance invertebrate biodiversity.
+    designation : Ecóloga de la Polinización (UKCEH)
+    description : Claire trabaja ecología, monitoreo y conservación de abejas silvestres y otros insectos polinizadores para informar el manejo de agroecosistemas y mejorar la biodiversidad de invertebrados.
     website : https://www.ceh.ac.uk/staff/claire-carvell
     twitter : https://twitter.com/Claire_Carvell
 
 
   - name  : Ben Woodcock
     image : images/team/BenWoodcock2.png
-    designation : Ecological Entomologist (UKCEH)
-    description : Ben works on ecosystem service delivery and mechanisms of co-existence in invertebrate communities and trade-offs between plant and invertebrates communities.
+    designation : Entomólogo y Ecólogo  (UKCEH)
+    description : Ben trabaja en servicios ecosistémicos, mecanismos de coexistencia en comunidades de invertebrados y balances entre comunidades plantas e invertebrados.
     website : https://www.ceh.ac.uk/staff/ben-woodcock
     orcid: https://orcid.org/0000-0003-0300-9951
     googlescholar: https://scholar.google.ca/citations?hl=en&user=u4JXDGEAAAAJ
 
   - name  : Dan Morton
     image : images/team/dan_morton2.jpg
-    designation : Ecological Remote Sensing Scientist (UKCEH)
-    description : Dan works on the production and the analysis of large scale satellite derived datasets to improve our capability to monitor and measure the impact of land use change on biodiversity.
+    designation : Científico de Sensores Remotos para Ecología (UKCEH)
+    description : Dan trabaja en producir y analizar conjuntos de datos satelitales a gran escala para mejorar capacidades de monitoreo y medir el impacto cambios en el uso del suelo sobre la biodiversidad.
     #twitter : https://www.twitter.com/SchmuckiReto
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Jeff Ollerton
     image : images/team/jeff_ollerton.png
-    designation : Professor of Biodiversity (University of Northampton)
-    description : Jeff works on the insect pollinators and functional biodiversity of pollinator assemblages.
+    designation : Profesor de Biodiversidad (University of Northampton)
+    description : Jeff estudia insectos polinizadores y biodiversidad funcional de ensambles de polinizadores.
     twitter : https://twitter.com/JeffOllerton
     wordpress : https://jeffollerton.wordpress.com/
     researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
@@ -57,15 +57,16 @@ members  :
 
   - name  : Juliet Osborne
     image : images/team/juliet_osborne.png
-    designation : Applied Ecologist(University of Exeter)
-    description : Juliet studies pollination ecology and the conservation of pollinators.
+    designation : Ecóloga Aplicada (University of Exeter)
+    description : Juliet estudia ecología de la polinización y conservación de polinizadores.
     website : http://www.exeter.ac.uk/esi/people/profile/index.php?web_id=Juliet_Osborne
     googlescholar : https://scholar.google.co.uk/citations?hl=en&user=HvnIPnsAAAAJ&view_op=list_works&sortby=pubdate
 
 
   - name  : Matthias Becher
     image : images/team/matthias_becher.jpg
-    designation : Ecological Modeller (University of Exeter)
-    description : Matthias works on the development and application of agent-based models to predict population dynamics of bees and the pollination services they provide.    #twitter : https://www.twitter.com/SchmuckiReto
+    designation : Modelador Ecológico (University of Exeter)
+    description : Matthias desarrolla u aplica modelos basados en agentes para predecir la dinámica poblacional de abejos y de los servicios de polinización que ofrecen.
+    #twitter : https://www.twitter.com/SchmuckiReto
     website : http://beehave-model.net/
     googlescholar: https://scholar.google.co.uk/citations?user=NyuTvy8AAAAJ&hl=en

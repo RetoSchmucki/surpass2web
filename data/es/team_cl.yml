@@ -1,11 +1,11 @@
 enable  : true
-title   : SURPASS partners in Chile
+title   : Miembros de SURPASS en Chile
 members  :
 
   - name  : Francisco E. Fonturbel
     image : images/team/fonturbel2.png
-    designation : Ecologist (Pontificia Universidad Católica de Valparaíso)
-    description : Francisco works on plant-animal interactions (particularly pollination and seed dispersal), habitat disturbance, and global change, to understand its eco-evolutionary dynamics.
+    designation : Ecólogo (Pontificia Universidad Católica de Valparaíso)
+    description : Francisco estudia interacciones planta-animal (especialmente polinización y dispersión de semillas), disturbios de hábitat y cambio global para comprender sus dinámicas eco-evolutivas.
     website : https://sites.google.com/site/ecoevolutionary/
     github: https://github.com/fonturbel
     orcid: https://orcid.org/0000-0001-8585-2816
@@ -13,30 +13,30 @@ members  :
 
   - name  : Lorena Vieli
     image : images/team/lorena_vieli2.png
-    designation : Ecologist (Universidad de La Frontera)
-    description : Lorena works on pollination ecology in agricultural landscapes and its impact on pollinator dependent crops. 
+    designation : Ecóloga (Universidad de La Frontera)
+    description : Lorena trabaja en ecología de la polinización en paisajes agrícolas y su impacto en cultivos dependientes de polinizadores. 
     googlescholar : https://scholar.google.com/citations?user=LHNXo5wAAAAJ&hl=es
     researchgate : https://www.researchgate.net/profile/Lorena_Vieli2
 
   - name  : Gastón  Carvallo
     image : images/team/gaston_carvallo.png
-    designation : Plant & Evolutionary Ecologist (Pontificia Universidad Católica de Valparaíso)
-    description : Gastón works in pollination ecology and phylogenetic diversity of angiosperms.
+    designation : Ecólogo Evolutivo  de Plantas (Pontificia Universidad Católica de Valparaíso)
+    description : Gastón estudia ecología de la polinización y diversidad filogenética de angiospermas.
     website : https://www.ecologiavegetal.cl
     twitter : https://twitter.com/ecologiavegetal
     googlescholar : https://scholar.google.com/citations?user=GbPdJO4AAAAJ&hl=en
 
   - name  : Maureen Murúa Ibarra
     image : images/team/murua3.png
-    designation : Evolutionary Ecologist (Universidad Mayor)
-    description : Maureen works on the evolutionary ecology of plant-animal interactions with a strong interest in the processes and mechanisms that underlie plants-pollinator relationships.
+    designation : Ecóloga Evolutiva (Universidad Mayor)
+    description : Maureen estudia la ecología evolutiva de las interacciones planta-animal con interés en los procesos y mecanismos subyacentes a las relaciones entre plantas y polinizadores.
     twitter     : https://www.twitter.com/MaureenMurua
     website : https://maureenmurua.wordpress.com/
 
   - name  : Luis Flores Prado
     image : images/team/luis_flores2.png
-    designation : Behavioural Ecologist & Entomologist (Universidad Metropolitana de Ciencias de la Educación)
-    description : Luis works on behavioural ecology of insects, particularly studying bee-plant interactions, use of resources and sociability in insects.
+    designation : Ecólogo del Comportamiento y Entomólogo(Universidad Metropolitana de Ciencias de la Educación)
+    description : Luis estudio ecología comportamental de insectos, en particular interacciones entre plantas y abejas, uso de recursos y sociabilidad de insectos.
     website: http://www.umce.cl/index.php/ientomologia-equipo-academico?id=1076
     linkedIn: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
     researchgate: https://www.researchgate.net/scientific-contributions/2033353451_Luis_Flores-Prado
@@ -44,15 +44,15 @@ members  :
 
   - name  : Carlos Valdivia
     image : images/team/carlos_valdivia.png
-    designation : Ecologist (Universidad de Los Lagos)
-    description : Carlos works on pollination and seed dispersal
+    designation : Ecólogo (Universidad de Los Lagos)
+    description : Carlos estudia polinización y dispersión de semillas.
     #twitter : https://www.twitter.com/SchmuckiReto
     researchgate : https://www.researchgate.net/profile/Carlos_Valdivia7
 
   - name  : Cecilia Smith-Ramirez
     image : images/team/cecilia_smith.png
-    designation : Conservation Biologist (Universidad de Los Lagos)
-    description : Cecilia works on applied conservation and the impact of invasive species and habitat loss on biodiversity and provision of ecosystem services in rural communities. 
+    designation : Bióloga de la Conservación (Universidad de Los Lagos)
+    description : Cecilia trabaja en conservación aplicada y en el impacto de especies invasivas y pérdida de hábitat sobre la biodiversidad y calidad de servicios ecosistémicos en comunidades rurales. 
     googlescholar : https://scholar.google.es/citations?user=a2kIjrIAAAAJ&hl=es&oi=ao
     researchgate : https://www.researchgate.net/profile/Cecilia_Smith-Ramirez
     orcid : https://orcid.org/0000-0002-8099-2673
@@ -60,8 +60,8 @@ members  :
 
   - name  : Rodrigo M. Barahona-Segovia
     image : images/team/rodrigo_barahona4.png
-    designation : Ecological Entomologist (Universidad de Los Lagos)
-    description : Rodrigo works in conservation and applied ecology of invertebrates and plant-insect interactions.
+    designation : Entomólogo y Ecólogo (Universidad de Los Lagos)
+    description : Rodrigo trabaja en conservación y ecología aplicada de invertebrados e interacciones planta-insecto.
     twitter: https://twitter.com/MoscasFloricola
     orcid: https://orcid.org/0000-0002-1509-2935
     researchgate : https://www.researchgate.net/profile/Rodrigo_Barahona-Segovia2

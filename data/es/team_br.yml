@@ -1,11 +1,11 @@
 enable  : true
-title   : SURPASS partners in Brazil
+title   : Miembros de SURPASS en Brazil
 members  :
 
   - name  : Antonio Mauro Saraiva
     image : images/team/antonio_saraiva.png
-    designation : Electrical Engineer & Agronomist (Universidade de São Paulo)
-    description : Antonio works on the application of techniques and tools of information and communication technologies to agriculture, biodiversity and global health.
+    designation : Ingeniero Eléctrico & Agrónomo (Universidade de São Paulo)
+    description : Antonio desarrolla técnicas y herramientas para aplicar tecnología de la información y la comunicación a la agricultura, biodiversidad y salud global.
     website : http://www.pcs.usp.br/~amsaraiv
     #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
     #facebook    : https://www.fb.com/themefisher
@@ -14,8 +14,8 @@ members  :
 
   - name  : Kayna Agostini
     image : images/team/kayna_agostini.png
-    designation : Pollination Biologist (Universidade Federal de São Carlos)
-    description : Kayna works on pollination biology and ecosystem services in urban and agricultural areas. 
+    designation : Bióloga de la Polinización (Universidade Federal de São Carlos)
+    description : Kayna trabaja en biología de la polinización y servicios ecosistémicos en áreas urbanas y agrícolas. 
     linkedIn : https://www.linkedin.com/in/kayna-agostini
     #instagram  : https://www.instagram.com/kaynaagostini
     twitter : https://www.twitter.com/AgostiniKayna
@@ -24,8 +24,8 @@ members  :
 
   - name  : Tiago Mauricio Francoy
     image : images/team/tiago_francoy.png
-    designation : Bee Genetics & Conservation (Universidade de São Paulo)
-    description : Tiago works on population genetics, genomics, conservation and biotechnological use of bee products.
+    designation : Conservación y Genética de Abejas(Universidade de São Paulo)
+    description : Tiago trabaja en genética de poblaciones, genómica, conservación y uso biotecnológica de productos apícolas.
     googlescholar : https://scholar.google.com/citations?hl=en&user=FS_lFg0AAAAJ
     twitter : https://www.twitter.com/tiagofrancoy
     researchgate : https://www.researchgate.net/profile/Tiago_Francoy
@@ -33,8 +33,8 @@ members  :
 
   - name  : Bruno de Carvalho Albertini
     image : images/team/bruno_albertini.png
-    designation : Computer Engineer (Universidade de São Paulo)
-    description : Bruno works on applying technology for environment conservation and supporting citizen science initiatives.
+    designation : Ingeniero Informático (Universidade de São Paulo)
+    description : Bruno desarrolla aplicaciones tecnológicas para la conservación ambiental y el apoyo a iniciativas de ciencia ciudadana.
     website : https://balbertini.github.io/
     linkedIn : https://www.linkedin.com/in/bruno-albertini-b7baa58/
     lattes: http://lattes.cnpq.br/2729012989571213
@@ -43,8 +43,8 @@ members  :
 
   - name  : Betina Blochtein
     image : images/team/betina_blochtein.png
-    designation : Conservation Biologist (Pontifícia Universidade Católica do Rio Grande do Sul)
-    description : Betina works on plant-insect interactions, focusing on pollination services and conservation of stingless and solitary bees.
+    designation : Bióloga de la Conservación (Pontifícia Universidade Católica do Rio Grande do Sul)
+    description : Betina estudia interacciones planta-insecto, con foco en servicios de polinización yconservación de abejas solitarias y abejas sin aguijón.
     website : http://www.pucrs.br/researchers/betina-blochtein/
     lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4785899A3
     publons: https://publons.com/researcher/2559788/betina-blochtein/
@@ -52,8 +52,8 @@ members  :
 
   - name  : Patricia Nunes-Silva
     image : images/team/patricia_nunes.png
-    designation : Bee & Pollination Ecologist (Universidade do Vale do Rio dos Sinos)
-    description : Patricia works on bee behavioral ecology and pollination on agricultural areas.
+    designation : Bióloga de la Polinización & Ecología de Abejas (Universidade do Vale do Rio dos Sinos)
+    description : Patricia trabaja en ecología del comportamiento de abejas y polinización en regiones agrícolas.
     linkedIn: https://www.linkedin.com/in/patrícia-nunes-silva-40113b40 
     #instagram : https://www.instagram.com/patricians/
     twitter : https://www.twitter.com/patriciabelhuda
@@ -62,8 +62,8 @@ members  :
 
   - name  : Natalia P. Ghilardi-Lopes
     image : images/team/natalia_ghilardi.png
-    designation : Marine Ecologist & Environmental Educator (Universidade Federal do ABC)
-    description : Natalia works on environmental education and citizen science for ocean conservation.
+    designation : Ecóloga Marina y Educadora Ambiental (Universidade Federal do ABC)
+    description : Natalia trabaja en educación ambiental y ciencia ciudadana para la conservación de los océanos.
     website: http://professor.ufabc.edu.br/~natalia.lopes/cienciacidada/
     researchgate: https://www.researchgate.net/profile/Natalia_Ghilardi-Lopes
     googlescholar: https://scholar.google.com.br/citations?user=9Ulbz_UAAAAJ&hl=pt-BR
@@ -74,8 +74,8 @@ members  :
 
   - name  : Sheina Koffler
     image : images/team/sheina_koffler.png
-    designation : Biologist (Universidade de São Paulo)
-    description : Sheina works on bee evolutionary ecology and citizen science for pollinator monitoring.
+    designation : Bióloga (Universidade de São Paulo)
+    description : Sheina trabaja en ecología evolutiva de abejas y ciencia ciudadana para el monitoreo de polinizadores.
     researchgate : https://www.researchgate.net/profile/Sheina_Koffler
     googlescholar : https://scholar.google.com.br/citations?user=XEJinUMAAAAJ&hl=pt-BR
     orcid : http://orcid.org/0000-0002-1126-8999 
@@ -84,9 +84,9 @@ members  :
 
   - name  : Nicolay Cunha 
     image : images/team/nicolay_cunha.png
-    designation : Evolution Biologist (Universidade Federal de São Carlos)
-    description : Nicolay works on plant reproduction and pollination biology in natural and agricultural areas.
-    website : https://sites.google.com/view/ecopol/home
+    designation : Biólogo Evolutivo (Universidade Federal de São Carlos)
+    description : Nicolay estudia reproducción vegetal y biología de la polinización en áreas naturales y agrícolas.
+    website : https://sites.google.com/view/ecopol/home/miembros-del-grupo/nicolay-cunha
     twitter : https://www.twitter.com/nicolaycunha
     researchgate: https://www.researchgate.net/profile/Nicolay_Leme_da_Cunha
     googlescholar: https://scholar.google.com.br/citations?user=RvAg_LsAAAAJ&hl=en
@@ -95,8 +95,8 @@ members  :
 
   - name : Rodrigo Yoiti Tsukahara 
     image : images/team/rodrigo_tsukahara.png
-    designation : Agrometeorologist (Fundação ABC)
-    description : Rodrigo works in agrometeorological instrumentation and crop modelling, decision support systems and data analysis in agricultural experimentation.
+    designation : Agrometeorólogo (Fundação ABC)
+    description : Rodrigo trabaja en instrumentación agrometeorológica y modelado de cultivos, sistemas de apoyo a toma de decisiones y análisis de datos en experimentación agrícola.
     lattes : http://lattes.cnpq.br/7602310105303724
     orcid : https://orcid.org/0000-0001-5926-2847
     researchgate : https://www.researchgate.net/profile/Rodrigo_Tsukahara

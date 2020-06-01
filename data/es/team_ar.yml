@@ -1,12 +1,12 @@
 enable  : true
-title   : SURPASS partners in Argentina
+title   : Miembros de SURPASS en Argentina
 members  :
 
   - name  : Marcelo A. Aizen
     image : images/team/marcelo_aizen2.png
-    designation : Pollination Biologist (Universidad Nacional del Comahue - CONICET)
-    description : Marcelo works on plant reproductive ecology, plant-pollinator interactions and the consequences of invasive species on native biota and agriculture.
-    #website : https://www.ceh.ac.uk/staff/france-gerard
+    designation : Biólogo de la Polinización (Universidad Nacional del Comahue - CONICET)
+    description : Marcelo estudia en ecología reproductiva de plantas, interacciones planta-polinizador y consecuencias de la invasión de especies en la biota nativa y en la agricultura.
+    website : https://sites.google.com/view/ecopol/miembros-del-grupo/marcelo-aizen
     orcid  : https://orcid.org/0000-0001-9079-9749  
     researchgate    : https://www.researchgate.net/profile/Marcelo_Aizen 
     twitter     : https://twitter.com/marcelo_aizen
@@ -14,8 +14,9 @@ members  :
 
   - name  : Marina Arbetman
     image : images/team/marina_arbetman.png
-    designation : Conservation Biologist (Universidad Nacional del Comahue - CONICET)
-    description : Marina works on the mechanisms of biological invasion and the impact of commercial introduction of non-native bumblebees on pollinators in South America.
+    designation : Bióloga de la Conservación (Universidad Nacional del Comahue - CONICET)
+    description : Marina estudio los mecanismos detrás de las invasiones biológicas y el impacto de la introducción comercial de abejorros exóticos en los polinizadores nativos de Sudamérica.
+    website : https://sites.google.com/view/ecopol/miembros-del-grupo/marina-arbetman
     googlescholar : https://scholar.google.com/citations?user=6rIJaw3Po0UC&hl=en&oi=sra
     twitter : https://twitter.com/marina_arbetman
     researchgate : https://www.researchgate.net/profile/Marina_Arbetman
@@ -23,8 +24,8 @@ members  :
 
   - name  : Eduardo Zattara
     image : images/team/EdZattara2.png
-    designation : Integrative Biologist (INIBIOMA - CONICET)
-    description : Eduardo works on the modulation of developmental evolution by ecology.
+    designation : Biólogo Integrativo (INIBIOMA - CONICET)
+    description : Eduardo estudia cómo la ecología modula la evolución del desarrollo.
     website : https://sites.google.com/view/ecopol/miembros-del-grupo/eduardo-zattara
     twitter : https://twitter.com/ezattara
     researchgate: https://www.researchgate.net/profile/Eduardo_Zattara
@@ -34,8 +35,9 @@ members  :
 
   - name  : Carolina Laura Morales
     image : images/team/carolina_morales.png
-    designation : Pollination & Bee Ecologist (Centro Científico Tecnológico Conicet Comahue)
-    description : Carolina works on pollination and bee ecology with emphasis on the link between invasive alien species, conservation of biodiversity and pollination services.
+    designation : Bióloga de la Polinización & Ecología de Abejas(INIBIOMA - CONICET)
+    description : Carolina estudia polinización y ecología de abejas, con énfasis en la relación entre especies invasivas, la conservación de la biodiversidad y los servicios de polinización.
+    website : https://sites.google.com/view/ecopol/miembros-del-grupo/carolina-morales
     academia : https://inibioma.academia.edu/CarolinaLauraMorales
     researchgate : https://www.researchgate.net/profile/Carolina_Morales
     googlescholar : https://scholar.google.com/citations?user=UL_jwxUAAAAJ&hl=es&oi=ao
@@ -43,27 +45,27 @@ members  :
 
   - name  : Agustin Saez
     image : images/team/agustin_saez2.png
-    designation : Ecologist (Universidad Nacional del Comahue - CONICET)
-    description : Agustin works on applied pollination ecology and pollination services in agricultural systems.
-    #twitter : https://www.twitter.com/SchmuckiReto
+    designation : Ecólogo (Universidad Nacional del Comahue - CONICET)
+    description : Agustin trabaja en ecología de la polinización aplicada y servicios de polinización en agroecosistemas.
+    twitter : https://www.twitter.com/@Agustin07842301
     researchgate : https://www.researchgate.net/profile/Agustin_Saez
     academia: https://independent.academia.edu/Agust%C3%ADnS%C3%A1ez
     googlescholar: https://scholar.google.com/citations?user=Ry-MHpQAAAAJ&hl=en
 
   - name  : Natacha Chacoff
     image : images/team/natacha_chacoff.png
-    designation : Pollination Ecologist (Instituto de Ecología Regional UNT-CONICET)
-    description : Natacha works on crop pollination and the role of biodiversity, landscape management and configuration on the delivery of pollination services.
+    designation : Ecóloga de la Polinización (Instituto de Ecología Regional UNT-CONICET)
+    description : Natacha estudia polinización de cultivos y el rol de la biodiversidad, manejo y configuración del paisaje en la eficiencia de los servicios de polinización.
     twitter     : https://twitter.com/ChacoffNatacha
     researchgate: https://www.researchgate.net/profile/Natacha_Chacoff
-    orcid: 
+    #orcid: 
     googlescholar: https://scholar.google.com/citations?user=rxJBqGcAAAAJ&hl=fr
     #website : https://www.ceh.ac.uk/staff/ben-woodcock
 
   - name  : Leonardo Galetto
     image : images/team/leonardo_galleto2.png
-    designation : Ecologist (National University of Cordoba)
-    description : Leonardo works on socio-agroecosystems, with a focused on functional ecology and the interaction between biodiversity and crop production.
+    designation : Ecólogo (National University of Cordoba)
+    description : Leonardo estudia socio-agroecosistemas, con foco en ecología funcional e interacción entre biodiversidad y producción de cultivos.
     researchgate: https://www.researchgate.net/profile/Leonardo_Galetto
     googlescholar : https://scholar.google.com/citations?user=5FmsH3EAAAAJ&hl=en&oi=sra
     publons: https://publons.com/researcher/1516711/leonardo-galetto/
@@ -71,8 +73,8 @@ members  :
 
   - name  : Mariano Devoto
     image : images/team/mariano_devoto.png
-    designation : Agronomist (Universidad de Buenos Aires)
-    description : Mariano works in community ecology with strong interest in plant-animal interactions, ecological networks, ecosystem services, and agronomy.
+    designation : Agrónomo (Universidad de Buenos Aires)
+    description : Mariano trabaja en ecología de comunidades, con un fuerte interés en las interacciones planta-animal, redes ecológicas, servicios ecosistémicos y agronomía.
     twitter : https://www.twitter.com/Mariano_Devoto
     researchgate : https://www.researchgate.net/profile/Mariano_Devoto
     googlescholar : https://scholar.google.com/citations?hl=en&user=LlmdgDAAAAAJ
