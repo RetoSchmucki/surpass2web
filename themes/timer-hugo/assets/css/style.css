@@ -42,6 +42,11 @@ a:hover {
   text-decoration: none;
 }
 
+.inline-icon {
+  height: 2em;
+  width: 2em;
+}
+
 .slick-slide:focus {
   outline: 0;
 }
@@ -220,7 +225,7 @@ a:hover {
 
 .navbar .nav-item .nav-link {
   color: #444 !important;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 500;
   transition: .3s all;
   text-transform: uppercase;
@@ -236,8 +241,54 @@ a:hover {
   padding-right: 0;
 }
 
+#language-switch a.dropdown-toggle {
+  font-size: 15px;
+  font-weight: 500;
+  transition: .3s all;
+  text-transform: uppercase;
+  padding: 5px 15px;
+  display: block;
+  color: #e9880a;
+}
+
+#language-switch ul.dropdown-menu {
+  min-width: auto;
+  left: auto;
+  right: 0;
+}
+
+/**
+ * Pure menu customizations
+ */
+
+.pure-menu-active > .pure-menu-link, .pure-menu-link:hover, .pure-menu-link:focus {
+  background-color: transparent;
+}
+
+.pure-menu-children {
+    padding-bottom: 1em;
+    border-radius: 0 0 10px 10px;
+}
+
+.pure-menu-children .pure-menu-link {
+    line-height: 2;
+}
+
+a.pure-menu-link:hover {
+    text-decoration: none;
+    color: #e9880a;
+}
+
+.pure-menu-link {
+    color: rgb(56, 57, 58);
+    color: darken($brand-color, 20%);
+    &:visited {
+        color: darken($brand-color, 20%);
+    }
+}
+
 .dropdown-menu {
-  background: #222222;
+  background: #ffffff;
   border: 0;
   border-radius: 0;
   padding: 15px;
@@ -260,7 +311,7 @@ a:hover {
 }
 
 .dropdown-item {
-  color: #fff;
+  color: #ffffff;
   display: block;
   font-size: 14px;
   font-weight: 500;

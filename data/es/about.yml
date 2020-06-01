@@ -1,0 +1,17 @@
+enable  : true
+title   : SALVAGUARDAR LOS SERVICIOS DE POLINIZACIÓN EN UN MUNDO CAMBIANTE
+description: >
+  SURPASS2 es una colaboración internacional entre Argentina, Brasil, Chile y el Reino Unido, que estudia polinizadores y servicios de polinización en América del Sur. Nuestros principales objetivos son desarrollar conocimiento, generar capacitación y definir acciones tangibles para la conservación y el manejo sostenible de los polinizadores. SURPASS2 busca generar evidencia y concimiento para promover servicios de polinización resilientes que redunden en un crecimiento económico sostenible, mejoren los rendimientos agrícolas a la vez que generen impactos positivos en el ambiente que contribuyan a mejorar la salud y el bienestar de las personas.
+  <br>
+  <br>
+  Mediante nuestras actividades de investigación, estamos proporcionando conocimientos cruciales a los productores de alimentos, a los encargados de la formulación de políticas, a administradores de tierras y al público, que necesitan mejores herramientas basadas en evidencia para promover la toma de decisiones que permitan obtener resultados sostenibles. Nuestro objetivo es mejorar el reconocimiento cultural y social de las funciones vitales que los polinizadores, y quienes trabajan con ellos, desempeñan para mantener la producción de cultivos y el funcionamiento de los ecosistemas.
+image   : images/about/planning.jpg
+
+aboutItem:
+  - title : Financiación
+    description: > 
+      El proyecto SURPASS2 está financiado por el [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), en asociación con el Consejo Nacional de Investigaciones Científicas y Técnicas de Argentina [(CONICET)](https://www.conicet.gov.ar/), la Fundação de Amparo à Pesquisa do Estado de São Paulo de Brasil [(FAPESP)](http://www.fapesp.br/en/) y la Agencia Nacional de Investigación y Desarrollo de Chile [(ANID)](https://www.anid.cl/). Referencia de la subvención: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - ANID: NE/S011870/1.
+
+  # - title : Meet The Energy
+  #   description: >
+  #     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

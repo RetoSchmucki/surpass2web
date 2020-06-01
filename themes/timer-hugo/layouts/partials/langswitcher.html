@@ -1,0 +1,26 @@
+{{ if .Site.IsMultiLingual }}
+<li id="language-switch" class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" tabindex="0" >{{ i18n "languages" }} <img src={{ .Site.Params.logoT | absURL }} class="inline-icon" alt="" aria-hidden="false"></a>
+    "navbar-toggler"
+    <ul class="dropdown-menu">
+        {{ $home := .Site.Home }}
+        {{ $langs := slice }}
+        {{ if .Translations }}
+        {{ range .AllTranslations }}
+        {{ $langs = $langs | append . }}
+        {{ end }}
+        {{ else }}
+        {{ range $home.AllTranslations }}
+        {{ $langs = $langs | append . }}
+        {{ end }}
+        {{ end }}
+                        {{ range $langs }}
+                        {{ $isCurrentLang := eq $home.Language .Language }}
+                        <li class="pure-menu-item">
+                            <a href="{{ .RelPermalink }}" lang="{{ .Language.Params.languageCode }}"
+                                hreflang="{{ .Language.Params.languageCode }}" class="pure-menu-link">{{ if $isCurrentLang  }}✓{{ end }}{{ .Language.LanguageName }}</a>
+                        </li>
+                        {{ end }}
+    </ul>
+</li>
+{{ end }}

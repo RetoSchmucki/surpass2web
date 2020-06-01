@@ -7,9 +7,9 @@
                     <h2>{{ .Title }}</h2>
                     <ol class="breadcrumb list-inline text-center">
                         <li class="list-inline-item">
-                            <a href="{{ .Site.BaseURL }}">
+                            <a href="{{ .Language | absURL }}">
                                 <i class="ion-ios-home"></i>
-                                Home &nbsp; &nbsp;/
+                                {{ T "home" }} &nbsp; &nbsp;/
                             </a>
                         </li>
                         <li class="active list-inline-item">{{ .Title }}</li>

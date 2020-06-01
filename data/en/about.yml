@@ -1,0 +1,18 @@
+enable  : true
+title   : Safeguarding Pollination Services in a Changing World
+description: >
+  SURPASS2 is an international partnership between Argentina, Brazil, Chile and the UK, working on pollinators and pollination services in South America. Our objectives are to develop knowledge, build capacity and define tangible actions for conservation and sustainable use of pollinators. SURPASS2 will deliver evidence for the creation of resilient pollination services for sustainable economic growth, positive agricultural and environmental outcomes for improved human health and wellbeing.
+  <br>
+  <br>
+  Through our research activities, we are providing crucial knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes. We aim to offer improvements to the future cultural and social recognition of the vital roles that pollinators, and those that work with them, play in sustaining crop production and ecosystem functioning.
+
+image   : images/about/planning.jpg
+
+aboutItem:
+  - title : Funding
+    description: > 
+      The SURPASS2 project is funded under the [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), in partnership with the Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), and Chile National Agency for Research and Development [(ANID)](https://www.anid.cl/). Grant references: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - ANID: NE/S011870/1.
+
+  # - title : Meet The Energy
+  #   description: >
+  #     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

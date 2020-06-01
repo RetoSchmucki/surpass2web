@@ -1,0 +1,69 @@
+enable  : true
+title   : SURPASS partners in UK
+members  :
+
+  - name  : France Gerard
+    image : images/team/photoFrance.png
+    designation : Earth Observation Scientist (UKCEH)
+    description : France trabalha no desenvolvimento de dados derivados de sensoriamento remoto para validar modelos e prover informações para a conservação e o gerenciamento sustentável dos recursos naturais.
+    website : https://www.ceh.ac.uk/staff/france-gerard
+    linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
+    researchgate    : https://www.researchgate.net/profile/France_Gerard
+    publons: https://publons.com/researcher/794084/france-gerard/
+
+  - name  : Reto Schmucki
+    image : images/team/team_reto.png
+    designation : Ecólogo de Comunidades (UKCEH)
+    description : Reto trabalha com o impacto de mudanças globais na distribuição de espécies, interações planta-inseto e os mecanismos que estruturam a diversidade biológica em escalas.
+    website : https://www.ceh.ac.uk/staff/reto-schmucki
+    twitter : https://www.twitter.com/SchmuckiReto
+    # researchgate: https://www.researchgate.net/profile/Reto_Schmucki
+    # orcid: https://orcid.org/0000-0003-3064-7553
+    googlescholar: https://scholar.google.ca/citations?user=SVm6CkgAAAAJ&hl=en
+    github: https://github.com/RetoSchmucki
+    # publons: https://publons.com/researcher/461487/reto-schmucki/
+
+  - name  : Claire Carvell
+    image : images/team/ClaireCarvell.png
+    designation : Ecóloga de Polinização (UKCEH)
+    description : Claire trabalha na ecologia, monitoramento e conservação de abelhas selvagens e outros polinizadores (insetos) para prover informação para o manejo de agroecossistemas e melhorar a biodiversidade de invertebrados.
+    website : https://www.ceh.ac.uk/staff/claire-carvell
+    twitter : https://twitter.com/Claire_Carvell
+
+  - name  : Ben Woodcock
+    image : images/team/BenWoodcock2.png
+    designation : Ecólogo Entomologista (UKCEH)
+    description : Ben trabalha na prestação de serviços ecossistêmicos e mecanismos de coexistência em comunidades de invertebrados e relação entre comunidades de plantas e invertebrados.
+    website : https://www.ceh.ac.uk/staff/ben-woodcock
+    orcid: https://orcid.org/0000-0003-0300-9951
+    googlescholar: https://scholar.google.ca/citations?hl=en&user=u4JXDGEAAAAJ
+
+  - name  : Dan Morton
+    image : images/team/dan_morton2.jpg
+    designation : Cientista de Sensoriamento Remoto e Ecologia (UKCEH)
+    description : Dan trabalha na produção e na análise de conjuntos de dados de satélite em larga escala para melhorar nossa capacidade de monitorar e medir o impacto das mudanças no uso da terra na biodiversidade.
+    #twitter : https://www.twitter.com/SchmuckiReto
+    #website : https://www.ceh.ac.uk/staff/ben-woodcock
+
+  - name  : Jeff Ollerton
+    image : images/team/jeff_ollerton.png
+    designation : Professor de Biodiversidade (University of Northampton)
+    description : Jeff trabalha com polinizadores (insetos) e na biodiversidade funcional das colônias de polinizadores.
+    twitter : https://twitter.com/JeffOllerton
+    wordpress : https://jeffollerton.wordpress.com/
+    researchgate:  https://ww.researchgate.net/profile/Jeff_Ollerton
+    googlescholar: https://scholar.google.com/citations?hl=fr&user=pGS18ZgAAAAJ
+
+  - name  : Juliet Osborne
+    image : images/team/juliet_osborne.png
+    designation : Ecóloga Aplicada (University of Exeter)
+    description : Juliet estuda a ecologia da polinização e a conservação de polinizadores.
+    website : http://www.exeter.ac.uk/esi/people/profile/index.php?web_id=Juliet_Osborne
+    googlescholar : https://scholar.google.co.uk/citations?hl=en&user=HvnIPnsAAAAJ&view_op=list_works&sortby=pubdate
+
+  - name  : Matthias Becher
+    image : images/team/matthias_becher.jpg
+    designation : Ecólogo (Modelagem) (University of Exeter)
+    description : Matthias trabalha no desenvolvimento e aplicação de modelos baseados em agentes para prever a dinâmica populacional das abelhas e os serviços de polinização que eles fornecem.    #twitter : https://www.twitter.com/SchmuckiReto
+    website : http://beehave-model.net/
+    googlescholar: https://scholar.google.co.uk/citations?user=NyuTvy8AAAAJ&hl=en

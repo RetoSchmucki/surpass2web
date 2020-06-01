@@ -1,17 +1,17 @@
 enable  : true
-title   : Safeguarding Pollination Services in a Changing World
+title   : SALVAGUARDAR OS SERVIÇOS DE POLINIZAÇÃO EM UM MUNDO EM MUDANÇA
 description: >
-  SURPASS2 is an international partnership between Argentina, Brazil, Chile and the UK, working on pollinators and pollination services in South America. Our objectives are to develop knowledge, build capacity and define tangible actions for conservation and sustainable use of pollinators. SURPASS2 will deliver evidence for the creation of resilient pollination services for sustainable economic growth, positive agricultural and environmental outcomes for improved human health and wellbeing.
+  SURPASS2 é uma parceria internacional entre Argentina, Brasil, Chile e Reino Unido, trabalhando em polinizadores e serviços de polinização na América do Sul. Nossos objetivos são desenvolver conhecimento, construir capacidade e definir ações tangíveis para a conservação e uso sustentável dos polinizadores. SURPASS2 irá fornecer evidências para a criação de serviços de polinização resistentes para o crescimento econômico sustentável, resultados agrícolas e ambientais positivos para a melhoria da saúde humana e do bem-estar.
   <br>
   <br>
-  Through our research activities, we are providing crucial knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes. We aim to offer improvements to the future cultural and social recognition of the vital roles that pollinators, and those that work with them, play in sustaining crop production and ecosystem functioning.
+  Através de nossas atividades de pesquisa, estamos fornecendo conhecimento crucial aos produtores de alimentos, formuladores de políticas, administradores de terras e ao público que necessita de melhores ferramentas baseadas em evidências para apoiar a tomada de decisões para resultados sustentáveis. Nosso objetivo é oferecer melhorias para o futuro reconhecimento cultural e social dos papéis vitais que os polinizadores, e aqueles que trabalham com eles, desempenham na sustentabilidade da produção agrícola e do funcionamento dos ecossistemas.
 
 image   : images/about/planning.jpg
 
 aboutItem:
-  - title : Funding
+  - title : Financiamento
     description: > 
-      The SURPASS2 project is funded under the [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), in partnership with the Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), and Chile National Agency for Research and Development [(ANID)](https://www.anid.cl/). Grant references: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - ANID: NE/S011870/1.
+      O projeto SURPASS2 é financiado no âmbito do [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), em parceria com a Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), e Chile National Agency for Research and Development [(ANID)](https://www.anid.cl/). Referência da subvenção: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - ANID: NE/S011870/1.
 
   # - title : Meet The Energy
   #   description: >

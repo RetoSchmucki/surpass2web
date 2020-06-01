@@ -1,0 +1,17 @@
+enable  : true
+title   : LA SAUVEGARDE DES SERVICES DE POLLINISATION DANS UN MONDE EN MUTATION
+description: >
+  SURPASS2 est un partenariat international entre l'Argentine, le Brésil, le Chili et le Royaume-Uni, qui travaille sur les pollinisateurs et les services de pollinisation en Amérique du Sud. Nos objectifs sont de développer les connaissances, de renforcer les capacités et de définir des actions concrètes pour la conservation et l'utilisation durable des pollinisateurs. SURPASS2 apportera des preuves de la création de services de pollinisation résistants pour une croissance économique durable, des résultats agricoles et environnementaux positifs pour l'amélioration de la santé et du bien-être humains.
+  <br>
+  <br>
+  Grâce à nos activités de recherche, nous fournissons des connaissances cruciales aux producteurs d'aliments, aux décideurs politiques, aux gestionnaires des terres et au public qui ont besoin de meilleurs outils fondés sur des preuves pour soutenir la prise de décision en vue de résultats durables. Notre objectif est d'améliorer la reconnaissance culturelle et sociale future des rôles essentiels que jouent les pollinisateurs, et ceux qui travaillent avec eux, dans le maintien de la production agricole et le fonctionnement des écosystèmes.
+image   : images/about/planning.jpg
+
+aboutItem:
+  - title : Financement
+    description: > 
+      Le projet SURPASS2 est financé dans le cadre du [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), en partenariat ave le Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), et Chile National Agency for Research and Development [(ANID)](https://www.anid.cl/). Référence de la subvention: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - ANID: NE/S011870/1.
+
+  # - title : Meet The Energy
+  #   description: >
+  #     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

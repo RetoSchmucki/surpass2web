@@ -27,7 +27,7 @@ Complementarity and biologically diverse communities can buffer pollination serv
 **Land Cover maps for:**
 
 1. Estimating demand for insect pollination services (by mapping the amount of pollinator dependent crops present and weighting this by how dependent each crop type is on insect pollination).
-2. Quantifying the capacity of the land to provide pollination services (by estimating the probability that functionally important will visit crops within different areas)
+2. Quantifying the capacity of the land to provide pollination services (by estimating the probability that functionally important pollinators will visit crops within different areas)
 3. Modelling the rate at which functional diversity will collapse in response to species extinctions to provide an index of functional redundancy.
 
 The national maps produced will provide a high value evidence base supporting policy by enabling us to explore the interactions between pollinators, crops and landscape heterogeneity. By integrating earth observation, ecosystem service models, functional ecology and pollinator population and foraging models, this work will contribute to deliver co-ordinated landscape planning and optimisation of pollination to support sustainable agriculture.

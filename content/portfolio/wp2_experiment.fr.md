@@ -1,0 +1,27 @@
+---
+caption: Work Package 2
+category:
+  - Field Experiment
+  - Crop Pollination
+  - Landscape
+investigator: Ben Woodcock, Lorena Vieli, Maureen Murua, Francisco E. Fonturbel, Carlos Valdivia, Cecilia Smith-Ramirez, Natacha Chacoff, Mariano Devoto, Leonardo Galetto, Carolina Morales, Marina Arbetman, Marcelo Aizen, Agustin Saez, Kayna Agostini, Tiago Mauricio Francoy, Betina Blochtein, Patricia Nunes Silva, Nicolay Leme da Cunha, Rodrigo Yoiti Tsukahara
+  
+date: "2019-02-03"
+location: Argentina, Brazil & Chile
+description: This is meta description
+image: images/research/colza_wp2.jpg
+liveLink: https://www.ceh.ac.uk
+# partners: UKCEH, Wallingford, UK
+submitDate: February 03, 2019
+title: Pollinisation des cultures
+type: portfolio
+---
+### Évaluer les impacts de l'intensification du paysage et du contexte sur l'abondance et le comportement des pollinisateurs
+L'expansion et l'intensification de l'agriculture ont été associées à des pertes de pollinisateurs et de pollinisation, et bien que de multiples pressions interagissent, la destruction et la détérioration des habitats sont considérées comme les principaux facteurs de ces effets. Une surveillance efficace des populations et de leur impact sur les services de pollinisation est donc un élément crucial pour valider le coût d'une telle gestion. Dans le WP2 du projet SURPASS, nous examinons comment les insectes sauvages, principalement les abeilles, fournissent des services de pollinisation essentiels à une série de cultures en Argentine, au Brésil et au Chili, et comment cela est affecté par les facteurs paysagers environnants qui contribuent à soutenir ces pollinisateurs sauvages. Nous nous intéressons à trois cultures : le canola, le soja et les myrtilles, bien qu'une seule d'entre elles fasse l'objet d'une enquête dans les trois pays. Cela reflète le fait que les myrtilles représentent une culture commune aux trois pays concernés (Brésil, Argentine, Chili) et offrent donc la possibilité de mettre en œuvre un plan d'expérience commun à toutes les régions pour évaluer les dépendances de la pollinisation et l'impact de cette culture sur la biodiversité.
+
+
+> Le canola (étudié au Chili) est l'une des plus importantes cultures oléagineuses au monde et il a été démontré qu'elle fournit d'importantes ressources alimentaires pour de nombreuses abeilles sauvages, tandis que le soja (étudié en Argentine et au Brésil) est l'une des cultures les plus importantes sur le plan économique en Amérique du Sud.
+
+Pour chacune de ces cultures, des sites reproduits seront étudiés selon un gradient paysager afin de comprendre la contribution interactive au rendement des cultures des insectes pollinisateurs sauvages qui dépendent d'une série d'habitats naturels et semi-naturels. Dans le cas du soja, nous étudierons les effets latitudinaux de l'interaction avec le paysage sur la pollinisation par les insectes, en procédant à des évaluations des pollinisateurs sauvages dans quatre régions allant du sud de l'Argentine au Brésil, chaque site comprenant plusieurs exploitations agricoles. Les différentes zones latitudinales présentent des variétés de cultures spécifiques adaptées aux conditions locales, ce qui peut avoir des conséquences directes sur la manière dont les pollinisateurs interagissent en leur sein. Dans chacun des sites d'étude stratifiés, nous entreprendrons des protocoles d'échantillonnage standardisés pour les pollinisateurs (y compris le piégeage à la cuvette, les parcours de transect et l'utilisation de nids de piégeage pour surveiller les populations reproductrices), en évaluant leur contribution à la quantification du rendement, et la disponibilité spatiale et temporelle des ressources florales cultivées et non cultivées dont ils dépendent. 
+
+Le WP2 du projet Surpass évaluera également l'impact des espèces envahissantes sur les pollinisateurs indigènes en Amérique du Sud. Plus d'un million de colonies de bourdons non indigènes (Bombus terrestris) ont été importées au Chili depuis 1997. Cette espèce est maintenant naturalisée et s'est répandue au Chili et en Argentine, et est sur le point d'entrer en Bolivie et au Pérou. L'accumulation de preuves suggère de multiples impacts négatifs de cette invasion dans les écosystèmes naturels et agricoles. Il s'agit notamment d'un risque accru d'extinction de l'espèce indigène B. dahlbomii, en raison de la concurrence pour les ressources et de la propagation des agents pathogènes ; cela pourrait également affecter d'autres pollinisateurs et menacer l'apiculture. En outre, cet envahisseur facilite la propagation de plantes exotiques, par exemple Cytisus scoparius, et peut nuire à la pollinisation des plantes indigènes (vol de nectar, surpopulation). Des impacts similaires ont été observés avec l'Apis mellifera africanisé en Amérique du Sud (sub) tropicale. Nous évaluerons comment le contexte et la gestion du paysage, les cadres politiques et juridiques affectent le caractère envahissant. Nous cartographierons et quantifierons systématiquement les impacts pour paramétrer des modèles d'impacts à plus long terme et développer une évaluation coordonnée des risques. Cela facilitera les discussions entre les décideurs et les principales parties prenantes afin d'aider à développer une politique coordonnée pour gérer les impacts négatifs et réduire le potentiel de stratégies conflictuelles.

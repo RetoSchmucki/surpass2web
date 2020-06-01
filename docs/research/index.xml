@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on surpass</title>
-    <link>https://retoschmucki.github.io/surpass2web/research/</link>
-    <description>Recent content in Research on surpass</description>
+    <title>Research on SURPASS2</title>
+    <link>/surpass2web/research/</link>
+    <description>Recent content in Research on SURPASS2</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sat, 14 Jul 2018 12:58:14 +0600</lastBuildDate>
     
-	<atom:link href="https://retoschmucki.github.io/surpass2web/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/surpass2web/research/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

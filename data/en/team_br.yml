@@ -1,0 +1,103 @@
+enable  : true
+title   : SURPASS partners in Brazil
+members  :
+
+  - name  : Antonio Mauro Saraiva
+    image : images/team/antonio_saraiva.png
+    designation : Electrical Engineer & Agronomist (Universidade de São Paulo)
+    description : Antonio works on the application of techniques and tools of information and communication technologies to agriculture, biodiversity and global health.
+    website : http://www.pcs.usp.br/~amsaraiv
+    #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
+    #facebook    : https://www.fb.com/themefisher
+    googlescholar : https://scholar.google.es/citations?user=BxfM4mIAAAAJ&hl=es&oi=sra
+    researchgate : https://www.researchgate.net/profile/Antonio_Saraiva3
+
+  - name  : Kayna Agostini
+    image : images/team/kayna_agostini.png
+    designation : Pollination Biologist (Universidade Federal de São Carlos)
+    description : Kayna works on pollination biology and ecosystem services in urban and agricultural areas. 
+    linkedIn : https://www.linkedin.com/in/kayna-agostini
+    #instagram  : https://www.instagram.com/kaynaagostini
+    twitter : https://www.twitter.com/AgostiniKayna
+    googlescholar : https://scholar.google.com.br/citations?user=4xd-rdoAAAAJ&hl=pt-BR
+
+
+  - name  : Tiago Mauricio Francoy
+    image : images/team/tiago_francoy.png
+    designation : Bee Genetics & Conservation (Universidade de São Paulo)
+    description : Tiago works on population genetics, genomics, conservation and biotechnological use of bee products.
+    googlescholar : https://scholar.google.com/citations?hl=en&user=FS_lFg0AAAAJ
+    twitter : https://www.twitter.com/tiagofrancoy
+    researchgate : https://www.researchgate.net/profile/Tiago_Francoy
+    website : http://each.uspnet.usp.br/web/prof/francoy/
+
+  - name  : Bruno de Carvalho Albertini
+    image : images/team/bruno_albertini.png
+    designation : Computer Engineer (Universidade de São Paulo)
+    description : Bruno works on applying technology for environment conservation and supporting citizen science initiatives.
+    website : https://balbertini.github.io/
+    linkedIn : https://www.linkedin.com/in/bruno-albertini-b7baa58/
+    lattes: http://lattes.cnpq.br/2729012989571213
+    publons: https://publons.com/a/1399880
+    orcid: http://orcid.org/0000-0003-3738-6448
+
+  - name  : Betina Blochtein
+    image : images/team/betina_blochtein.png
+    designation : Conservation Biologist (Pontifícia Universidade Católica do Rio Grande do Sul)
+    description : Betina works on plant-insect interactions, focusing on pollination services and conservation of stingless and solitary bees.
+    website : http://www.pucrs.br/researchers/betina-blochtein/
+    lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4785899A3
+    publons: https://publons.com/researcher/2559788/betina-blochtein/
+    orcid: http://orcid.org/0000-0001-8452-1716
+
+  - name  : Patricia Nunes-Silva
+    image : images/team/patricia_nunes.png
+    designation : Bee & Pollination Ecologist (Universidade do Vale do Rio dos Sinos)
+    description : Patricia works on bee behavioral ecology and pollination on agricultural areas.
+    linkedIn: https://www.linkedin.com/in/patrícia-nunes-silva-40113b40 
+    #instagram : https://www.instagram.com/patricians/
+    twitter : https://www.twitter.com/patriciabelhuda
+    researchgate: https://www.researchgate.net/profile/Patricia_Nunes-Silva
+    orcid: https://orcid.org/0000-0002-9215-9822
+
+  - name  : Natalia P. Ghilardi-Lopes
+    image : images/team/natalia_ghilardi.png
+    designation : Marine Ecologist & Environmental Educator (Universidade Federal do ABC)
+    description : Natalia works on environmental education and citizen science for ocean conservation.
+    website: http://professor.ufabc.edu.br/~natalia.lopes/cienciacidada/
+    researchgate: https://www.researchgate.net/profile/Natalia_Ghilardi-Lopes
+    googlescholar: https://scholar.google.com.br/citations?user=9Ulbz_UAAAAJ&hl=pt-BR
+    academia: https://ufabc-br.academia.edu/NPiraniGhilardiLopes
+    orcid: https://orcid.org/0000-0001-6213-8871
+    publons: https://publons.com/researcher/2725188/natalia-p-ghilardi-lopes/
+
+
+  - name  : Sheina Koffler
+    image : images/team/sheina_koffler.png
+    designation : Biologist (Universidade de São Paulo)
+    description : Sheina works on bee evolutionary ecology and citizen science for pollinator monitoring.
+    researchgate : https://www.researchgate.net/profile/Sheina_Koffler
+    googlescholar : https://scholar.google.com.br/citations?user=XEJinUMAAAAJ&hl=pt-BR
+    orcid : http://orcid.org/0000-0002-1126-8999 
+    publons : https://publons.com/researcher/1186758/sheina-koffler/
+
+
+  - name  : Nicolay Cunha 
+    image : images/team/nicolay_cunha.png
+    designation : Evolution Biologist (Universidade Federal de São Carlos)
+    description : Nicolay works on plant reproduction and pollination biology in natural and agricultural areas.
+    website : https://sites.google.com/view/ecopol/home
+    twitter : https://www.twitter.com/nicolaycunha
+    researchgate: https://www.researchgate.net/profile/Nicolay_Leme_da_Cunha
+    googlescholar: https://scholar.google.com.br/citations?user=RvAg_LsAAAAJ&hl=en
+    publons: https://publons.com/researcher/959508/nicolay-leme-da-cunha/
+    orcid: https://orcid.org/0000-0001-5509-6757
+
+  - name : Rodrigo Yoiti Tsukahara 
+    image : images/team/rodrigo_tsukahara.png
+    designation : Agrometeorologist (Fundação ABC)
+    description : Rodrigo works in agrometeorological instrumentation and crop modelling, decision support systems and data analysis in agricultural experimentation.
+    lattes : http://lattes.cnpq.br/7602310105303724
+    orcid : https://orcid.org/0000-0001-5926-2847
+    researchgate : https://www.researchgate.net/profile/Rodrigo_Tsukahara
+    googlescholar : https://scholar.google.com.br/citations?user=ZYL2XmYAAAAJ&hl=pt-BR

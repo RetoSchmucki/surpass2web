@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gis on surpass</title>
-    <link>https://retoschmucki.github.io/surpass2web/tags/gis/</link>
-    <description>Recent content in gis on surpass</description>
+    <title>gis on SURPASS2</title>
+    <link>/surpass2web/tags/gis/</link>
+    <description>Recent content in gis on SURPASS2</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 12 Apr 2018 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://retoschmucki.github.io/surpass2web/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/surpass2web/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RGIS workshop liverpool</title>
-      <link>https://retoschmucki.github.io/surpass2web/blog/rgis_liverpool_workshop/</link>
+      <link>/surpass2web/blog/rgis_liverpool_workshop/</link>
       <pubDate>Thu, 12 Apr 2018 09:00:00 +0000</pubDate>
       
-      <guid>https://retoschmucki.github.io/surpass2web/blog/rgis_liverpool_workshop/</guid>
+      <guid>/surpass2web/blog/rgis_liverpool_workshop/</guid>
       <description>Together with the R script below, you will need to download the data folder available via this link. The data are contained in a zip file (674Mb) that you will have to unzip and save in your working directory, or amend the path in the R script. The data used in this tutorial should be used for a training purpose only.
 NOTE: This tutorial is a work-in-progress and I am expecting to maintain, edit and update the script to improve and add new material.</description>
     </item>

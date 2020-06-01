@@ -2,7 +2,9 @@
 
 {{ partial "page-title.html" . }}
 
-{{ if .Site.Data.contact.enable }}
+{{ $data := index .Site.Data .Site.LanguageCode }}
+{{ with $data.contact }}
+{{ if .enable }}
 {{ "<!-- Contact Section Start -->" | safeHTML }}
 <section id="contact-section">
     <div class="container">
@@ -47,10 +49,10 @@
             </div> -->
             <div class="col-md-6">
                 <div class="map-area">
-                    {{ with .Site.Data.contact.mapTitle }}<h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }} </h2>{{ end }}
-                    {{ with .Site.Data.contact.mapSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+                    {{ with .mapTitle }}<h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }} </h2>{{ end }}
+                    {{ with .mapSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
                     <a href="https://www.ceh.ac.uk/">
-                        <img src="{{ .Site.Params.logo2 | absURL }}" alt="UKCEH" style="width:200px;">
+                        <img src="{{ .logo1 | absURL }}" alt="UKCEH" style="width:200px;">
                     </a>
                     <br><br/>
                     <div class="map">
@@ -63,7 +65,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".3s">
                     <i class="ion-ios-location-outline"></i>
-                    {{ with .Site.Data.contact.officeAddress1 }}<h5>{{ . }}</h5>{{ end }}
+                    {{ with .officeAddress1 }}<h5>{{ . }}</h5>{{ end }}
                 </div>
             </div>
             <!-- <div class="col-lg-3 col-sm-6">
@@ -75,21 +77,22 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="email wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                     <i class="ion-ios-email-outline"></i>
-                    <p>{{ with .Site.Data.contact.mail1 }}{{ . }}{{ end }}
-                        <br>{{ with .Site.Data.contact.mail2 }}{{ . }}{{ end }}</p>
+                    <p>{{ with .mail1 }}{{ . }}{{ end }}
+                        <br>{{ with .mail2 }}{{ . }}{{ end }}</p>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="phone wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
                     <i class="ion-ios-telephone-outline"></i>
-                    <p>{{ with .Site.Data.contact.phone1 }}{{ . }}{{ end }}
-                        <br>{{ with .Site.Data.contact.phone2 }}{{ . }}{{ end }}</p>
+                    <p>{{ with .phone1 }}{{ . }}{{ end }}
+                        <br>{{ with .phone2 }}{{ . }}{{ end }}</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 {{ "<!-- Contact Section End -->" | safeHTML }}
+{{ end }}
 {{ end }}
 
 {{ partial "cta.html" . }}

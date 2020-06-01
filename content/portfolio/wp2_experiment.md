@@ -16,7 +16,7 @@ submitDate: February 03, 2019
 title: Crop Pollination
 type: portfolio
 ---
-### WP2 Assess the impacts of landscape intensification and context on pollinator abundance and behaviour
+### Assess the impacts of landscape intensification and context on pollinator abundance and behaviour
 
 Agricultural expansion and intensification have been linked with losses of pollinators and pollination, and although multiple pressures interact, habitat clearance and deterioration are considered the most important drivers of these effects. Effective monitoring of populations and their impact on pollination services is thus a crucial part of validating the cost of such management. In WP2 of the SURPASS project we are looking at the how wild insects, principally bees, provide key pollination services to a range of crops in Argentina, Brazil and Chile, and how this is affected by surrounding landscape factors that help support these wild pollinators.  We are looking at three crops – canola, soya and blueberries, although of these only one is under investigation across all three countries.  This reflects that fact that blueberries represent a common crop grown in all three focal countries (Brazil, Argentina, Chile) and so provide an opportunity for implementing a common cross region experimental design assessing pollination dependencies and impacts on biodiversity of this crop.
 

@@ -1,0 +1,67 @@
+enable  : true
+title   : SURPASS partners in Chile
+members  :
+
+  - name  : Francisco E. Fonturbel
+    image : images/team/fonturbel2.png
+    designation : Ecologist (Pontificia Universidad Católica de Valparaíso)
+    description : Francisco works on plant-animal interactions (particularly pollination and seed dispersal), habitat disturbance, and global change, to understand its eco-evolutionary dynamics.
+    website : https://sites.google.com/site/ecoevolutionary/
+    github: https://github.com/fonturbel
+    orcid: https://orcid.org/0000-0001-8585-2816
+
+
+  - name  : Lorena Vieli
+    image : images/team/lorena_vieli2.png
+    designation : Ecologist (Universidad de La Frontera)
+    description : Lorena works on pollination ecology in agricultural landscapes and its impact on pollinator dependent crops. 
+    googlescholar : https://scholar.google.com/citations?user=LHNXo5wAAAAJ&hl=es
+    researchgate : https://www.researchgate.net/profile/Lorena_Vieli2
+
+  - name  : Gastón  Carvallo
+    image : images/team/gaston_carvallo.png
+    designation : Plant & Evolutionary Ecologist (Pontificia Universidad Católica de Valparaíso)
+    description : Gastón works in pollination ecology and phylogenetic diversity of angiosperms.
+    website : https://www.ecologiavegetal.cl
+    twitter : https://twitter.com/ecologiavegetal
+    googlescholar : https://scholar.google.com/citations?user=GbPdJO4AAAAJ&hl=en
+
+  - name  : Maureen Murúa Ibarra
+    image : images/team/murua3.png
+    designation : Evolutionary Ecologist (Universidad Mayor)
+    description : Maureen works on the evolutionary ecology of plant-animal interactions with a strong interest in the processes and mechanisms that underlie plants-pollinator relationships.
+    twitter     : https://www.twitter.com/MaureenMurua
+    website : https://maureenmurua.wordpress.com/
+
+  - name  : Luis Flores Prado
+    image : images/team/luis_flores2.png
+    designation : Behavioural Ecologist & Entomologist (Universidad Metropolitana de Ciencias de la Educación)
+    description : Luis works on behavioural ecology of insects, particularly studying bee-plant interactions, use of resources and sociability in insects.
+    website: http://www.umce.cl/index.php/ientomologia-equipo-academico?id=1076
+    linkedIn: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+    researchgate: https://www.researchgate.net/scientific-contributions/2033353451_Luis_Flores-Prado
+
+
+  - name  : Carlos Valdivia
+    image : images/team/carlos_valdivia.png
+    designation : Ecologist (Universidad de Los Lagos)
+    description : Carlos works on pollination and seed dispersal
+    #twitter : https://www.twitter.com/SchmuckiReto
+    researchgate : https://www.researchgate.net/profile/Carlos_Valdivia7
+
+  - name  : Cecilia Smith-Ramirez
+    image : images/team/cecilia_smith.png
+    designation : Conservation Biologist (Universidad de Los Lagos)
+    description : Cecilia works on applied conservation and the impact of invasive species and habitat loss on biodiversity and provision of ecosystem services in rural communities. 
+    googlescholar : https://scholar.google.es/citations?user=a2kIjrIAAAAJ&hl=es&oi=ao
+    researchgate : https://www.researchgate.net/profile/Cecilia_Smith-Ramirez
+    orcid : https://orcid.org/0000-0002-8099-2673
+    academia : https://independent.academia.edu/CeciliaSmithRamirez
+
+  - name  : Rodrigo M. Barahona-Segovia
+    image : images/team/rodrigo_barahona4.png
+    designation : Ecological Entomologist (Universidad de Los Lagos)
+    description : Rodrigo works in conservation and applied ecology of invertebrates and plant-insect interactions.
+    twitter: https://twitter.com/MoscasFloricola
+    orcid: https://orcid.org/0000-0002-1509-2935
+    researchgate : https://www.researchgate.net/profile/Rodrigo_Barahona-Segovia2

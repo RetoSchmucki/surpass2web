@@ -1,12 +1,14 @@
-{{ if .Site.Data.team_br.enable }}
+{{ $data := index .Site.Data .Site.LanguageCode }}
+{{ with $data.team_br }}
+{{ if .enable }}
 {{ "<!-- Team Section Start -->" | safeHTML }}
 <section id="team">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                {{ with .Site.Data.team_br.title }}<h2 class="subtitle text-center">{{ . }}</h2>{{ end }}
+                {{ with .title }}<h2 class="subtitle text-center">{{ . }}</h2>{{ end }}
             </div>
-            {{ range $index, $element:= .Site.Data.team_br.members }}
+            {{ range $index, $element:= .members }}
             <div class="col-md-3 col-sm-6">
                 {{ $delay := mul $index 300 }}
                 <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
@@ -94,4 +96,5 @@
     </div>
 </section>
 {{ "<!-- Team Section End -->" | safeHTML }}
+{{ end }}
 {{ end }}

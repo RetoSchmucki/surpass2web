@@ -1,0 +1,15 @@
+enable  : true
+title   : "Salvaguardando serviços de polinização em um mundo em mudança: teoria na prática"
+
+description: >
+  SURPASS2 é uma parceria internacional entre Argentina, Brasil, Chile e Reino Unido, para trabalhar com polinizadores e serviços de polinização na América do Sul. Nossos objetivos são desenvolver conhecimento, construir capacidade e definir ações tangíveis para a conservação e uso sustentável dos polinizadores. O SURPASS2 fornecerá evidências para a criação de serviços de polinização resilientes para o crescimento econômico sustentável, assim como resultados agrícolas e ambientais positivos para a melhoria da saúde humana e do bem-estar.
+  <br>
+  <br>
+  Através de nossas atividades de pesquisa, estamos fornecendo conhecimento crucial aos produtores de alimentos, tomadores de decisão, administradores de terras e ao público que necessita de ferramentas baseadas em evidências para apoiar a tomada de decisões focadas em resultados sustentáveis. Nosso objetivo é oferecer melhorias para um futuro reconhecimento cultural e social dos papéis vitais que os polinizadores, e aqueles que trabalham com eles, desempenham na sustentabilidade da produção agrícola e do funcionamento dos ecossistemas.
+
+image   : images/about/planning.jpg
+
+aboutItem:
+  - title : Financiamento
+    description: >
+      O projeto SURPASS2 é financiado no âmbito do [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, obtido pelo UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), em parceria com o Consejo Nacional de Investigaciones Científicas y Técnicas [(CONICET)](https://www.conicet.gov.ar/), Fundação de Amparo a Pesquisa do Estado de São Paulo [(FAPESP)](http://www.fapesp.br/), e com a Agencia Nacional de Investigación y Desarrollo [(ANID)](https://www.anid.cl/). Referências das agências: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - ANID: NE/S011870/1.

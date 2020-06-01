@@ -1,0 +1,20 @@
+[home]
+other = "Accueil"
+
+[details]
+other = "En Savoir Plus"
+
+[languages]
+other = "FR"
+
+[investigator]
+other = "Chercheurs"
+
+[location]
+other = "Région d'Étude"
+
+[partners]
+other = "Partenaires"
+
+[funding]
+other = "Financement"

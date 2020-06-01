@@ -1,76 +1,251 @@
 baseURL = "https://retoschmucki.github.io/surpass2web/"
-languageCode = "en-us"
-title = "surpass"
+languageCode = "en"
+title = "SURPASS2"
 theme = "timer-hugo"
 publishDir = "docs"
-canonifyURLs = true
+canonifyURLs = false
+disableLanguages = ["fr"]
 
 [blackfriday]
   fractions = false
+
+## NEW
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+# Gestion des langues : EN / FR / NL / DE
+[[Params.listeLangues]]
+    code = "en"
+[[Params.listeLangues]]
+    code = "fr"
+[[Params.listeLangues]]
+    code = "es"
+[[Params.listeLangues]]
+    code = "pt"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 # Site Menus
 [menu]
     # Navbar Menus
     [[menu.nav]]
+        name    = "Home"
+        url     = "/"
+        weight  = 1
+    [[menu.nav]]
         name    = "About"
-        url     = "about"
+        url     = "/about/"
         weight  = 2
     [[menu.nav]]
         name    = "Research"
-        url     = "research"
+        url     = "/research/"
         weight  = 3
-    # [[menu.nav]]
-    #     name    = "Gallery"
-    #     url     = "gallery"
-    #     weight  = 4
-    # [[menu.nav]]
-    #     name    = "Blog"
-    #     url     = "blog"
-    #     weight  = 5
     [[menu.nav]]
         name    = "Contact"
-        url     = "contact"
-        weight  = 6
+        url     = "/contact/"
+        weight  = 4
 
-# Site Params
-[params]
-    home = "Home"
-    logo = "images/surpass_logo.png"
-    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
-    dateFormat = "6 January 2006"
-    # Meta data
-    description = "Airspace Hugo theme"
-    author = "Reto Schmucki"
-    # Google Analitycs
-    googleAnalitycsID = "UA-154857767-3"
+[Languages]
+    [Languages.en]
+        languageCode = "en"
+        languageName = "English"
+        languageFlag = "EN"
+        dateFormat = "January 2, 2006"
+        weight = 1
+    [Languages.fr]
+        languageCode = "fr"
+        languageName = "Français"
+        languageFlag = "FR"
+        title = "SURPASS2-FR"
+        weight = 2
+    [Languages.es]
+        languageCode = "es"
+        languageName = "Español"
+        languageFlag = "ES"
+        title = "SURPASS2-ES"
+        weight = 3
+    [Languages.pt]
+        languageCode = "pt"
+        languageName = "Português"
+        languageFlag = "PT"
+        title = "SURPASS2-PT"
+        weight = 4
 
+       [[Languages.fr.menu.nav]]
+            name    = "Accueil"
+            identifier = "home"
+            url     = "fr/"
+            weight  = 1
+        [[Languages.fr.menu.nav]]
+            name    = "À propos"
+            identifier = "about"
+            url     = "fr/about/"
+            weight  = 2
+        [[Languages.fr.menu.nav]]
+            name    = "Recherche"
+            identifier = "research"
+            url     = "fr/research/"
+            weight  = 3
+        [[Languages.fr.menu.nav]]
+            name    = "Contact"
+            identifier = "contact"
+            url     = "fr/contact/"
+            weight  = 4
 
-    # Banner Section
-    [params.banner]
+       [[Languages.es.menu.nav]]
+            name    = "Inicio"
+            identifier = "home"
+            url     = "es/"
+            weight  = 1
+        [[Languages.es.menu.nav]]
+            name    = "Acerca de"
+            identifier = "about"
+            url     = "es/about/"
+            weight  = 2
+        [[Languages.es.menu.nav]]
+            name    = "Investigación"
+            identifier = "research"
+            url     = "es/research/"
+            weight  = 3
+        [[Languages.es.menu.nav]]
+            name    = "Contacto"
+            identifier = "contact"
+            url     = "es/contact/"
+            weight  = 4
+
+       [[Languages.pt.menu.nav]]
+            name    = "Início"
+            identifier = "home"
+            url     = "pt/"
+            weight  = 1
+        [[Languages.pt.menu.nav]]
+            name    = "Sobre"
+            identifier = "about"
+            url     = "pt/about/"
+            weight  = 2
+        [[Languages.pt.menu.nav]]
+            name    = "Pesquisa"
+            identifier = "research"
+            url     = "pt/research/"
+            weight  = 3
+        [[Languages.pt.menu.nav]]
+            name    = "Contato"
+            identifier = "contact"
+            url     = "pt/contact/"
+            weight  = 4
+
+# Banner Section
+    [Languages.en.params.banner]
         enable  = true
         bgImage = "images/slider_2.jpg"
         heading = "Safeguarding Pollinators and Pollination Services"
         description = "Healthy and resilient ecosystems underpin human well-being and quality of life. Pollinators contribute to plant reproduction in natural and managed ecosystems which supports food security, local and national economies, and provides wider biodiversity and ecosystem benefits."
-        # btn     = true
-        # btnText = "Download More"
-        # btnURL  = "https://themefisher.com/"
-        [[params.banner.flipText]]
+        [[Languages.en.params.banner.flipText]]
             title   = "SUSTAINABILITY"
-        [[params.banner.flipText]]
+        [[Languages.en.params.banner.flipText]]
             title   = "POLLINATION"
-        [[params.banner.flipText]]
+        [[Languages.en.params.banner.flipText]]
             title   = "AGRICULTURE"
 
-    # Homepage About Section
-    [params.about]
+    [Languages.fr.params.banner]
+        enable  = true
+        bgImage = "images/slider_2.jpg"
+        heading = "Proteger les Pollénisateurs et les Services de Pollénisation"
+        description = "DES ÉCOSYSTÈMES SAINS ET RÉSILIANTS SONT À LA BASE DU BIEN-ÊTRE ET DE LA QUALITÉ DE VIE DES HOMMES. LES POLLINISATEURS CONTRIBUENT À LA REPRODUCTION DES PLANTES DANS LES ÉCOSYSTÈMES NATURELS ET GÉRÉS, CE QUI SOUTIENT LA SÉCURITÉ ALIMENTAIRE, LES ÉCONOMIES LOCALES ET NATIONALES, ET OFFRE UNE PLUS GRANDE BIODIVERSITÉ ET DES AVANTAGES POUR LES ÉCOSYSTÈMES."
+        [[Languages.fr.params.banner.flipText]]
+            title   = "DURABLE"
+        [[Languages.fr.params.banner.flipText]]
+            title   = "POLLENISATION"
+        [[Languages.fr.params.banner.flipText]]
+            title   = "AGRICULTURE"
+
+    [Languages.es.params.banner]
+        enable  = true
+        bgImage = "images/slider_2.jpg"
+        heading = "SALVAGUARDAR LOS POLINIZADORES Y LOS SERVICIOS DE POLINIZACIÓN"
+        description = "LOS ECOSISTEMAS SALUDABLES Y RESILIENTES SOSTIENEN EL BIENESTAR HUMANO Y LA CALIDAD DE VIDA. LOS POLINIZADORES CONTRIBUYEN A LA REPRODUCCIÓN DE LAS PLANTAS EN LOS ECOSISTEMAS NATURALES Y MANEJADOS, SOSTENIENDO A LA SEGURIDAD ALIMENTARIA Y LAS ECONOMÍAS LOCALES Y NACIONALES, Y APORTANDO A UNA BIODIVERSIDAD MÁS AMPLIA Y CON MÁS BENEFICIOS PARA LOS ECOSISTEMAS."
+        [[Languages.es.params.banner.flipText]]
+            title   = "SUSTENIBILIDAD"
+        [[Languages.es.params.banner.flipText]]
+            title   = "POLINIZACIÓN"
+        [[Languages.es.params.banner.flipText]]
+            title   = "AGRICULTURA"
+
+    [Languages.pt.params.banner]
+        enable  = true
+        bgImage = "images/slider_2.jpg"
+        heading = "Salvaguardando serviços de polinização em um mundo em mudança: teoria na prática"
+        description = "ECOSSISTEMAS SAUDÁVEIS E RESILIENTES QUE SUSTENTAM O BEM-ESTAR HUMANO E A QUALIDADE DE VIDA. OS POLINIZADORES CONTRIBUEM PARA A REPRODUÇÃO DAS PLANTAS EM ECOSSISTEMAS NATURAIS E GERIDOS, O QUE APOIA A SEGURANÇA ALIMENTAR, AS ECONOMIAS LOCAIS E NACIONAIS, E PROPORCIONA UMA BIODIVERSIDADE MAIS VASTA E BENEFÍCIOS PARA OS ECOSSISTEMAS."
+        [[Languages.pt.params.banner.flipText]]
+            title   = "SUSTENTABILIDADE"
+        [[Languages.pt.params.banner.flipText]]
+            title   = "POLINIZAÇÃO"
+        [[Languages.pt.params.banner.flipText]]
+            title   = "AGRICULTURA"
+
+# Homepage About Section
+    [Languages.en.params.about]
         enable  = true
         title   = "ABOUT US"
         content = "SURPASS is an international partnership between Argentina, Brazil, Chile and the UK, working on pollinators and pollination services in South America. Our main objectives are to develop knowledge, build capacity and define tangible actions for conservation and sustainable use of pollinators. Through our research activities, our consortium focus on providing knowledge to food producers, policy-makers, land managers and the public who need better evidence based tools to support decision making for sustainable outcomes."
         image   = "images/about/about.jpg"
 
+    [Languages.fr.params.about]
+        enable  = true
+        title   = "À PROPOS DE NOUS"
+        content = "SURPASS est un partenariat international entre l'Argentine, le Brésil, le Chili et le Royaume-Uni, qui travaille sur les pollinisateurs et les services de pollinisation en Amérique du Sud. Nos principaux objectifs sont de développer les connaissances, de renforcer les capacités et de définir des actions concrètes pour la conservation et l'utilisation durable des pollinisateurs. Grâce à nos activités de recherche, notre consortium se concentre sur la fourniture de connaissances aux producteurs d'aliments, aux décideurs politiques, aux gestionnaires des terres et au public qui ont besoin de meilleurs outils fondés sur des preuves pour soutenir la prise de décision en vue de résultats durables."
+        image   = "images/about/about.jpg"
+
+    [Languages.es.params.about]
+        enable  = true
+        title   = "SOBRE NOSOTROS"
+        content = "SURPASS es una colaboración internacional entre Argentina, Brasil, Chile y el Reino Unido, que estudia polinizadores y servicios de polinización en América del Sur. Nuestros principales objetivos son desarrollar conocimiento, generar capacitación y definir acciones tangibles para la conservación y el manejo sostenible de los polinizadores. A través de nuestras actividades de investigación, nuestro consorcio se centra en proporcionar conocimientos a los productores de alimentos, a los responsables de la formulación de políticas de manejo, a los administradores de tierras y al público, que necesitan mejores herramientas basadas en evidencia para apoyar la toma de decisiones necesarias para lograr resultados sostenibles."
+        image   = "images/about/about.jpg"
+
+    [Languages.pt.params.about]
+        enable  = true
+        title   = "SOBRE NÓS"
+        content = "SURPASS é uma parceria internacional entre a Argentina, Brasil, Chile e Reino Unido, que trabalha com polinizadores e serviços de polinização na América do Sul. Os nossos objetivos principais são desenvolver o conhecimento, desenvolver capacidades e definir ações tangíveis para a conservação e utilização sustentável dos polinizadores. Através das nossas atividades de pesquisa, o nosso consórcio centra-se no fornecimento de conhecimentos aos produtores de alimentos, decisores políticos, gestores de terra e ao público que necessita de ferramentas melhores e baseadas em evidências para apoiar a tomada de decisões com vista a resultados sustentáveis."
+        image   = "images/about/about.jpg"
+
+# Site Params
+    [Languages.en.params]
+    logo = "images/surpass_logo.png"
+    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
+    logoT = "images/logos/language-icon128px-black.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Reto Schmucki"
+
+    [Languages.fr.params]
+    logo = "images/surpass_logo.png"
+    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
+    logoT = "images/logos/language-icon128px-black.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Reto Schmucki"
+
+    [Languages.es.params]
+    logo = "images/surpass_logo.png"
+    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
+    logoT = "images/logos/language-icon128px-black.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Reto Schmucki"
+
+    [Languages.pt.params]
+    logo = "images/surpass_logo.png"
+    logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
+    logoT = "images/logos/language-icon128px-black.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Reto Schmucki"
+
      # Homepage Funding Section
-     [params.partners]  
+     [params.partners]
         enable  = true
         title   = "Funding"
         subtitle = "UK - Argentina - Chile - Brazil"
@@ -82,47 +257,3 @@ canonifyURLs = true
             image = "images/partners/conicyt_wide.png"
      [[params.partners.partnersLogo]]
             image = "images/partners/fapesp_scale.png"
-    
-    # # Call to Action
-    # [params.cta]
-    #     enable  = true
-    #     title   = "SO WHAT YOU THINK ?"
-    #     content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-    #     btnText = "Contact with me"
-    #     btnURL  = "/contact"
-    #
-    # # Portfolio Section On Homepage
-    # [params.portfolio]
-    #     enable  = true
-    #     title   = "Latest Works"
-    #     subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
-    #
-    # [params.footer]
-    #    [[params.footer.socialIcon]]
-    #        icon = "ion-social-twitter"
-    #        url = "#"
-    #
-    #     [[params.footer.socialIcon]]
-    #         icon = "ion-social-instagram"
-    #         url = "#"
-
-# DefaultContentLanguage = "en-us"
-
-# [languages]
-
-#   [languages.fr]
-#    [languages.fr.menu]
-#        [[languages.fr.menu.nav]]
-#        name    = "A Propos"
-#        url     = "about"
-#        weight  = 2
-#
-#    [languages.fr.params.banner]
-#        heading = "Sauvegard des Pollinisateurs et des Services de Pollinisation"
-#        description = "Des écosystèmes sains et résilients sont à la base du bien-être et de la qualité de vie de l'homme. Les pollinisateurs contribuent à la reproduction des plantes dans les écosystèmes naturels et gérés, ce qui soutient la sécurité alimentaire, les économies locales et nationales, et offre une plus grande biodiversité et des avantages pour les écosystèmes."
-#        [[languages.fr.params.banner.flipText]]
-#            title   = "DURABILITE"
-#        [[languages.fr.params.banner.flipText]]
-#            title   = "POLLINISATION"
-#        [[languages.fr.params.banner.flipText]]
-#            title   = "AGRICULTURE"
