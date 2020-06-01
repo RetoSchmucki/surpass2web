@@ -3,7 +3,7 @@ languageCode = "en"
 title = "SURPASS2"
 theme = "timer-hugo"
 publishDir = "docs"
-canonifyURLs = true
+canonifyURLs = false
 disableLanguages = ["fr"]
 
 [blackfriday]
@@ -69,6 +69,23 @@ DefaultContentLanguage = "en"
         languageFlag = "PT"
         title = "SURPASS2-PT"
         weight = 4
+
+        [[Languages.en.menu.nav]]
+            name    = "Home"
+            url     = "/"
+            weight  = 1
+        [[Languages.en.menu.nav]]
+            name    = "About"
+            url     = "/about/"
+            weight  = 2
+        [[Languages.en.menu.nav]]
+            name    = "Research"
+            url     = "/research/"
+            weight  = 3
+        [[Languages.en.menu.nav]]
+            name    = "Contact"
+            url     = "/contact/"
+            weight  = 4
 
        [[Languages.fr.menu.nav]]
             name    = "Accueil"
