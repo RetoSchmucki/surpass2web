@@ -72,19 +72,19 @@ DefaultContentLanguage = "en"
 
         [[Languages.en.menu.nav]]
             name    = "Home"
-            url     = "/"
+            url     = ""
             weight  = 1
         [[Languages.en.menu.nav]]
             name    = "About"
-            url     = "/about/"
+            url     = "about/"
             weight  = 2
         [[Languages.en.menu.nav]]
             name    = "Research"
-            url     = "/research/"
+            url     = "research/"
             weight  = 3
         [[Languages.en.menu.nav]]
             name    = "Contact"
-            url     = "/contact/"
+            url     = "contact/"
             weight  = 4
 
        [[Languages.fr.menu.nav]]
