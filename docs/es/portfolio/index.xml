@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on SURPASS2-ES</title>
-    <link>/surpass2web/es/portfolio/</link>
+    <link>https://retoschmucki.github.io/surpass2web/es/portfolio/</link>
     <description>Recent content in Portfolios on SURPASS2-ES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/surpass2web/es/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retoschmucki.github.io/surpass2web/es/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Monitoreo de insectos polinizadores</title>
-      <link>/surpass2web/es/portfolio/wp1_monitoring/</link>
+      <link>https://retoschmucki.github.io/surpass2web/es/portfolio/wp1_monitoring/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/es/portfolio/wp1_monitoring/</guid>
-      <description>Vigilancia de la situación y las tendencias de los polinizadores y los servicios de polinización Vigilancia de la situación y las tendencias de los polinizadores y los servicios de polinización Existen pruebas de disminuciones en gran escala de los polinizadores en América del Norte y Europa, pero se sabe relativamente poco de su situación y tendencias en América del Sur. Un enfoque de vigilancia sólido es fundamental para aumentar la base de pruebas para comprender las amenazas a los polinizadores animales y respaldar las políticas para su gestión y conservación sostenibles.</description>
+      <guid>https://retoschmucki.github.io/surpass2web/es/portfolio/wp1_monitoring/</guid>
+      <description>Monitoreo del estado y tendencias de polinizadores y servicios de polinización Vigilancia del estado y tendencias de polinizadores y servicios de polinización En contraste con la clara evidencia de una disminución en gran escala en abundancia y biodiversidad de los polinizadores en América del Norte y Europa, se sabe muy poco acerca del estado y tendencias de este importante grupo en América del Sur. Es fundamental adoptar una estrategia sólida de monitoreo para poder reunir los datos básicos necesarios para comprender cuáles son las principales factores que amenazaa a los polinizadores y respaldar políticas orientadas a su manejo y conservación sostenibles.</description>
     </item>
     
     <item>
       <title>Polinización de cultivos</title>
-      <link>/surpass2web/es/portfolio/wp2_experiment/</link>
+      <link>https://retoschmucki.github.io/surpass2web/es/portfolio/wp2_experiment/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/es/portfolio/wp2_experiment/</guid>
-      <description>Evaluar los impactos de la intensificación del paisaje y el contexto en la abundancia y el comportamiento de los polinizadores La expansión e intensificación de la agricultura se han vinculado con las pérdidas de polinizadores y la polinización, y aunque interactúan múltiples presiones, la limpieza y el deterioro del hábitat se consideran los impulsores más importantes de estos efectos. Por consiguiente, la vigilancia eficaz de las poblaciones y su impacto en los servicios de polinización es una parte crucial de la validación del costo de esa gestión.</description>
+      <guid>https://retoschmucki.github.io/surpass2web/es/portfolio/wp2_experiment/</guid>
+      <description>Evaluar los impactos del contexto del paisaje y la intensificación agrícola en la abundancia y comportamiento de los polinizadores La expansión e intensificación de la agricultura se ha vinculado con las pérdidas de polinizadores y disminución de servicios de polinización. Aunque existen múltiples estresores, se considera que la pérdida o deterioro del hábitat natural está entre los principales causantes de este fenómeno. Por consiguiente, el monitoreo eficaz de las poblaciones de polinizadores y del impacto del uso de la tierra en los servicios de polinización es crucial para evaluar los costos del manejo ambientales.</description>
     </item>
     
     <item>
-      <title>Cartografía de la cubierta terrestre</title>
-      <link>/surpass2web/es/portfolio/wp3_landcover/</link>
+      <title>Cartografía de la cobertura del suelo</title>
+      <link>https://retoschmucki.github.io/surpass2web/es/portfolio/wp3_landcover/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/es/portfolio/wp3_landcover/</guid>
-      <description>Cartografía de la cubierta terrestre y la demanda de polinización Los productos de teleobservación, la información sobre el terreno y los modelos de servicios de polinización se utilizarán para elaborar mapas de la cubierta terrestre capaces de informar sobre la distribución de la demanda de polinización. Cuando se combinen con modelos de redes de características funcionales y de interacción, estos mapas nos ayudarán a cuantificar la demanda de servicios de polinización en todos los paisajes y a predecir y gestionar mejor las existencias y los beneficios disponibles.</description>
+      <guid>https://retoschmucki.github.io/surpass2web/es/portfolio/wp3_landcover/</guid>
+      <description>Cartografía de la cobertura del suelo y la demanda de polinización Los productos de detección remota, la información sobre el terreno y los modelos de servicios de polinización se utilizarán para elaborar mapas de cobertura del suelo capaces de informar sobre la distribución de la demanda de polinización. Combinados con modelos de redes de rasgos funcionales e interacción, estos mapas nos ayudarán a cuantificar la demanda de servicios de polinización en todos los paisajes y a predecir y manejar de modo más adecuado los recursos y beneficios disponibles.</description>
     </item>
     
     <item>
       <title>Servicios de los ecosistemas</title>
-      <link>/surpass2web/es/portfolio/wp4_modelling/</link>
+      <link>https://retoschmucki.github.io/surpass2web/es/portfolio/wp4_modelling/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/es/portfolio/wp4_modelling/</guid>
-      <description>Modelización de servicios de polinización y poblaciones de insectos Servicios de los ecosistemas Modelización de servicios de polinización y poblaciones de insectos Las abejas administradas y salvajes proporcionan importantes servicios de polinización para muchos cultivos. Si bien la demanda de polinización ha ido en aumento, la abundancia de abejas ha ido disminuyendo en muchas zonas.
+      <guid>https://retoschmucki.github.io/surpass2web/es/portfolio/wp4_modelling/</guid>
+      <description>Modelado de servicios de polinización y poblaciones de insectos Servicios ecosistémicos Modelado de servicios de polinización y poblaciones de insectos Las abejas, tanto manejadas como silvestres, proporcionan importantes servicios de polinización para muchos cultivos. Si bien la demanda de polinización ha ido en aumento, la abundancia de abejas ha ido disminuyendo en muchas zonas.
 Es importante estudiar la forma en que los paisajes agrícolas afectan a las poblaciones de abejas y cómo las abejas, a su vez, mejoran la polinización de los cultivos.</description>
     </item>
     

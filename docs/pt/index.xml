@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SURPASS2-PT</title>
-    <link>/surpass2web/pt/</link>
+    <link>https://retoschmucki.github.io/surpass2web/pt/</link>
     <description>Recent content on SURPASS2-PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/surpass2web/pt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retoschmucki.github.io/surpass2web/pt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Monitoramento de insetos polinizadores</title>
-      <link>/surpass2web/pt/portfolio/wp1_monitoring/</link>
+      <link>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp1_monitoring/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/pt/portfolio/wp1_monitoring/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp1_monitoring/</guid>
       <description>Monitoramento das condições atuais e tendências dos polinizadores e serviços de polinização Existem evidências de declínios em larga escala em polinizadores na América do Norte e Europa, mas relativamente pouco se sabe sobre sua condição atual e tendências na América do Sul. Uma abordagem robusta de monitoramento é fundamental para aumentar a base de evidências para a compreensão das ameaças aos polinizadores animais e sustentar políticas para o seu manejo sustentável e conservação.</description>
     </item>
     
     <item>
       <title>Polinização de culturas</title>
-      <link>/surpass2web/pt/portfolio/wp2_experiment/</link>
+      <link>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp2_experiment/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/pt/portfolio/wp2_experiment/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp2_experiment/</guid>
       <description>Avaliar os impactos da intensificação da paisagem e do contexto sobre a abundância e o comportamento dos polinizadores A expansão e intensificação da agricultura têm sido ligadas a perdas de polinizadores e polinização, e embora as múltiplas pressões interajam, a limpeza e deterioração do habitat são consideradas os mais importantes motores destes efeitos. O monitoramento efetivo das populações e seu impacto sobre os serviços de polinização é, portanto, uma parte crucial para validar o custo de tal manejo.</description>
     </item>
     
     <item>
       <title>Mapeamento da cobertura do terreno</title>
-      <link>/surpass2web/pt/portfolio/wp3_landcover/</link>
+      <link>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp3_landcover/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/pt/portfolio/wp3_landcover/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp3_landcover/</guid>
       <description>Mapeamento da Cobertura do Terreno e da Demanda de Polinização Produtos de sensoriamento remoto, informações do solo e modelos de serviços de polinização serão utilizados para desenvolver mapas de cobertura do solo capazes de informar sobre a distribuição da demanda de polinização. Quando acoplados a modelos de características funcionais e redes de interação, esses mapas nos ajudarão a quantificar a demanda em serviços de polinização em paisagens e a melhor prever e gerenciar estoques e benefícios disponíveis.</description>
     </item>
     
     <item>
       <title>Serviços Ecossistêmicos</title>
-      <link>/surpass2web/pt/portfolio/wp4_modelling/</link>
+      <link>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp4_modelling/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/pt/portfolio/wp4_modelling/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp4_modelling/</guid>
       <description>Modelagem de Serviços de Polinização e Populações de Insetos As abelhas manejadas e silvestres fornecem importantes serviços de polinização para muitas culturas. Enquanto a demanda por polinização vem aumentando, a abundância de abelhas vem diminuindo em muitas áreas.
 É importante estudar como as paisagens agrícolas afetam as populações de abelhas e como as abelhas, por sua vez, melhoram a polinização dos cultivos. Entender esses processos com mais detalhes nos ajudará a criar uma situação de ganho mútuo para os agricultores e abelhas.</description>
     </item>

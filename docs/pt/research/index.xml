@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pesquisa on SURPASS2-PT</title>
-    <link>/surpass2web/pt/research/</link>
+    <link>https://retoschmucki.github.io/surpass2web/pt/research/</link>
     <description>Recent content in Pesquisa on SURPASS2-PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
     
-	<atom:link href="/surpass2web/pt/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retoschmucki.github.io/surpass2web/pt/research/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

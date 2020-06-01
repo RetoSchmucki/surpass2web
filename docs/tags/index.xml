@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SURPASS2</title>
-    <link>/surpass2web/tags/</link>
+    <link>https://retoschmucki.github.io/surpass2web/tags/</link>
     <description>Recent content in Tags on SURPASS2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/surpass2web/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retoschmucki.github.io/surpass2web/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>plot</title>
-      <link>/surpass2web/tags/plot/</link>
+      <link>https://retoschmucki.github.io/surpass2web/tags/plot/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/tags/plot/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/surpass2web/tags/r-markdown/</link>
+      <link>https://retoschmucki.github.io/surpass2web/tags/r-markdown/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/tags/r-markdown/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/surpass2web/tags/regression/</link>
+      <link>https://retoschmucki.github.io/surpass2web/tags/regression/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/tags/regression/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>business</title>
-      <link>/surpass2web/tags/business/</link>
+      <link>https://retoschmucki.github.io/surpass2web/tags/business/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>/surpass2web/tags/business/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>people</title>
-      <link>/surpass2web/tags/people/</link>
+      <link>https://retoschmucki.github.io/surpass2web/tags/people/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>/surpass2web/tags/people/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gis</title>
-      <link>/surpass2web/tags/gis/</link>
+      <link>https://retoschmucki.github.io/surpass2web/tags/gis/</link>
       <pubDate>Thu, 12 Apr 2018 09:00:00 +0000</pubDate>
       
-      <guid>/surpass2web/tags/gis/</guid>
+      <guid>https://retoschmucki.github.io/surpass2web/tags/gis/</guid>
       <description></description>
     </item>
     

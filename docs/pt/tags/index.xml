@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SURPASS2-PT</title>
-    <link>/surpass2web/pt/tags/</link>
+    <link>https://retoschmucki.github.io/surpass2web/pt/tags/</link>
     <description>Recent content in Tags on SURPASS2-PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     
-	<atom:link href="/surpass2web/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://retoschmucki.github.io/surpass2web/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
