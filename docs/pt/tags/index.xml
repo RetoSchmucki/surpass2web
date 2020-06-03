@@ -6,9 +6,37 @@
     <description>Recent content in Tags on SURPASS2-PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://retoschmucki.github.io/surpass2web/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Citizen Science</title>
+      <link>https://retoschmucki.github.io/surpass2web/pt/tags/citizen-science/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/pt/tags/citizen-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://retoschmucki.github.io/surpass2web/pt/tags/education/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/pt/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

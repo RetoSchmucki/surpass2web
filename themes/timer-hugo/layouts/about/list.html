@@ -27,18 +27,20 @@
 </section>
 
 {{ "<!--  Company Feature Section Start -->" | safeHTML }}
-<section class="about-feature clearfix">
-    <div class="container-fluid">
-        <div class="block">
-            {{ range $index, $element := .aboutItem }}
-            <div class="col-md-12">
-                {{ $class := add $index 1 }}
-                <div class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
-                    {{ with .title }}<h2>{{ . }}</h2>{{ end }}
-                    {{ with .description | markdownify }}<p>{{ . }}</p>{{ end }}
+<section class="company-description">
+    <div class="container">
+        <div class="row">
+            <div class="block">
+                {{ range $index, $element := .aboutItem }}
+                <div class="col-md-12">
+                    {{ $class := add $index 1 }}
+                    {{ with .title }}<h3 class="subtitle text-left">{{ . }}</h3>{{ end }}
+                    {{ with .description | markdownify }}
+                    <p class="wow fadeInDown" data-wow-duration=".5s" data-wow-delay=".3s">
+                        {{ . | safeHTML}}</p>{{ end }}
                 </div>
+                {{ end }}
             </div>
-            {{ end }}
         </div>
     </div>
 </section>

@@ -40,9 +40,13 @@ DefaultContentLanguage = "en"
 #        url     = "/research/"
 #        weight  = 3
 #    [[menu.nav]]
+#        name    = "Blog"
+#        url     = "/blog/"
+#        weight  = 4
+#    [[menu.nav]]
 #        name    = "Contact"
 #        url     = "/contact/"
-#        weight  = 4
+#        weight  = 5
 
 [Languages]
     [Languages.en]
@@ -83,9 +87,13 @@ DefaultContentLanguage = "en"
             url     = "research/"
             weight  = 3
         [[Languages.en.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
+        [[Languages.en.menu.nav]]
             name    = "Contact"
             url     = "contact/"
-            weight  = 4
+            weight  = 5
 
        [[Languages.fr.menu.nav]]
             name    = "Accueil"
@@ -103,10 +111,14 @@ DefaultContentLanguage = "en"
             url     = "fr/research/"
             weight  = 3
         [[Languages.fr.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
+        [[Languages.fr.menu.nav]]
             name    = "Contact"
             identifier = "contact"
             url     = "fr/contact/"
-            weight  = 4
+            weight  = 5
 
        [[Languages.es.menu.nav]]
             name    = "Inicio"
@@ -124,10 +136,14 @@ DefaultContentLanguage = "en"
             url     = "es/research/"
             weight  = 3
         [[Languages.es.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
+        [[Languages.es.menu.nav]]
             name    = "Contacto"
             identifier = "contact"
             url     = "es/contact/"
-            weight  = 4
+            weight  = 5
 
        [[Languages.pt.menu.nav]]
             name    = "Início"
@@ -145,10 +161,14 @@ DefaultContentLanguage = "en"
             url     = "pt/research/"
             weight  = 3
         [[Languages.pt.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
+        [[Languages.pt.menu.nav]]
             name    = "Contato"
             identifier = "contact"
             url     = "pt/contact/"
-            weight  = 4
+            weight  = 5
 
 # Banner Section
     [Languages.en.params.banner]
