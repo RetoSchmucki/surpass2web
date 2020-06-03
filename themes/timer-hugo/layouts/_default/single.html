@@ -11,6 +11,10 @@
                         <span> Tags:
                             {{ if ne .Params.tags nil }}{{ delimit .Params.tags ", " }}{{ end }}
                         </span>
+                        {{ with .Params.author }}<span>
+                            {{ . }}
+                        </span>
+                        {{ end }}
                     </div>
                 </div>
             </div>

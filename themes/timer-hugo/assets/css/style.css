@@ -42,6 +42,27 @@ a:hover {
   text-decoration: none;
 }
 
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto;
+    max-width: 80%
+}
+
+img[src$='#floatleft']
+{
+    float: left;
+    margin: 0.5rem;
+    max-width: 47%
+}
+
+img[src$='#floatright']
+{
+    float: right;
+    margin: 0.5rem;
+    max-width: 47%
+}
+
 .inline-icon {
   height: 2em;
   width: 2em;
@@ -181,7 +202,7 @@ a:hover {
 }
 
 .company-description {
-  padding: 70px 0;
+  padding: 25px 0;
 }
 
 .company-description .block h3 {
@@ -342,7 +363,7 @@ a.pure-menu-link:hover {
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  padding: 230px 0px 20px 0px;
+  padding: 80px 0px 20px 0px;
   color: #fff;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   position: relative;
@@ -379,7 +400,7 @@ a.pure-menu-link:hover {
   margin-bottom: 38px;
   line-height: 27px;
   text-transform: uppercase;
-  color: #666;
+  color: #414141;
   font-family: 'Roboto', sans-serif;
   margin-top: 25px;
 }
@@ -995,6 +1016,12 @@ article {
   font-size: 17.5px;
   border-left: 5px solid #eee;
 }
+
+/*
+.post-content img {
+  max-width: 75%;
+}
+*/
 
 .single-post .post-content ol li,
 .single-post .post-content ul li {

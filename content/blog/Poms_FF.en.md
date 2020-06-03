@@ -17,7 +17,8 @@ Through a collaboration with the local [EXPLORA project](https://www.explora.cl/
 
 On December 3th and 4th we made a pilot pollinator count around Villarrica downtown, as a result of a collaboration between the Catholic University of Valparaiso (NERC partner in Chile) and the Catholic University of Chile, who presides the regional EXPLORA project. 
 
-![School children from the Araucania region studying pollinators ](images/blog/IMG_2871.JPG)
+![School children from the Araucania region studying pollinators ](/images/blog/IMG_9632.JPG#floatleft)
+![School children from the Araucania region studying pollinators ](/images/blog/IMG_2871.JPG#floatright)
 
 *School children from the Araucania region studying pollinators*
 

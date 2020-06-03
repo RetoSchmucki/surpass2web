@@ -17,7 +17,8 @@ Através de uma colaboração com o projeto regional [EXPLORA](https://www.explo
 
 Nos dias 3 e 4 de dezembro fizemos uma contagem piloto de polinizadores no centro de Villarrica, como resultado de uma colaboração entre a Universidade Católica de Valparaíso (parceira do NERC no Chile) e a Universidade Católica do Chile, que leva o projeto regional EXPLORA.  
 
-![Crianças de escolas da região da Araucania estudando polinizadores](images/blog/IMG_2871.JPG)
+![Crianças de escolas da região da Araucania estudando polinizadores](/images/blog/IMG_9632.JPG#floatleft)
+![Crianças de escolas da região da Araucania estudando polinizadores](/images/blog/IMG_2871.JPG#floatright)
 
 *Crianças de escolas da região da Araucania estudando polinizadores*
 
