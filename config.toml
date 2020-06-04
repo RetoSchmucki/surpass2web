@@ -253,6 +253,8 @@ DefaultContentLanguage = "en"
     # Meta data
     description = "Airspace Hugo theme"
     author = "Reto Schmucki"
+    # Google Analitycs
+    googleAnalitycsID = "UA-154857767-3"
 
     [Languages.fr.params]
     logo = "images/surpass_logo.png"
