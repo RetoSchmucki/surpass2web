@@ -86,10 +86,10 @@ DefaultContentLanguage = "en"
             name    = "Research"
             url     = "research/"
             weight  = 3
-#        [[Languages.en.menu.nav]]
-#            name    = "Blog"
-#            url     = "blog/"
-#            weight  = 4
+        [[Languages.en.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
         [[Languages.en.menu.nav]]
             name    = "Contact"
             url     = "contact/"
@@ -160,10 +160,10 @@ DefaultContentLanguage = "en"
             identifier = "research"
             url     = "pt/research/"
             weight  = 3
-#        [[Languages.pt.menu.nav]]
-#            name    = "Blog"
-#            url     = "blog/"
-#            weight  = 4
+        [[Languages.pt.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
         [[Languages.pt.menu.nav]]
             name    = "Contato"
             identifier = "contact"
