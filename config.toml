@@ -135,10 +135,10 @@ DefaultContentLanguage = "en"
             identifier = "research"
             url     = "es/research/"
             weight  = 3
-#        [[Languages.es.menu.nav]]
-#            name    = "Blog"
-#            url     = "blog/"
-#            weight  = 4
+        [[Languages.es.menu.nav]]
+            name    = "Blog"
+            url     = "blog/"
+            weight  = 4
         [[Languages.es.menu.nav]]
             name    = "Contacto"
             identifier = "contact"

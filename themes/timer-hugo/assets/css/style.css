@@ -202,7 +202,7 @@ img[src$='#floatright']
 }
 
 .company-description {
-  padding: 25px 0;
+  padding: 75px 0;
 }
 
 .company-description .block h3 {
@@ -210,6 +210,18 @@ img[src$='#floatright']
 }
 
 .company-description .block p {
+  color: #727272;
+}
+
+.company-description_2 {
+  padding: 0px 0;
+}
+
+.company-description_2 .block h3 {
+  margin-top: 0;
+}
+
+.company-description_2 .block p {
   color: #727272;
 }
 
