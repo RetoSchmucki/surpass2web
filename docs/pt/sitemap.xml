@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://retoschmucki.github.io/surpass2web/pt/blog/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/blog/"
-                />
-  </url>
-  
-  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/categories/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -279,6 +259,26 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/portfolio/wp4_modelling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/pt/blog/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/blog/"
                 />
   </url>
   

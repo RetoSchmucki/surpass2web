@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on SURPASS2-PT</title>
+    <title>Blog on SURPASS2-PT</title>
     <link>https://retoschmucki.github.io/surpass2web/pt/blog/</link>
-    <description>Recent content in Blogs on SURPASS2-PT</description>
+    <description>Recent content in Blog on SURPASS2-PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate>
     
 	<atom:link href="https://retoschmucki.github.io/surpass2web/pt/blog/index.xml" rel="self" type="application/rss+xml" />
     

@@ -112,7 +112,7 @@ DefaultContentLanguage = "en"
             weight  = 3
         [[Languages.fr.menu.nav]]
             name    = "Blog"
-            url     = "blog/"
+            url     = "fr/blog/"
             weight  = 4
         [[Languages.fr.menu.nav]]
             name    = "Contact"
@@ -137,7 +137,7 @@ DefaultContentLanguage = "en"
             weight  = 3
         [[Languages.es.menu.nav]]
             name    = "Blog"
-            url     = "blog/"
+            url     = "es/blog/"
             weight  = 4
         [[Languages.es.menu.nav]]
             name    = "Contacto"
@@ -162,7 +162,7 @@ DefaultContentLanguage = "en"
             weight  = 3
         [[Languages.pt.menu.nav]]
             name    = "Blog"
-            url     = "blog/"
+            url     = "pt/blog/"
             weight  = 4
         [[Languages.pt.menu.nav]]
             name    = "Contato"

@@ -6,7 +6,7 @@ date: "2020-06-03"
 image: images/blog/IMG_9632.JPG
 categories: ["Citizen Science"]
 tags: ["Citizen Science", "Monitoring", "Education"]
-published: true
+publish: true
 ---
 ### Contando polinizadores
 
