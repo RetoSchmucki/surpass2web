@@ -4,6 +4,7 @@ author: "Francisco E. Fontúrbel (PUCV)"
 title: "PoMS no exterior"
 date: "2020-06-03"
 image: images/blog/IMG_9632.JPG
+image_header: images/blog/bee_drawing_wide.png
 categories: ["Citizen Science"]
 tags: ["Citizen Science", "Monitoring", "Education"]
 publish: true
