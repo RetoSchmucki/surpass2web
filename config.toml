@@ -297,7 +297,7 @@ DefaultContentLanguage = "en"
        title   = "Ayúdenos a determinar las prioridades para la vigilancia de los polinizadores en América Latina"
        subtitle= ""
        btn     = true
-       btnText = "Ete a nuestra encuesta en línea"
+       btnText = "Complete nuestra encuesta"
        btnURL  = "survey/"
 
     [Languages.pt.params.call]
