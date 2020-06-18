@@ -290,7 +290,7 @@ DefaultContentLanguage = "en"
        subtitle= ""
        btn     = true
        btnText = "Join our online survey"
-       btnURL  = "survey/"
+       btnURL  = "survey/index"
 
     [Languages.es.params.call]
        enable  = true
