@@ -1,0 +1,10 @@
+{
+    "sshfs.configs": [
+        {
+            "host": "cirrus",
+            "name": "cirrus_home",
+            "privateKeyPath": "ssh_rsa",
+            "username": "retoschm"
+        }
+    ]
+}

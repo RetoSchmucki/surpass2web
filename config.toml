@@ -283,7 +283,32 @@ DefaultContentLanguage = "en"
     description = "Airspace Hugo theme"
     author = "Reto Schmucki"
 
-     # Homepage Funding Section
+# Call Section On Homepage
+    [Languages.en.params.call]
+       enable  = true
+       title   = "Help us shape priorities for pollinator monitoring in Latin America!"
+       subtitle= ""
+       btn     = true
+       btnText = "Join our online survey"
+       btnURL  = "survey/"
+
+    [Languages.es.params.call]
+       enable  = true
+       title   = "Ayúdenos a determinar las prioridades para la vigilancia de los polinizadores en América Latina"
+       subtitle= ""
+       btn     = true
+       btnText = "Ete a nuestra encuesta en línea"
+       btnURL  = "survey/"
+
+    [Languages.pt.params.call]
+       enable  = true
+       title   = "Ajude-nos a definir prioridades para o Pollinator Monitoring na América Latina"
+       subtitle= ""
+       btn     = true
+       btnText = "Participe de uma pesquisa online"
+       btnURL  = "survey/"
+
+# Homepage Funding Section
      [params.partners]
         enable  = true
         title   = "Funding"

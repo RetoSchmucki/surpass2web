@@ -529,6 +529,51 @@ a.pure-menu-link:hover {
   background: #00A6BB;
 }
 
+.call {
+  padding: 40px 0px 20px 0px;
+  background: rgb(9, 43, 82);
+}
+
+.call .section-heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.call .title {
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.call .block {
+  position: relative;
+  z-index: 99;
+}
+
+.call p {
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.call .btn {
+  background: rgb(221, 129, 8);
+  border: none;
+  color: #fff;
+  padding: 20px 10px;
+  font-size: 16px;
+  line-height: 1em;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  border-radius: 0;
+}
+
 .works {
   padding: 80px 0;
   background: #FCFCFC;
