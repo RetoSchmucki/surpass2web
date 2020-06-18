@@ -17,5 +17,5 @@ Em todo o mundo, muitos insetos polinizadores estão diminuindo na distribuiçã
 
 SURPASS2 está trabalhando com a comunidade acadêmica, governo e atores sociais relevantes para co-desenhar uma estrutura padronizada de monitoramento para avaliar a situação e tendências dos polinizadores e serviços de polinização em toda a América Latina, com um foco inicial na Argentina, Chile e Brasil.
 
-> ** Você pode nos ajudar a identificar quais grupos de polinizadores, métodos e métricas os esforços futuros de monitoramento devem focar, participando da nossa pequena pesquisa (10-15 minutos; links abaixo). Sua contribuição nos ajudará a priorizar nossos esforços e a co-desenvolver uma estrutura de monitoramento de longo prazo mais robusta.**
+> **Você pode nos ajudar a identificar quais grupos de polinizadores, métodos e métricas os esforços futuros de monitoramento devem focar, participando da nossa pequena pesquisa (10-15 minutos; links abaixo). Sua contribuição nos ajudará a priorizar nossos esforços e a co-desenvolver uma estrutura de monitoramento de longo prazo mais robusta.**
 
