@@ -343,21 +343,21 @@
   </url>
   
   <url>
-    <loc>https://retoschmucki.github.io/surpass2web/es/survey/</loc>
+    <loc>https://retoschmucki.github.io/surpass2web/es/_survey/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/survey/"
+                href="https://retoschmucki.github.io/surpass2web/_survey/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/survey/"
+                href="https://retoschmucki.github.io/surpass2web/pt/_survey/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/survey/"
+                href="https://retoschmucki.github.io/surpass2web/es/_survey/"
                 />
   </url>
   
