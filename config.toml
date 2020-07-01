@@ -286,27 +286,27 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "Help us shape priorities for pollinator monitoring in Latin America!"
+       title   = "A big thank you to all of you who contributed to our online survey, your responses will help us shape priorities for pollinator monitoring in Latin America!"
        subtitle= ""
        btn     = true
-       btnText = "Join our online survey"
-       btnURL  = "survey/index"
+       btnText = "Learn More"
+       btnURL  = "portfolio/wp1_monitoring/"
 
     [Languages.es.params.call]
        enable  = true
-       title   = "Ayúdenos a determinar las prioridades para la vigilancia de los polinizadores en América Latina"
+       title   = "Un gran agreadecimiento a todos los que contribuyeron a nuestra encuesta en línea, su respuesta será ayúdenos a determinar las prioridades para la vigilancia de los polinizadores en América Latina"
        subtitle= ""
        btn     = true
-       btnText = "Complete nuestra encuesta"
-       btnURL  = "survey/"
+       btnText = "Más información"
+       btnURL  = "portfolio/wp1_monitoring/"
 
     [Languages.pt.params.call]
        enable  = true
-       title   = "Ajude-nos a definir prioridades para o Pollinator Monitoring na América Latina"
+       title   = "Um grande obrigado a todos vocês que contribuíram para nossa pesquisa online, sua resposta será ajude-nos a definir prioridades para o Pollinator Monitoring na América Latina"
        subtitle= ""
        btn     = true
-       btnText = "Participe de uma pesquisa online"
-       btnURL  = "survey/"
+       btnText = "Mais informações"
+       btnURL  = "portfolio/wp1_monitoring/"
 
 # Homepage Funding Section
      [params.partners]
