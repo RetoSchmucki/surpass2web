@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-author: "Reto Schmucki & Francisco E. Fontúrbel (PUCV)"
+author: "Reto Schmucki, Manuel Lopez-Aliste & Francisco E. Fontúrbel (PUCV)"
 title: "A Century of Bee Data"
 date: "2020-10-14"
 image: images/blog/gbif_front.PNG
