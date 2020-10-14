@@ -16,4 +16,4 @@ Over the last year, our partner in Chile has worked to mobilize, standardize, an
 
 This database presents the largest dataset of Chilean wild bees (Apoidea) with 36,010 records comprising over 40 years of data. This collection is held by the Pontificia Universidad Catolica de Valparaiso, being the largest in the country. Prof. Haroldo Toro started this collection and prof. Luisa Ruz continued his legacy. A first effort to digitize this information was made in 2008 through the IABIN project that gathered pollinator datasets from Latin America, but when the funding was over, the database became offline. Now, in the frame of the SURPASS2 project, we recovered the PUCV wild bee collection, updated the taxonomy, estimated geographic coordinates for most of the records, and standardized it to DarwinCore to make it freely available through GBIF. This endeavor aims to open this natural legacy to everyone and encourage more research in this field.
 
-*Reto Schmucki & Francisco E. Fontúrbel, PUCV* 
+*Reto Schmucki, Manuel Lopez-Aliste & Francisco E. Fontúrbel, PUCV* 
