@@ -6,10 +6,19 @@
     <description>Recent content in Categories on SURPASS2-ES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://retoschmucki.github.io/surpass2web/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biodiversiyt data</title>
+      <link>https://retoschmucki.github.io/surpass2web/es/categories/biodiversiyt-data/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/es/categories/biodiversiyt-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Citizen Science</title>

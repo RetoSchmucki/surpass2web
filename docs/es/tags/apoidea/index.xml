@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apoidea on SURPASS2-ES</title>
+    <link>https://retoschmucki.github.io/surpass2web/es/tags/apoidea/</link>
+    <description>Recent content in Apoidea on SURPASS2-ES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://retoschmucki.github.io/surpass2web/es/tags/apoidea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Century of Bee Data</title>
+      <link>https://retoschmucki.github.io/surpass2web/es/blog/chile_gbif/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/es/blog/chile_gbif/</guid>
+      <description>Mobilizing Biodiversity Data Over the last year, our partner in Chile has worked to mobilize, standardize, and digitize a century of bee data in Chile. With this effort, our colleagues have secured 100 years of biological recording for generations and made it available to the world and via the GBIF portal.
+This database presents the largest dataset of Chilean wild bees (Apoidea) with 36,010 records comprising over 40 years of data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,7 +10,7 @@ tags: ["Open Access", "Data", "Biodiversity collection", "Bees", "Apoidea"]
 publish: true
 ---
 
-### Mobilizing a Century of Biodiversity Data
+### Mobilizing Biodiversity Data
 
 Over the last year, our partner in Chile has worked to mobilize, standardize, and digitize a century of bee data in Chile. With this effort, our colleagues have secured 100 years of biological recording for generations and made it available to the world and via the [GBIF portal](https://www.gbif.org/dataset/3bccb697-4ccc-4d46-848a-79cb06946e5c#).
 
