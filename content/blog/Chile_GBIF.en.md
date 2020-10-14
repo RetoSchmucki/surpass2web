@@ -1,33 +1,22 @@
 ﻿---
 layout: post
-author: "Francisco E. Fontúrbel (PUCV)"
-title: "PoMS overseas"
-date: "2020-06-03"
-image: images/blog/IMG_9632.JPG
-image_header: images/blog/bee_drawing_wide.png
-categories: ["Citizen Science"]
-tags: ["Citizen Science", "Monitoring", "Education"]
+author: "Reto Schmucki & Francisco E. Fontúrbel (PUCV)"
+title: "A Century of Bee Data"
+date: "2020-10-14"
+image: images/blog/gbif_front1.PNG
+image_header: images/blog/gbif_front.PNG
+categories: ["Biodiversiyt data"]
+tags: ["Open Access", "Data", "Biodiversity collection", "Bees", "Apoidea"]
 publish: true
 ---
 
-### Counting pollinators
+### Mobilizing a Century of Biodiversity Data
 
-In the frame of the NERC-funded project SURPASS2 (Safeguarding pollination services in a changing world: theory into practice) that gathers researchers of UK, Argentina, Brazil, and Chile, we implemented for the first time the [FIT count](https://www.ceh.ac.uk/our-science/projects/pollinator-monitoring) methodology in Chile. 
+Over the last year, our partner in Chile has worked to mobilize, standardize, and digitize a century of bee data in Chile. With this effort, our colleagues have secured 100 years of biological recording for generations and made it available to the world and via the [GBIF portal](https://www.gbif.org/dataset/3bccb697-4ccc-4d46-848a-79cb06946e5c#).
 
-Through a collaboration with the local [EXPLORA project](https://www.explora.cl/araucania) from La Araucanía Region, in southern Chile, we adapted the pollinator monitoring scheme developed in the UK for South America. In this opportunity, children from elementary schools of the Araucanía region. 
+![original specimen label](images/blog/data.gbif.PNG)
 
-On 3<sup>rd</sup> and 4<sup>th</sup> December 2019, we made a pilot pollinator count around Villarrica downtown, as a result of a collaboration between the Catholic University of Valparaiso (NERC partner in Chile) and the Catholic University of Chile, who presides the regional EXPLORA project. 
+This database presents the largest dataset of Chilean wild bees (Apoidea) with 36,010 records comprising over 40 years of data. This collection is held by the Pontificia Universidad Catolica de Valparaiso, being the largest in the country. Prof. Haroldo Toro started this collection and prof. Luisa Ruz continued his legacy. A first effort to digitize this information was made in 2008 through the IABIN project that gathered pollinator datasets from Latin America, but when the funding was over, the database became offline. Now, in the frame of the SURPASS2 project, we recovered the PUCV wild bee collection, updated the taxonomy, estimated geographic coordinates for most of the records, and standardized it to DarwinCore to make it freely available through GBIF. This endeavor aims to open this natural legacy to everyone and encourage more research in this field.
 
-![School children from the Araucania region studying pollinators ](/images/blog/IMG_9632.JPG#floatleft)
-![School children from the Araucania region studying pollinators ](/images/blog/IMG_2871.JPG#floatright)
 
-*School children from the Araucania region studying pollinators*
-
-In this first approach to pollination, children realized that there are way more pollinators than honey bees and they got quite surprised counting large numbers of flower flies (important pollinators of the Chilean flora, due to its biogeographic context), beetles, and butterflies.
-
-> Participants noted the high abundance of the invasive bumblebee [*Bombus terrestris*](https://en.wikipedia.org/wiki/Bombus_terrestris), introduced from Europe in the late '90s for crop pollination, which caused a major decline in the native bumblebee [*Bombus dahlbomii*](https://www.iucnredlist.org/species/21215142/100240441). This endangered bumblebee was very common in the past and now is almost extinct despite having deep cultural roots, at it is considered as the material manifestation of the ancestors’ souls in the [Mapuche](https://en.wikipedia.org/wiki/Mapuche) cosmovision.
-
-We expect to develop a region-wide monitoring endeavour by 2020, and hopefully, expand pollinator counts to the other regional EXPLORA programs across Chile shortly. 
- 
-
-*Francisco E. Fontúrbel, PUCV* 
+*Reto Schmucki & Francisco E. Fontúrbel, PUCV* 
