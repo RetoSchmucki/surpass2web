@@ -19,7 +19,7 @@ This challenge has been coordinated with the [Chilean Pollinator Network](https:
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM3.png#floatleft)
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM7.png#floatright)
 
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM56.png#floatleft)
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM-2.png#floatright)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM6.png#floatleft)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM5-2.png#floatright)
 
 *Lorena Vieli, Maureen Murúa & Francisco E. Fontúrbel*
