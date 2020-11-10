@@ -298,7 +298,7 @@ DefaultContentLanguage = "en"
        subtitle= ""
        btn     = true
        btnText = "Más información"
-       btnURL  = "es/blog/chile_bioblitz/"
+       btnURL  = "blog/chile_bioblitz/"
 
     [Languages.pt.params.call]
        enable  = true
@@ -306,7 +306,7 @@ DefaultContentLanguage = "en"
        subtitle= ""
        btn     = true
        btnText = "Mais informações"
-       btnURL  = "pt/blog/chile_bioblitz/"
+       btnURL  = "blog/chile_bioblitz/"
 
 # Homepage Funding Section
      [params.partners]

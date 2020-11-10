@@ -4,7 +4,7 @@ author: "Lorena Vieli, Maureen Murúa & Francisco E. Fontúrbel"
 title: "Desafío Bioblitz"
 date: "2020-11-10"
 image: images/blog/bioblitz_narrow.jpg
-image_header: images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM3.png
+image_header:  images/blog/bee_photo_bioblitz.jpg
 categories: ["Monitoring"]
 tags: ["Monitoring", "Data", "Biodiversity collection", "Interaction"]
 publish: true
@@ -16,9 +16,10 @@ Durante noviembre 2020 los miembros del equipo chileno de SURPASS han lanzado un
 
 Este desafío ha sido coordinado con la [Red Chilena de Polinización](https://polinizacionchile.org) y se anima a las personas a adherir su observación al proyecto "Red Chilena de Polinización". Los investigadores pretenden incrementar la cantidad de observaciones de polinizadores con el objetivo de conocer más sobre su distribución y monitorear sus tendencias en el futuro.
 
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM1.png#floatleft)
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM2.png#floatrigth)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM5-2.png#floatleft)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM6.png#floatrigth)
+
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM3.png#floatleft)
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM4.png#floatrigth)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM7.png#floatrigth)
 
 *Lorena Vieli, Maureen Murúa & Francisco E. Fontúrbel*

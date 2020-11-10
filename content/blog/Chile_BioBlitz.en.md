@@ -4,7 +4,7 @@ author: "Lorena Vieli, Maureen Murúa & Francisco E. Fontúrbel"
 title: "Bioblitz Challenge - Chile"
 date: "2020-11-10"
 image: images/blog/bioblitz_narrow.jpg
-image_header: images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM3.png
+image_header: images/blog/bee_photo_bioblitz.jpg
 categories: ["Monitoring"]
 tags: ["Monitoring", "Data", "Biodiversity collection", "Interaction"]
 publish: true
@@ -18,6 +18,7 @@ This challenge has been coordinated with the [Chilean Pollinator Network](https:
 
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM1.png#floatleft)
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM2.png#floatrigth)
+
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM3.png#floatleft)
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM4.png#floatrigth)
 
