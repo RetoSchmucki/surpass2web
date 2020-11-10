@@ -17,9 +17,9 @@ During November 2020 the Chilean members of SURPASS have launched a Bioblitz to 
 This challenge has been coordinated with the [Chilean Pollinator Network](https://polinizacionchile.org) and citizens are encouraged to adhere their observation to the project "Red Chilena de Polinización". Researchers aim to increase the amount of observations for pollinators in order to better assess their distribution and monitor their trends in the future.
 
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM1.png#floatleft)
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM2.png#floatrigth)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM2.png#floatright)
 
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM3.png#floatleft)
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM4.png#floatrigth)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM4.png#floatright)
 
 *Lorena Vieli, Maureen Murúa & Francisco E. Fontúrbel*
