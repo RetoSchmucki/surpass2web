@@ -16,10 +16,10 @@ Durante noviembre 2020 los miembros del equipo chileno de SURPASS han lanzado un
 
 Este desafío ha sido coordinado con la [Red Chilena de Polinización](https://polinizacionchile.org) y se anima a las personas a adherir su observación al proyecto "Red Chilena de Polinización". Los investigadores pretenden incrementar la cantidad de observaciones de polinizadores con el objetivo de conocer más sobre su distribución y monitorear sus tendencias en el futuro.
 
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM5-2.png#floatleft)
-![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM6.png#floatright)
-
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM3.png#floatleft)
 ![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM7.png#floatright)
+
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM56.png#floatleft)
+![](/images/blog/AFICHE-DIGITAL-SURPASS_INSTAGRAM-2.png#floatright)
 
 *Lorena Vieli, Maureen Murúa & Francisco E. Fontúrbel*
