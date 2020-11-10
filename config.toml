@@ -286,27 +286,27 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "Congratulation to our Chilean team for mobilizing the largest dataset of wild bees for Chile, 36,010 verified and standardized records now openly available on GBIF!"
+       title   = "SURPASS launch a Bioblitz to promote the use of iNaturalist across Chile"
        subtitle= ""
        btn     = true
        btnText = "Learn More"
-       btnURL  = "https://doi.org/10.15468/6knwyq"
+       btnURL  = "blog/chile_bioblitz/"
 
     [Languages.es.params.call]
        enable  = true
-       title   = "¡Felicitaciones a nuestro equipo chileno por movilizar el mayor conjunto de datos de abejas silvestres para Chile, 36,010 registros verificados y estandarizados ahora disponibles abiertamente en GBIF!"
+       title   = "SURPASS lanza un Bioblitz para promover el uso de iNaturalist en Chile"
        subtitle= ""
        btn     = true
        btnText = "Más información"
-       btnURL  = "https://doi.org/10.15468/6knwyq"
+       btnURL  = "es/blog/chile_bioblitz/"
 
     [Languages.pt.params.call]
        enable  = true
-       title   = "Parabéns à nossa equipe chilena por mobilizar o maior conjunto de dados de abelhas selvagens para o Chile, 36.010 registros verificados e padronizados agora disponíveis abertamente no GBIF!"
+       title   = "SURPASS lança um Bioblitz para promover o uso de iNaturalist em todo o Chile"
        subtitle= ""
        btn     = true
        btnText = "Mais informações"
-       btnURL  = "https://doi.org/10.15468/6knwyq"
+       btnURL  = "pt/blog/chile_bioblitz/"
 
 # Homepage Funding Section
      [params.partners]

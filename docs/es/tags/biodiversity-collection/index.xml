@@ -6,10 +6,19 @@
     <description>Recent content in Biodiversity collection on SURPASS2-ES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://retoschmucki.github.io/surpass2web/es/tags/biodiversity-collection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Desafío Bioblitz</title>
+      <link>https://retoschmucki.github.io/surpass2web/es/blog/chile_bioblitz/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/es/blog/chile_bioblitz/</guid>
+      <description>Noviembre - Desafío Bioblitz Durante noviembre 2020 los miembros del equipo chileno de SURPASS han lanzado un desafío Bioblitz para promover el uso de la app iNaturalist en el país. El objetivo de la iniciativa es concientizar sobre los polinizadores y aumentar los datos existentes respecto de este grupo en la plataforma iNaturalist. Observaciones de buena calidad y de las que sea posible identificar su especie pasan automáticamente a la plataforma GBIF.</description>
+    </item>
     
     <item>
       <title>A Century of Bee Data</title>

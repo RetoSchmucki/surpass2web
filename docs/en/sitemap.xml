@@ -3,6 +3,186 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://retoschmucki.github.io/surpass2web/blog/chile_bioblitz/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/blog/chile_bioblitz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/blog/chile_bioblitz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/blog/chile_bioblitz/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/biodiversity-collection/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/biodiversity-collection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/biodiversity-collection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/biodiversity-collection/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/categories/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/data/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/data/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/interaction/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/interaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/interaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/interaction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/categories/monitoring/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/categories/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/categories/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/categories/monitoring/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/monitoring/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/monitoring/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/blog/chile_gbif/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -63,26 +243,6 @@
   </url>
   
   <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/biodiversity-collection/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/biodiversity-collection/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/biodiversity-collection/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/biodiversity-collection/"
-                />
-  </url>
-  
-  <url>
     <loc>https://retoschmucki.github.io/surpass2web/categories/biodiversiyt-data/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -103,46 +263,6 @@
   </url>
   
   <url>
-    <loc>https://retoschmucki.github.io/surpass2web/categories/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/data/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/data/"
-                />
-  </url>
-  
-  <url>
     <loc>https://retoschmucki.github.io/surpass2web/tags/open-access/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -159,46 +279,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://retoschmucki.github.io/surpass2web/tags/open-access/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/"
                 />
   </url>
   
@@ -259,26 +339,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://retoschmucki.github.io/surpass2web/tags/education/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/monitoring/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/monitoring/"
                 />
   </url>
   
