@@ -39,9 +39,9 @@ layout: page2
 
 - [Koffler, S., Barbiéri, C., Ghilardi-Lopes, N.P., Leocadio, J.N., Albertini, B., Francoy, T.M., Saraiva, A.M., 2021. A Buzz for Sustainability and Conservation: The Growing Potential of Citizen Science Studies on Bees. Sustainability 13, 959. https://doi.org/10.3390/su13020959](https://doi.org/10.3390/su13020959)
 
-#### 2021
+#### 2020
 - [de Groot, G.S., Aizen, M.A., Sáez, A., Morales, C.L., 2021. Large-scale monoculture reduces honey yield: The case of soybean expansion in Argentina. Agriculture, Ecosystems & Environment 306, 107203. https://doi.org/10.1016/j.agee.2020.107203](https://doi.org/10.1016/j.agee.2020.107203)
-- 
+
 
 
 
