@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on SURPASS2-ES</title>
+    <link>https://retoschmucki.github.io/surpass2web/es/publication/</link>
+    <description>Recent content in Publications on SURPASS2-ES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="https://retoschmucki.github.io/surpass2web/es/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SURPASS Team Publications</title>
+      <link>https://retoschmucki.github.io/surpass2web/es/publication/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://retoschmucki.github.io/surpass2web/es/publication/publication/</guid>
+      <description>SURPASS in the Press 2021 Quarter of known bee species have not been recorded since 1990 by Patrick Barkham, The Guardian - Fri 22 Jan 2021
+ The number of wild bee species recorded by an international database of life on Earth has declined by a quarter since 1990, according to a global analysis of bee declines. Researchers analysed bee records from museums, universities and citizen scientists collated by the Global Biodiversity Information Facility, (GBIF)a global, government-funded network providing open-access data on biodiversity.</description>
+    </item>
+    
+  </channel>
+</rss>

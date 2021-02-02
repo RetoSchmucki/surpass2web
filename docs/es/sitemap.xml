@@ -561,4 +561,42 @@
                 />
   </url>
   
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/es/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/es/publication/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/publication/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/publication/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/publication/publication/"
+                />
+  </url>
+  
 </urlset>

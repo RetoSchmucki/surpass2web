@@ -91,6 +91,10 @@ DefaultContentLanguage = "en"
             url     = "blog/"
             weight  = 4
         [[Languages.en.menu.nav]]
+            name    = "Publication"
+            url     = "publication/"
+            weight  = 4
+        [[Languages.en.menu.nav]]
             name    = "Contact"
             url     = "contact/"
             weight  = 5
@@ -140,6 +144,10 @@ DefaultContentLanguage = "en"
             url     = "es/blog/"
             weight  = 4
         [[Languages.es.menu.nav]]
+            name    = "Publicación"
+            url     = "es/publication/"
+            weight  = 4
+        [[Languages.es.menu.nav]]
             name    = "Contacto"
             identifier = "contact"
             url     = "es/contact/"
@@ -163,6 +171,10 @@ DefaultContentLanguage = "en"
         [[Languages.pt.menu.nav]]
             name    = "Blog"
             url     = "pt/blog/"
+            weight  = 4
+        [[Languages.pt.menu.nav]]
+            name    = "Publicação"
+            url     = "es/publication/"
             weight  = 4
         [[Languages.pt.menu.nav]]
             name    = "Contato"

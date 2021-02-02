@@ -1,0 +1,52 @@
+
+{{ define "main" }}
+
+<style>
+    .bottom-px {
+        margin-bottom: 35px;
+    }
+</style>
+<!--
+{{ "<!-- Page Header -->" | safeHTML }}
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>{{ .Title }}</h2>
+                    <div class="breadcrumb list-inline text-center">
+                        <li class="list-inline-item">
+                            <a href="{{ .Language | absURL }}">
+                                <i class="ion-ios-home"></i>
+                                {{ T "home" }} &nbsp; &nbsp;/
+                            </a>
+                        </li>
+                        <li class="active list-inline-item">{{ .Title }}
+                        </li>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+-->
+<section id="works" class="work-single">
+    <div class="container">
+        {{ with .Params.image }}
+        <div class="post-img">
+         <div class="bottom-px">
+            <img class="img-fluid" alt="" src="{{ . | absURL }}">
+        </div>
+        </div>
+        {{ end }}
+        {{ with .Content }}
+        <div class="work-single-content">
+            {{ . }}
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+{{ partial "cta.html" . }}
+
+{{ end }}
