@@ -580,23 +580,4 @@
                 />
   </url>
   
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/pt/publication/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/publication/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/publication/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/publication/publication/"
-                />
-  </url>
-  
 </urlset>

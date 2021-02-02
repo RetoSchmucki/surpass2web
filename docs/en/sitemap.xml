@@ -103,26 +103,6 @@
   </url>
   
   <url>
-    <loc>https://retoschmucki.github.io/surpass2web/categories/monitoring/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/categories/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/categories/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/categories/monitoring/"
-                />
-  </url>
-  
-  <url>
     <loc>https://retoschmucki.github.io/surpass2web/tags/monitoring/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -139,6 +119,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://retoschmucki.github.io/surpass2web/tags/monitoring/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/categories/monitoring/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/categories/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/categories/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/categories/monitoring/"
                 />
   </url>
   
@@ -563,25 +563,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://retoschmucki.github.io/surpass2web/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/publication/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/publication/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/publication/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/publication/publication/"
                 />
   </url>
   
