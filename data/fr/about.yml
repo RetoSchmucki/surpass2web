@@ -10,7 +10,7 @@ image   : images/about/planning.jpg
 aboutItem:
   - title : Financement
     description: > 
-      Le projet SURPASS2 est financé dans le cadre du [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), en partenariat ave le Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), et Chile National Agency for Research and Development [(ANID)](https://www.anid.cl/). Référence de la subvention: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET - ANID: NE/S011870/1.
+      Le projet SURPASS2 est financé dans le cadre du [Newton Fund Latin America Biodiversity Programme](https://nerc.ukri.org/research/funded/programmes/latam/): Biodiversity - Ecosystem services for sustainable development, awarded by the UKRI Natural Environment Research Council [(NERC)](https://nerc.ukri.org/), en partenariat ave le Argentina National Scientific and Technical Research Council [(CONICET)](https://www.conicet.gov.ar/), Brazil/São Paulo Research Foundation [(FAPESP)](http://www.fapesp.br/en/), et Chile National Agency for Research and Development [(ANID)](https://www.anid.cl/). Référence de la subvention: [NERC: NE/S011870/2](https://gtr.ukri.org/projects?ref=NE/S011870/2) - [FAPESP: 2018/14994-1](http://www.fapesp.br/en/12852) - CONICET: RD 1984/19 - ANID: NE/S011870/1.
 
   # - title : Meet The Energy
   #   description: >
