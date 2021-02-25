@@ -298,7 +298,7 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "1-year postdoctoral opportunity in Argentina on pollinators and applied insect taxonomy"
+       title   = "Postdoctoral opportunity in Argentina on pollinators and applied insect taxonomy"
        subtitle= ""
        btn     = true
        btnText = "Learn More"
@@ -306,7 +306,7 @@ DefaultContentLanguage = "en"
 
     [Languages.es.params.call]
        enable  = true
-       title   = "Oportunidad postdoctoral de 1 año en Argentina sobre polinizadores y taxonomía de insectos aplicada"
+       title   = "Oportunidad postdoctoral en Argentina sobre polinizadores y aplicado taxonomía de insectos"
        subtitle= ""
        btn     = true
        btnText = "Más información"
@@ -314,7 +314,7 @@ DefaultContentLanguage = "en"
 
     [Languages.pt.params.call]
        enable  = true
-       title   = "Oportunidade de pós-doutorado de 1 ano na Argentina em polinizadores e taxonomia aplicada de insetos"
+       title   = "Oportunidade de pós-doutorado na Argentina em polinizadores e aplicado taxonomia de insetos"
        subtitle= ""
        btn     = true
        btnText = "Mais informações"
