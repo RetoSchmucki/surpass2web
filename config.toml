@@ -298,27 +298,27 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "Worldwide occurrence records suggest a global decline in bee species richness"
+       title   = "1-year postdoctoral opportunity in Argentina on pollinators and applied insect taxonomy"
        subtitle= ""
        btn     = true
        btnText = "Learn More"
-       btnURL  = "https://www.cell.com/one-earth/fulltext/S2590-3322(20)30651-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590332220306515%3Fshowall%3Dtrue"
+       btnURL  = "https://docs.google.com/document/d/1bWIpe2e52Ng97u1MaPX1_CglwKshMieViBXz6Y9pDBs/edit"
 
     [Languages.es.params.call]
        enable  = true
-       title   = "Los registros de ocurrencia a nivel mundial sugieren una disminución global de la riqueza de especies de abejas"
+       title   = "Oportunidad postdoctoral de 1 año en Argentina sobre polinizadores y taxonomía de insectos aplicada"
        subtitle= ""
        btn     = true
        btnText = "Más información"
-       btnURL  = "https://www.cell.com/one-earth/fulltext/S2590-3322(20)30651-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590332220306515%3Fshowall%3Dtrue"
+       btnURL  = "https://docs.google.com/document/d/1bWIpe2e52Ng97u1MaPX1_CglwKshMieViBXz6Y9pDBs/edit"
 
     [Languages.pt.params.call]
        enable  = true
-       title   = "Registros mundiais de ocorrência sugerem um declínio global na riqueza das espécies de abelhas"
+       title   = "Oportunidade de pós-doutorado de 1 ano na Argentina em polinizadores e taxonomia aplicada de insetos"
        subtitle= ""
        btn     = true
        btnText = "Mais informações"
-       btnURL  = "https://www.cell.com/one-earth/fulltext/S2590-3322(20)30651-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590332220306515%3Fshowall%3Dtrue"
+       btnURL  = "https://docs.google.com/document/d/1bWIpe2e52Ng97u1MaPX1_CglwKshMieViBXz6Y9pDBs/edit"
 
 # Homepage Funding Section
      [params.partners]
