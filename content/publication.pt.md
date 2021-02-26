@@ -42,6 +42,7 @@ layout: page2
 
 - [de Groot G.S, Aizen M.A, Sáez A, Morales C.L, 2021. Large-scale monoculture reduces honey yield: The case of soybean expansion in Argentina. Agriculture, Ecosystems & Environment 306, 107203. https://doi.org/10.1016/j.agee.2020.107203](https://doi.org/10.1016/j.agee.2020.107203)
 
+- [Aizen M.A, Arbetman M.P, Chacoff N.P, Chalcoff V.R, Feinsinger P, Garibaldi L.A, Harder L.D, Morales C.L, Sáez A, Vanbergen A.J, 2020. Chapter Two - Invasive bees and their impact on agriculture, in: Bohan, D.A., Vanbergen, A.J. (Eds.), Advances in Ecological Research, The Future of Agricultural Landscapes, Part I. Academic Press, pp. 49–92. https://doi.org/10.1016/bs.aecr.2020.08.001](https://doi.org/10.1016/bs.aecr.2020.08.001)
 ## SURPASS Data mobilisation and publication
 
 - [Lopez-Aliste M, Fonturbel F (2021). Chilean flower visitors. Pontificia Universidad Católica de Valparaíso. Occurrence dataset https://doi.org/10.15468/wwjm5s](https://doi.org/10.15468/wwjm5s)
