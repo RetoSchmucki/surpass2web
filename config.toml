@@ -298,27 +298,27 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "Postdoctoral opportunity in Argentina on pollinators and applied insect taxonomy"
+       title   = "DID YOU SEE A Bumblebee? HELP US BY COMPLETING THE REGIONAL FORM WHERE YOU HAVE SEEN IT"
        subtitle= ""
        btn     = true
        btnText = "Learn More"
-       btnURL  = "https://docs.google.com/document/d/1bWIpe2e52Ng97u1MaPX1_CglwKshMieViBXz6Y9pDBs/edit"
+       btnURL  = "https://www.abejorros.ar/"
 
     [Languages.es.params.call]
        enable  = true
-       title   = "Oportunidad postdoctoral en Argentina sobre polinizadores y aplicado taxonomía de insectos"
+       title   = "¿VISTE UN ABEJORRO? AYUDANOS COMPLETANDO EL FORMULARIO DE LA REGIÓN DONDE LO HAYAS VISTO"
        subtitle= ""
        btn     = true
        btnText = "Más información"
-       btnURL  = "https://docs.google.com/document/d/1bWIpe2e52Ng97u1MaPX1_CglwKshMieViBXz6Y9pDBs/edit"
+       btnURL  = "https://www.abejorros.ar/"
 
     [Languages.pt.params.call]
        enable  = true
-       title   = "Oportunidade de pós-doutorado na Argentina em polinizadores e aplicado taxonomia de insetos"
+       title   = "VOCÊ VIU UM Zangão? AJUDE-NOS PREENCHENDO O FORMULÁRIO DE REGIÃO ONDE VOCÊ VIU"
        subtitle= ""
        btn     = true
        btnText = "Mais informações"
-       btnURL  = "https://docs.google.com/document/d/1bWIpe2e52Ng97u1MaPX1_CglwKshMieViBXz6Y9pDBs/edit"
+       btnURL  = "https://www.abejorros.ar/"
 
 # Homepage Funding Section
      [params.partners]
