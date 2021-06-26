@@ -6,7 +6,11 @@
     <description>Recent content in Monitoring on SURPASS2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://retoschmucki.github.io/surpass2web/categories/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://retoschmucki.github.io/surpass2web/categories/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Bioblitz Challenge - Chile</title>
       <link>https://retoschmucki.github.io/surpass2web/blog/chile_bioblitz/</link>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/blog/chile_bioblitz/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
@@ -19,7 +20,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/blog/chile_bioblitz/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/biodiversity-collection/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -37,7 +40,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/biodiversity-collection/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/categories/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -55,7 +60,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/data/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -73,7 +80,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/data/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/interaction/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,7 +100,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/interaction/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -109,7 +120,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/categories/monitoring/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -127,7 +140,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/categories/monitoring/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -145,7 +160,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -163,7 +180,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/blog/chile_gbif/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -181,7 +200,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/blog/chile_gbif/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/apoidea/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -199,7 +220,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/apoidea/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/bees/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -217,7 +240,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/bees/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/categories/biodiversiyt-data/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -235,7 +260,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/categories/biodiversiyt-data/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/open-access/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -253,7 +280,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/open-access/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/citizen-science/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -271,7 +300,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/citizen-science/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/categories/citizen-science/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -289,7 +320,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/categories/citizen-science/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/tags/education/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -307,7 +340,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/tags/education/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/blog/poms_ff/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -325,7 +360,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/blog/poms_ff/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp1_monitoring/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -343,7 +380,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/portfolio/wp1_monitoring/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/portfolio/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -361,7 +400,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/portfolio/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp2_experiment/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -379,7 +420,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/portfolio/wp2_experiment/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp3_landcover/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -397,7 +440,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/portfolio/wp3_landcover/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp4_modelling/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -415,7 +460,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/portfolio/wp4_modelling/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/blog/</loc>
     <lastmod>2018-07-15T12:32:37+06:00</lastmod>
     <xhtml:link
@@ -433,7 +480,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/blog/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/contact/</loc>
     <lastmod>2018-07-14T17:09:20+06:00</lastmod>
     <xhtml:link
@@ -451,7 +500,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/contact/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/research/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
@@ -469,7 +520,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/research/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
     <xhtml:link
@@ -487,7 +540,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/about/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/_survey/</loc>
     <xhtml:link
                 rel="alternate"
@@ -504,7 +559,9 @@
                 hreflang="pt"
                 href="https://retoschmucki.github.io/surpass2web/pt/_survey/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/pt/publication/</loc>
     <xhtml:link
                 rel="alternate"
@@ -522,4 +579,5 @@
                 href="https://retoschmucki.github.io/surpass2web/pt/publication/"
                 />
   </url>
+  
 </urlset>

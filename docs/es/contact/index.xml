@@ -6,6 +6,10 @@
     <description>Recent content in Contacto on SURPASS2-ES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate><atom:link href="https://retoschmucki.github.io/surpass2web/es/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate>
+    
+	<atom:link href="https://retoschmucki.github.io/surpass2web/es/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

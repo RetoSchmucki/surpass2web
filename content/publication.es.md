@@ -32,7 +32,8 @@ layout: page2
 
 
 ## SURPASS Scientific Publication (peer reviewed)
-
+- [López-Aliste M, Flores-Prado L, Ruz L, Sepúlveda Y, Rodríguez S, Saraiva A.M, & Fontúrbel F.E (2021). Wild bees of Chile: A database on taxonomy, sociality, and ecology. Ecology, n/a(n/a), e03377. https://doi.org/10.1002/ecy.3377](https://doi.org/10.1002/ecy.3377)
+  
 - [Zattara E.E, Aizen M.A, 2021. Worldwide occurrence records suggest a global decline in bee species richness. One Earth 4, 114–123. https://doi.org/10.1016/j.oneear.2020.12.005](https://doi.org/10.1016/j.oneear.2020.12.005)
 
 - [Koffler S, Barbiéri C, Ghilardi-Lopes N.P, Leocadio J.N, Albertini B, Francoy T.M, Saraiva A.M, 2021. A Buzz for Sustainability and Conservation: The Growing Potential of Citizen Science Studies on Bees. Sustainability 13, 959. https://doi.org/10.3390/su13020959](https://doi.org/10.3390/su13020959)
