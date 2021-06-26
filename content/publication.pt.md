@@ -10,11 +10,11 @@ layout: page2
 #### 2021
 
 ##### Abejorros en Patagonia Norte y el proyecto Vi Un Abejorro
-*by Victoria* [YOUTUBE - Jun 24, 2021](https://www.youtube.com/watch?v=BxI0xR_lqxE)
+*by Victoria* [YouTube - Jun 24, 2021](https://www.youtube.com/watch?v=BxI0xR_lqxE)
 
 > Uma palestra dada por Victoria, uma das estudantes participantes do projeto Vi Un Abejorro, a representantes da Administração de Parques Nacionais, da Reserva da Biosfera e outros comunicadores. Aqui falamos sobre os principais problemas causados pela invasão dos abelhões europeus e o que fazemos com os dados que nos são enviados através das redes sociais quando um avistamento é registrado.
 >
-> [Vi Un Abejorro (youtube video ES)](https://www.youtube.com/watch?v=BxI0xR_lqxE)
+> [Vi Un Abejorro (YouTube video ES)](https://www.youtube.com/watch?v=BxI0xR_lqxE)
 > 
 > [READ MORE](https://www.abejorros.ar/)
 
