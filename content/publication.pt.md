@@ -8,6 +8,14 @@ layout: page2
 ## SURPASS in the Press
 
 #### 2021
+
+##### Abejorros en Patagonia Norte y el proyecto Vi Un Abejorro
+*by Victoria
+Uma palestra dada por Victoria, uma das estudantes participantes do projeto Vi Un Abejorro, a representantes da Administração de Parques Nacionais, da Reserva da Biosfera e outros comunicadores. 
+
+Aqui falamos sobre os principais problemas causados pela invasão dos abelhões europeus e o que fazemos com os dados que nos são enviados através das redes sociais quando um avistamento é registrado.
+
+[Vi Un Abejorro (youtube video ES)](https://www.youtube.com/watch?v=BxI0xR_lqxE)
 ##### Quarter of known bee species have not been recorded since 1990
 *by Patrick Barkham,* [The Guardian - Fri 22 Jan 2021](https://www.theguardian.com/environment/2021/jan/22/quarter-of-known-bee-species-have-not-been-recorded-since-1990)
 
