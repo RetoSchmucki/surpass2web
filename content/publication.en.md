@@ -10,7 +10,7 @@ layout: page2
 #### 2021
 
 ##### Abejorros en Patagonia Norte y el proyecto Vi Un Abejorro
-*by Victoria* [YouTube - Jun 24, 2021](https://www.youtube.com/watch?v=BxI0xR_lqxE)
+*by Victoria Campopiano* [YouTube - Jun 24, 2021](https://www.youtube.com/watch?v=BxI0xR_lqxE)
 
 > A talk given by Victoria, one of the students involved in the Vi Un Abejorro project, and representatives of the National Parks Administration, the Biosphere Reserve and other communicators. Victora talks about the main problems caused by the invasion of European bumblebees and what we do with the data sent to us through social networks when a sighting is recorded.
 >

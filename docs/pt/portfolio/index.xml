@@ -6,11 +6,7 @@
     <description>Recent content in Portfolios on SURPASS2-PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://retoschmucki.github.io/surpass2web/pt/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://retoschmucki.github.io/surpass2web/pt/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monitoramento de insetos polinizadores</title>
       <link>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp1_monitoring/</link>
@@ -21,7 +17,7 @@
     </item>
     
     <item>
-      <title>Polinização de culturas</title>
+      <title>Polinização de Culturas &amp; Espécies Invasivas</title>
       <link>https://retoschmucki.github.io/surpass2web/pt/portfolio/wp2_experiment/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       

@@ -65,3 +65,13 @@ members  :
     twitter: https://twitter.com/MoscasFloricola
     orcid: https://orcid.org/0000-0002-1509-2935
     researchgate : https://www.researchgate.net/profile/Rodrigo_Barahona-Segovia2
+    
+  - name  : Paz Gatica Barrios
+    image : images/team/paz.png
+    designation : Veterinarian (Moscas Florícolas de Chile citizen science)
+    description : Paz works on pollinator's ecology and conservation in agroecosystems.
+
+  - name  : Adriana E. Rendón-Funes
+    image : images/team/adriana.png
+    designation : Environmental engineer (Instituto de Ecología y Biodiversidad- IEB)
+    description : Adriana's main interests are in ecological restoration and pollination ecology.
