@@ -1,7 +1,6 @@
 enable  : true
 title   : SURPASS partners in Brazil
 members  :
-
   - name  : Antonio Mauro Saraiva
     image : images/team/antonio_saraiva.png
     designation : Electrical Engineer & Agronomist (Universidade de São Paulo)
@@ -119,6 +118,8 @@ members  :
     orcid : https://orcid.org/0000-0002-0674-7960
     researchgate : https://www.researchgate.net/profile/Filipi-Soares
     googlescholar : https://scholar.google.com/citations?user=75U3PgEAAAAJ&hl=pt-PT&oi=ao
+    instagram: https://www.instagram.com/filipi.soares/
+    publons: https://publons.com/researcher/ABE-6247-2020/
     
   - name : Manoela L Santanna 
     image : images/team/manoela.png
@@ -137,7 +138,8 @@ members  :
     orcid : https://orcid.org/0000-0002-6056-5084
     researchgate : https://www.researchgate.net/profile/Paula-Zermoglio
     googlescholar : https://scholar.google.com/citations?user=IIiu1U8AAAAJ&hl=ja
-    
+    twitter : https://www.twitter.com/PaulaZermoglio
+
   - name : Jenifer Dias Ramos 
     image : images/team/jenifer.png
     designation : Biologist and Policy maker (Pontifícia Universidade Católica do Rio Grande do Sul)
@@ -168,14 +170,14 @@ members  :
     orcid : https://orcid.org/0000-0003-4177-1322
     researchgate : https://www.researchgate.net/profile/Debora-Drucker
     linkedIn : https://www.linkedin.com/in/debora-drucker/
-    
+    twitter : https://www.twitter.com/deboradrucker
+
   - name : Fernanda Assumpção Costa
     image : images/team/fernanda_costa.png
     designation : Undergraduate biotechnology student (University of São Paulo)
     description : Fernanda works on ecology, sustainability and stingless bees.
     lattes : http://lattes.cnpq.br/5446838804361514
-    linkedIn : www.linkedin.com/in/fernanda-assumpção-costa
-    twitter : https://www.twitter.com/deboradrucker
+    linkedIn : https://br.linkedin.com/in/fernanda-assump%C3%A7%C3%A3o-costa
 
   - name : Jailson Leocadio
     image : images/team/jailson.png
@@ -183,7 +185,6 @@ members  :
     description: Jailson works with machine learning application for the study of data quality and citizen science.
     lattes : http://lattes.cnpq.br/6225687160783333
     orcid : https://orcid.org/0000-0002-7104-7207
-    twitter : 
 
   - name : Celso Barbiéri
     image : images/team/celso_barbieri.png
@@ -193,6 +194,8 @@ members  :
     researchgate : https://www.researchgate.net/profile/Celso-Barbieri-Junior-2
     twitter : https://www.twitter.com/ookami_senshin
     orcid: https://orcid.org/0000-0002-7790-1371
+    instagram : https://www.instagram.com/barbieri.celso
+    linkedIn : https://www.linkedin.com/in/celso-barbi%C3%A9ri-1274796a/
 
   - name : Paula Drago
     image : images/team/paula_drago.png
