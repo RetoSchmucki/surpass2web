@@ -91,11 +91,126 @@ members  :
     publons: https://publons.com/researcher/959508/nicolay-leme-da-cunha/
     orcid: https://orcid.org/0000-0001-5509-6757
 
-  - name : Rodrigo Yoiti Tsukahara
+  - name : José Augusto Salim 
+    image : images/team/salim.png
+    designation : Engenheiro de Computação
+    description : José trabalha com biologia computacional aplicada principalmente em biodiversidade e computação, padrões de dados para biodiversidade, bancos de dados biológicos e interações entre espécies.
+    orcid : https://orcid.org/0000-0001-5926-2847
+    lattes: http://lattes.cnpq.br/7588616253679294
+    googlescholar : https://scholar.google.com/citations?user=66B2pwMAAAAJ
+    orcid: https://orcid.org/0000-0002-8675-7068
+
+  - name : Rodrigo Yoiti Tsukahara 
     image : images/team/rodrigo_tsukahara.png
-    designation : Agrometereologista (Fundação ABC)
-    description : Rodrigo trabalha em instrumentação agrometeorológica e modelagem de culturas, sistemas de apoio à decisão e análise de dados em experimentação agrícola.
+    designation : Agrometeorologist (Fundação ABC)
+    description : Rodrigo works in agrometeorological instrumentation and crop modelling, decision support systems and data analysis in agricultural experimentation.
     lattes : http://lattes.cnpq.br/7602310105303724
     orcid : https://orcid.org/0000-0001-5926-2847
     researchgate : https://www.researchgate.net/profile/Rodrigo_Tsukahara
     googlescholar : https://scholar.google.com.br/citations?user=ZYL2XmYAAAAJ&hl=pt-BR
+    
+  - name : Filipi Miranda Soares
+    image : images/team/filipi.png
+    designation : Bibliotecário (University of São Paulo)
+    description : Filipi trabalha com gestão de dados científicos, com foco na curadoria de padrões de metadados e outros vocabulários controlados para biodiversidade e agricultura.
+    lattes : http://lattes.cnpq.br/1290270601346793
+    orcid : https://orcid.org/0000-0002-0674-7960
+    researchgate : https://www.researchgate.net/profile/Filipi-Soares
+    googlescholar : https://scholar.google.com/citations?user=75U3PgEAAAAJ&hl=pt-PT&oi=ao
+    instagram: https://www.instagram.com/filipi.soares/
+    publons: https://publons.com/researcher/ABE-6247-2020/
+    
+  - name : Manoela L Santanna 
+    image : images/team/manoela.png
+    designation : Bióloga (University of Vale do Rio dos Sinos)
+    description : Manoela trabalha com ecologia da polinização e atualmente atua em pesquisas sobre a polinização do mirtilo.
+    lattes : http://lattes.cnpq.br/2041843942925083
+    orcid : https://orcid.org/0000-0003-1896-2331
+    researchgate : 
+    googlescholar : 
+    
+  - name : Paula F Zermoglio
+    image : images/team/paula_zermoglio.png
+    designation : Bióloga (IEGEBA-CONCIET; IRNAD-CONICET)
+    description : Paula trabalha com ecologia de insetos, informática de biodiversidade e padrões de dados de biodiversidade.
+    publons : https://publons.com/researcher/1201725/paula-f-zermoglio/
+    orcid : https://orcid.org/0000-0002-6056-5084
+    researchgate : https://www.researchgate.net/profile/Paula-Zermoglio
+    googlescholar : https://scholar.google.com/citations?user=IIiu1U8AAAAJ&hl=ja
+    twitter : https://www.twitter.com/PaulaZermoglio
+
+  - name : Jenifer Dias Ramos 
+    image : images/team/jenifer.png
+    designation : Bióloga e Analista de Políticas Públicas (Pontifícia Universidade Católica do Rio Grande do Sul)
+    description : Jenifer atua em pesquisas sobre os seguintes temas - avaliação de risco de agrotóxicos, abelhas sem ferrão, ecologia da polinização, polinização de culturas agrícolas,sensibilização e educação ambiental, políticas intersetoriais, segurança alimentar e nutricional e desenvolvimento territorial.
+    lattes : http://lattes.cnpq.br/8711361872264705
+    researchgate : https://www.researchgate.net/profile/Jenifer_Ramos
+    linkedIn : https://www.linkedin.com/in/jenifer-ramos-618253103
+    instagram: https://www.instagram.com/ramosjeni
+    
+  - name : Daniel YM Nakamura
+    image : images/team/daniel.png
+    designation : Graduando em Biologia (University of São Paulo)
+    description : Daniel trabalha com ecologia de abelhas e macroevolução de anfíbios.
+    lattes : http://lattes.cnpq.br/5214674281584694
+    linkedIn : https://www.linkedin.com/in/daniel-nakamura-84999a1b2/
+    
+  - name : Gabriel Reginatto Silva 
+    image : images/team/gabriel.png
+    designation : Graduando em Biologiat (University of São Paulo)
+    description : Gabriel trabalha com ecologia de abelhas e biotecnologia.
+    lattes : http://lattes.cnpq.br/1189928166387977
+ 
+  - name : Debora Pignatari Drucker 
+    image : images/team/debora.png
+    designation : Engenheira Florestal (Embrapa)
+    description : Debora trabalha com gestão de dados de biodiversidade e agricultura.
+    lattes : http://lattes.cnpq.br/6782891501006399
+    orcid : https://orcid.org/0000-0003-4177-1322
+    researchgate : https://www.researchgate.net/profile/Debora-Drucker
+    linkedIn : https://www.linkedin.com/in/debora-drucker/
+    twitter : https://www.twitter.com/deboradrucker
+
+  - name : Fernanda Assumpção Costa
+    image : images/team/fernanda_costa.png
+    designation : Graduanda em Biotecnologia (University of São Paulo)
+    description : Fernanda trabalha com ecologia, sustentabilidade e manejo de abelhos sem ferrão.
+    lattes : http://lattes.cnpq.br/5446838804361514
+    linkedIn : https://br.linkedin.com/in/fernanda-assump%C3%A7%C3%A3o-costa
+
+  - name : Jailson Leocadio
+    image : images/team/jailson.png
+    designation : Cientista de dados (University of São Paulo)
+    description: Jailson trabalha com aplicação de aprendizado de máquina para estudo de qualidade de dados e ciência cidadã.
+    lattes : http://lattes.cnpq.br/6225687160783333
+    orcid : https://orcid.org/0000-0002-7104-7207
+
+  - name : Celso Barbiéri
+    image : images/team/celso_barbieri.png
+    designation : Gestor Ambiental (University of São Paulo)
+    description : Celso trabalha com abelhas sem ferrão, meliponicultura e ciência cidadã.
+    lattes : http://lattes.cnpq.br/7402034625469013
+    researchgate : https://www.researchgate.net/profile/Celso-Barbieri-Junior-2
+    twitter : https://www.twitter.com/ookami_senshin
+    orcid: https://orcid.org/0000-0002-7790-1371
+    instagram : https://www.instagram.com/barbieri.celso
+    linkedIn : https://www.linkedin.com/in/celso-barbi%C3%A9ri-1274796a/
+
+  - name : Paula Drago
+    image : images/team/paula_drago.png
+    designation : Designer e ilustradora (University of São Paulo)
+    description : Paula trabalha com arte digital e ilustração, voltadas para divulgação científica..
+    lattes : http://lattes.cnpq.br/7404209265885600
+    linkedIn : https://www.linkedin.com/in/p-drago/
+
+  - name : Lucas Paulino dos Santos
+    image : images/team/lucas.png
+    designation : Graduando em Gestão Ambiental (University of São Paulo)
+    description : Lucas trabalha com ecologia, sustentabilidade e meliponicultura.
+    instagram : https://www.instagram.com/xbradock
+
+  - name : Larissa Bianca Menezes
+    image : images/team/bianca.png
+    designation : Graduando em biotecnologia (University of São Paulo)
+    description : Larissa trabalha com ecologia, botânica e produção textual para divulgação científica.
+    linkedIn : https://www.linkedin.com/in/larissa-bianca-menezes-b0b1a6190/
