@@ -7,7 +7,7 @@ members  :
     designation : Electrical Engineer & Agronomist (Universidade de São Paulo)
     description : Antonio works on the application of techniques and tools of information and communication technologies to agriculture, biodiversity and global health.
     website : http://www.pcs.usp.br/~amsaraiv
-    #linkedIn  : https://www.linkedin.com/in/france-gerard-8164a0b
+    #linkedIn  : https://www.linkedIn.com/in/france-gerard-8164a0b
     #facebook    : https://www.fb.com/themefisher
     googlescholar : https://scholar.google.es/citations?user=BxfM4mIAAAAJ&hl=es&oi=sra
     researchgate : https://www.researchgate.net/profile/Antonio_Saraiva3
@@ -53,7 +53,7 @@ members  :
   - name  : Patricia Nunes-Silva
     image : images/team/patricia_nunes.png
     designation : Bee & Pollination Ecologist (Universidade do Vale do Rio dos Sinos)
-    description : Patricia works on bee behavioral ecology and pollination on agricultural areas.
+    description : Patricia works on bee behavioral ecology and pollination in agricultural areas.
     linkedIn: https://www.linkedin.com/in/patrícia-nunes-silva-40113b40 
     #instagram : https://www.instagram.com/patricians/
     twitter : https://www.twitter.com/patriciabelhuda
@@ -96,7 +96,7 @@ members  :
   - name : José Augusto Salim 
     image : images/team/salim.png
     designation : Computer Engineer (University of São Paulo)
-    description : José works on computational biology applied to biodiversity informatics, biodiverisity data standards, biological databases and species interactions.
+    description : José works on computational biology applied to biodiversity informatics, biodiversity data standards, biological databases and species interactions.
     orcid : https://orcid.org/0000-0001-5926-2847
     lattes: http://lattes.cnpq.br/7588616253679294
     googlescholar : https://scholar.google.com/citations?user=66B2pwMAAAAJ
@@ -114,7 +114,7 @@ members  :
   - name : Filipi Miranda Soares
     image : images/team/filipi.png
     designation : Librarian (University of São Paulo)
-    description : Filipi works on scientific data management, with a focus on curating metadata standards and other controlled vocabularies for biodiversity and agriculture.
+    description : Filipi works on scientific data management, focusing on curating metadata standards and other controlled vocabularies for biodiversity and agriculture.
     lattes : http://lattes.cnpq.br/1290270601346793
     orcid : https://orcid.org/0000-0002-0674-7960
     researchgate : https://www.researchgate.net/profile/Filipi-Soares
@@ -141,23 +141,23 @@ members  :
   - name : Jenifer Dias Ramos 
     image : images/team/jenifer.png
     designation : Biologist and Policy maker (Pontifícia Universidade Católica do Rio Grande do Sul)
-    description : Jenifer works on risk assessment of pesticides, stingless bees, pollination ecology, pollination of agricultural crops, education, intersectoral policies, food and nutrition security and territorial development.
+    description : Jenifer works on risk assessment of pesticides, stingless bees, pollination ecology, crop pollination, education, intersectoral policies, food and nutrition security and territorial development.
     lattes : http://lattes.cnpq.br/8711361872264705
     researchgate : https://www.researchgate.net/profile/Jenifer_Ramos
-    linkedin : https://www.linkedin.com/in/jenifer-ramos-618253103
+    linkedIn : https://www.linkedin.com/in/jenifer-ramos-618253103
     instagram: https://www.instagram.com/ramosjeni
     
   - name : Daniel YM Nakamura
     image : images/team/daniel.png
     designation : Undergraduate student (University of São Paulo)
-    description : Daniel works on ecology of bees and macroevolution of amphibians.
+    description : Daniel works on bee ecology and macroevolution of amphibians.
     lattes : http://lattes.cnpq.br/5214674281584694
-    linkedin : https://www.linkedin.com/in/daniel-nakamura-84999a1b2/
+    linkedIn : https://www.linkedin.com/in/daniel-nakamura-84999a1b2/
     
   - name : Gabriel Reginatto Silva 
     image : images/team/gabriel.png
     designation : Undergraduate student (University of São Paulo)
-    description : Gabriel works on ecology of bees and biotechnology.
+    description : Gabriel works on bee ecology and biotechnology.
     lattes : http://lattes.cnpq.br/1189928166387977
  
   - name : Debora Pignatari Drucker 
@@ -167,14 +167,14 @@ members  :
     lattes : http://lattes.cnpq.br/6782891501006399
     orcid : https://orcid.org/0000-0003-4177-1322
     researchgate : https://www.researchgate.net/profile/Debora-Drucker
-    linkedin : https://www.linkedin.com/in/debora-drucker/
+    linkedIn : https://www.linkedin.com/in/debora-drucker/
     
   - name : Fernanda Assumpção Costa
     image : images/team/fernanda_costa.png
     designation : Undergraduate biotechnology student (University of São Paulo)
     description : Fernanda works on ecology, sustainability and stingless bees.
     lattes : http://lattes.cnpq.br/5446838804361514
-    linkedin : www.linkedin.com/in/fernanda-assumpção-costa
+    linkedIn : www.linkedin.com/in/fernanda-assumpção-costa
     twitter : https://www.twitter.com/deboradrucker
 
   - name : Jailson Leocadio
@@ -199,7 +199,7 @@ members  :
     designation : Digital artist (University of São Paulo)
     description : Paula works on digital art illustration for scientific communication.
     lattes : http://lattes.cnpq.br/7404209265885600
-    linkedin : https://www.linkedin.com/in/p-drago/
+    linkedIn : https://www.linkedin.com/in/p-drago/
 
   - name : Lucas Paulino dos Santos
     image : images/team/lucas.png
@@ -211,4 +211,4 @@ members  :
     image : images/team/bianca.png
     designation : Undergraduate student (University of São Paulo)
     description : Larissa works with ecology, botany and textual production for scientific dissemination.
-    linkedin : https://www.linkedin.com/in/larissa-bianca-menezes-b0b1a6190/
+    linkedIn : https://www.linkedin.com/in/larissa-bianca-menezes-b0b1a6190/
