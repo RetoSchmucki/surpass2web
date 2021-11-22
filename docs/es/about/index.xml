@@ -6,6 +6,10 @@
     <description>Recent content in Sobre Nosotros... on SURPASS2-ES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://retoschmucki.github.io/surpass2web/es/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="https://retoschmucki.github.io/surpass2web/es/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

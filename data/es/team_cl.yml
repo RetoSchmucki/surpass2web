@@ -65,13 +65,39 @@ members  :
     twitter: https://twitter.com/MoscasFloricola
     orcid: https://orcid.org/0000-0002-1509-2935
     researchgate : https://www.researchgate.net/profile/Rodrigo_Barahona-Segovia2
-    
+
   - name  : Paz Gatica Barrios
     image : images/team/paz.png
     designation : Veterinarian (Moscas Florícolas de Chile citizen science)
     description : Paz works on pollinator's ecology and conservation in agroecosystems.
 
+  - name  : El Sharif Provoste
+    image : images/team/sharif2.png
+    designation : Field assistant (Instituto de Ecología y Biodiversidad- IEB)
+    description : El Sharif works on pollination studies and collection of specimens.
+
   - name  : Adriana E. Rendón-Funes
     image : images/team/adriana.png
     designation : Environmental engineer (Instituto de Ecología y Biodiversidad- IEB)
     description : Adriana's main interests are in ecological restoration and pollination ecology.
+
+  - name : Christian Púa  
+    image : images/team/christian2.png
+    designation : Student (Universidad de Chile) 
+    description : Christian conduct field work, sampling pollinators and modeling trends of Bombus dahlbomiion populations co-occuring with Bombus terrestris. 
+
+  - name :  Benito Cortes
+    image : images/team/benito2.png
+    designation : Conservation Engineer (Conservation and Biodiversity Institute)  
+    description : Benito's main interests are in pollination of agroecosystems with native pollinators and environmental education about native bees in Chile. 
+
+  - name : Constanza Napolitano
+    image : images/team/constanza2.png
+    designation : Associate Professor, Conservation Genetics Laboratory, Department of Biological Sciences and Biodiversity (University of Los Lagos) 
+    description : Constanza works on the identification of bee and bumblebee pathogens.
+
+  - name : José Mesquita-Neto
+    image : images/team/jose2.png
+    designation : Plant Biologist (Universidad Católica del Maule) 
+    description : José main interets are in pollination ecology of native and cultivated plants, with a particular emphasis on those buzz-pollinated. 
+

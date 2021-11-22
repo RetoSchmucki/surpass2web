@@ -42,6 +42,8 @@ layout: page2
 
 
 ## SURPASS Scientific Publication (peer reviewed)
+- [Boyd, R.J., Powney, G.D., Carvell, C. & Pescott, O.L. (2021). occAssess: An R package for assessing potential biases in species occurrence data. Ecol Evol, ece3.8299.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8299)
+
 - [López-Aliste M, Flores-Prado L, Ruz L, Sepúlveda Y, Rodríguez S, Saraiva A.M, & Fontúrbel F.E (2021). Wild bees of Chile: A database on taxonomy, sociality, and ecology. Ecology, n/a(n/a), e03377. https://doi.org/10.1002/ecy.3377](https://doi.org/10.1002/ecy.3377)
 
 - [Zattara E.E, Aizen M.A, 2021. Worldwide occurrence records suggest a global decline in bee species richness. One Earth 4, 114–123. https://doi.org/10.1016/j.oneear.2020.12.005](https://doi.org/10.1016/j.oneear.2020.12.005)
