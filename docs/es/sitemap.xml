@@ -103,26 +103,6 @@
   </url>
   
   <url>
-    <loc>https://retoschmucki.github.io/surpass2web/es/tags/monitoring/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/monitoring/"
-                />
-  </url>
-  
-  <url>
     <loc>https://retoschmucki.github.io/surpass2web/es/categories/monitoring/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -139,6 +119,26 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://retoschmucki.github.io/surpass2web/es/categories/monitoring/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/es/tags/monitoring/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/monitoring/"
                 />
   </url>
   

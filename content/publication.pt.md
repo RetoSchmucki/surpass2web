@@ -42,6 +42,8 @@ layout: page2
 
 
 ## SURPASS Scientific Publication (peer reviewed)
+- [Vieli, L., Murúa, M.M., Flores-Prado, L., Carvallo, G.O., Valdivia, C.E., Muschett, G., et al. (2021). Local Actions to Tackle a Global Problem: A Multidimensional Assessment of the Pollination Crisis in Chile. Diversity, 13, 571.](https://www.mdpi.com/1424-2818/13/11/571)
+
 - [Boyd, R.J., Powney, G.D., Carvell, C. & Pescott, O.L. (2021). occAssess: An R package for assessing potential biases in species occurrence data. Ecol Evol, ece3.8299.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8299)
 
 - [López-Aliste M, Flores-Prado L, Ruz L, Sepúlveda Y, Rodríguez S, Saraiva A.M, & Fontúrbel F.E (2021). Wild bees of Chile: A database on taxonomy, sociality, and ecology. Ecology, n/a(n/a), e03377. https://doi.org/10.1002/ecy.3377](https://doi.org/10.1002/ecy.3377)
