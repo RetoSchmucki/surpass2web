@@ -45,8 +45,10 @@ layout: page2
 - [Vieli, L., Murúa, M.M., Flores-Prado, L., Carvallo, G.O., Valdivia, C.E., Muschett, G., et al. (2021). Local Actions to Tackle a Global Problem: A Multidimensional Assessment of the Pollination Crisis in Chile. Diversity, 13, 571.](https://www.mdpi.com/1424-2818/13/11/571)
   
 - [Boyd, R.J., Powney, G.D., Carvell, C. & Pescott, O.L. (2021). occAssess: An R package for assessing potential biases in species occurrence data. Ecol Evol, ece3.8299.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8299)
+
+- [Smith, C., Rendón, A., Barahona, R., & Moya, W. (2021). Consequences of the high abundance of Bombus terrestris on the pollination of Vicia faba. Journal of Pollination Ecology, 29. https://doi.org/10.26786/1920-7603(2021)630](https://doi.org/10.26786/1920-7603(2021)630)
   
-- [López-Aliste M, Flores-Prado L, Ruz L, Sepúlveda Y, Rodríguez S, Saraiva A.M, & Fontúrbel F.E (2021). Wild bees of Chile: A database on taxonomy, sociality, and ecology. Ecology, n/a(n/a), e03377. https://doi.org/10.1002/ecy.3377](https://doi.org/10.1002/ecy.3377)
+- [López-Aliste M, Flores-Prado L, Ruz L, Sepúlveda Y, Rodríguez S, Saraiva A.M, & Fontúrbel F.E (2021). Wild bees of Chile: A database on taxonomy, sociality, and ecology. Ecology, 102(8), e03377. https://doi.org/10.1002/ecy.3377](https://doi.org/10.1002/ecy.3377)
 
 - [Zattara E.E, Aizen M.A, 2021. Worldwide occurrence records suggest a global decline in bee species richness. One Earth 4, 114–123. https://doi.org/10.1016/j.oneear.2020.12.005](https://doi.org/10.1016/j.oneear.2020.12.005)
 
