@@ -5,6 +5,10 @@ title: "SURPASS Team Publications"
 layout: page2
 ---
 
+
+- [Ghilardi-Lopes, Natalia Pirani, & Zattara, Eduardo Enrique (Orgs.). (2022). Ciencia ciudadana y polinizadores de América del Sur (1. ed.). São Carlos: Cubo Multimídia. https://doi.org/10.4322/978-65-86819-21-2.100001.es (PDF/epub)](https://doi.org/10.4322/978-65-86819-21-2.100001.es)
+  [also available in Portuguese (PDF)](https://doi.org/10.4322/978-65-86819-20-5.100001.pt)
+
 ## SURPASS Scientific Publication (peer reviewed)
 
 -   [Morales, C.L., Montalva, J., Arbetman, M.P., Aizen, M.A., Martins, A.C., & Silva, D.P. (2022). Does climate change influence the current and future projected distribution of an endangered species? The case of the southernmost bumblebee in the world. Journal of Insect Conservation. https://doi.org/10.1007/s10841-022-00384-5](https://doi.org/10.1007/s10841-022-00384-5)

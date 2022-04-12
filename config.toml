@@ -302,27 +302,27 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "DID YOU SEE A Bumblebee? HELP US BY COMPLETING THE REGIONAL FORM WHERE YOU HAVE SEEN IT"
+       title   = "Citizen Science of Pollinators in South America"
        subtitle= ""
        btn     = true
-       btnText = "Learn More"
-       btnURL  = "https://www.abejorros.ar/"
+       btnText = "Book (Spanish PDF/epub)"
+       btnURL  = "https://www.editoracubo.com.br/978-65-86819-21-2/"
 
     [Languages.es.params.call]
        enable  = true
-       title   = "¿VISTE UN ABEJORRO? AYUDANOS COMPLETANDO EL FORMULARIO DE LA REGIÓN DONDE LO HAYAS VISTO"
+       title   = "Ciencia ciudadana y polinizadores de América del Sur"
        subtitle= ""
        btn     = true
-       btnText = "Más información"
-       btnURL  = "https://www.abejorros.ar/"
+       btnText = "Livro (PDF/epub)"
+       btnURL  = "https://www.editoracubo.com.br/978-65-86819-21-2/"
 
     [Languages.pt.params.call]
        enable  = true
-       title   = "VOCÊ VIU UM Zangão? AJUDE-NOS PREENCHENDO O FORMULÁRIO DE REGIÃO ONDE VOCÊ VIU"
+       title   = "Ciência cidadã e polinizadores da América do Sul"
        subtitle= ""
        btn     = true
-       btnText = "Mais informações"
-       btnURL  = "https://www.abejorros.ar/"
+       btnText = "Livro (PDF)"
+       btnURL  = "https://www.editoracubo.com.br/978-65-86819-20-5/"
 
 # Homepage Funding Section
      [params.partners]
