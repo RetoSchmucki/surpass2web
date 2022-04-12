@@ -6,7 +6,7 @@ categories:
 - Citizen Science
 date: '2022-04-12'
 image: images/blog/cover_citizen_es.jpg
-image_header: images/blog/cover_citizen_banner.jpg
+image_header: images/blog/cover_citizen_banner.JPG
 layout: post
 publish: true
 tags:
@@ -21,11 +21,9 @@ title: Ciencia ciudadana y polinizadores de América del Sur
 > *Blandina Felipe Viana, Universidade Federal da Bahia*
 
 
-La versión digital de este libro está disponible gratuitamente -
-[Livro (PDF/epub)](https://www.editoracubo.com.br/978-65-86819-21-2/)
+##### La versión digital de este libro está disponible gratuitamente -
 
-Las alteraciones en los ecosistemas que provoca el ser humano, como la fragmentación de los paisajes naturales, los cambios en el uso de la tierra, el cambio climático, la sobreexplotación de los recursos ambientales y el uso de pesticidas y agroquímicos, entre otros, suponen una amenaza para los seres vivos que viven en estos ecosistemas. Entre estos seres, hay varios grupos de organismos que visitan las plantas con flores para obtener recursos y, al visitarlas, acaban favoreciendo la polinización. La polinización es un proceso fundamental para la reproducción de diversas especies vegetales, que da lugar a la formación de semillas y frutos. Por ello, este proceso también es importante para nuestra supervivencia,
-ya que utilizamos muchas de estas semillas y muchos de estos frutos para nuestra alimentación. Además, la producción de semillas y frutos puede generar empleo e ingresos para muchas personas. Las plantas y los polinizadores de un ecosistema, por tanto, nos ofrecen servicios. A esto lo llamamos *servicios ecosistémicos*. Así que si queremos que nuestro planeta sea sostenible a largo plazo, tenemos que pensar en la conservación de estas especies y de muchas otras también.
+[Livro (PDF/epub)](https://www.editoracubo.com.br/978-65-86819-21-2/)
 
 En este libro abordaremos algunos aspectos ecológicos de los polinizadores, con énfasis en Sudamérica. En particular, la sección I aborda el concepto de servicios ecosistémicos (Capítulo 1), las formas de hacer que los entornos urbanos sean más amigables con los polinizadores (Capítulo 2) y la presencia de especies que no son nativas de los países sudamericanos y los problemas ecológicos que pueden causar (Capítulo 3). En la sección II se presentan los principales grupos de organismos polinizadores que existen en Sudamérica, y las características que se pueden utilizar para reconocerlos (Capítulos 4 a 9). 
 

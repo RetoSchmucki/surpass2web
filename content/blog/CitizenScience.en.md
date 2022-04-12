@@ -6,7 +6,7 @@ categories:
 - Citizen Science
 date: '2022-04-12'
 image: images/blog/cover_citizen_es.jpg
-image_header: images/blog/cover_citizen_banner.jpg
+image_header: images/blog/cover_citizen_banner.JPG
 layout: post
 publish: true
 tags:
@@ -20,12 +20,12 @@ title: Citizen Science and Pollinators of South America
 > "The book **Citizen Science and Pollinators of South America** provides us, through a clear, direct and accessible language, a useful and enjoyable reading. It is an original work that brings together for the first time, in a single volume, knowledge about pollinators and successful experiences of citizen science projects in South America. in South America, focusing on this biodiversity."
 > *Blandina Felipe Viana, Universidade Federal da Bahia*
 
-The digital version of this book is freely available - [Spanish (PDF/epub)](https://www.editoracubo.com.br/978-65-86819-21-2/)
+##### The digital version of this book is freely available -
+
+[Spanish (PDF/epub)](https://www.editoracubo.com.br/978-65-86819-21-2/)
 or [Portuguese (PDF)](https://www.editoracubo.com.br/978-65-86819-21-2/)
 
-Human-induced alterations of ecosystems, such as the fragmentation of natural landscapes, changes in land use, climate change, overexploitation of environmental resources and the use of pesticides and agrochemicals, among others, pose a threat to the species that live in these ecosystems. Among these species, there are several groups of organisms that visit flowering plants to obtain resources and, by visiting them, contribute to their pollination. Pollination is a fundamental process for the reproduction of many plants, leading to the formation of seeds and fruits. Therefore, this process is also important for human survival, as we use many of these seeds and many of these fruits as food. In addition, the production of seeds and fruits provide employment and generate income for many people. Plants and pollinators in an ecosystem therefore provide us with services. These benefits are called *ecosystem services*. Therefore, if we want our planet to be sustainable in the long term, we have to think about the conservation of these species and many others as well.
-
-In this book we will address some ecological aspects of pollinators, with emphasis on South America. In particular, Section I discusses the concept of ecosystem services (Chapter 1), ways to make urban environments more pollinator friendly (Chapter 2), and the presence of species that are not native to South American countries and the ecological problems they can cause (Chapter 3). Section II presents the main groups of pollinating organisms that exist in South America, and the characteristics that can be used to identify them (Chapters 4 to 9).
+In this book we address some ecological aspects of pollinators, with emphasis on South America. In particular, Section I discusses the concept of ecosystem services (Chapter 1), ways to make urban environments more pollinator friendly (Chapter 2), and the presence of species that are not native to South American countries and the ecological problems they can cause (Chapter 3). Section II presents the main groups of pollinating organisms that exist in South America, and the characteristics that can be used to identify them (Chapters 4 to 9).
 
 ![Team of biologists from Citizen Science Peru. Photo credit: Lino Chipana](/images/blog/citizen_science_figura4.JPG#floatleft)
 
