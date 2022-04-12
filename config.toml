@@ -302,7 +302,7 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "Citizen Science of Pollinators in South America"
+       title   = "Citizen Science and Pollinators in South America"
        subtitle= ""
        btn     = true
        btnText = "Book (Spanish PDF/epub)"
