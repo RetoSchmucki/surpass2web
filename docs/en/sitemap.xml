@@ -3,6 +3,186 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/book/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/book/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/categories/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/categories/citizen-science/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/categories/citizen-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/categories/citizen-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/categories/citizen-science/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/citizen-science/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/citizen-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/citizen-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/citizen-science/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/blog/citizenscience/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/blog/citizenscience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/blog/citizenscience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/blog/citizenscience/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/education/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/education/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/monitoring/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/monitoring/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://retoschmucki.github.io/surpass2web/tags/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://retoschmucki.github.io/surpass2web/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://retoschmucki.github.io/surpass2web/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://retoschmucki.github.io/surpass2web/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://retoschmucki.github.io/surpass2web/blog/chile_bioblitz/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,26 +219,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://retoschmucki.github.io/surpass2web/tags/biodiversity-collection/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/categories/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/categories/"
                 />
   </url>
   
@@ -103,26 +263,6 @@
   </url>
   
   <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/monitoring/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/monitoring/"
-                />
-  </url>
-  
-  <url>
     <loc>https://retoschmucki.github.io/surpass2web/categories/monitoring/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -139,46 +279,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://retoschmucki.github.io/surpass2web/categories/monitoring/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/"
                 />
   </url>
   
@@ -279,66 +379,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://retoschmucki.github.io/surpass2web/tags/open-access/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/citizen-science/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/citizen-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/citizen-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/citizen-science/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/categories/citizen-science/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/categories/citizen-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/categories/citizen-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/categories/citizen-science/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://retoschmucki.github.io/surpass2web/tags/education/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://retoschmucki.github.io/surpass2web/es/tags/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://retoschmucki.github.io/surpass2web/pt/tags/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://retoschmucki.github.io/surpass2web/tags/education/"
                 />
   </url>
   
