@@ -5,6 +5,8 @@ title: "SURPASS Team Publications"
 layout: page2
 ---
 
+## Book
+
 - [Ghilardi-Lopes, Natalia Pirani, & Zattara, Eduardo Enrique (Orgs.). (2022). Ciencia ciudadana y polinizadores de América del Sur (1. ed.). São Carlos: Cubo Multimídia. https://doi.org/10.4322/978-65-86819-21-2.100001.es (PDF/epub)](https://doi.org/10.4322/978-65-86819-21-2.100001.es)
 
 ## SURPASS Scientific Publication (peer reviewed)
