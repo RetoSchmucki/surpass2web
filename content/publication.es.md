@@ -10,6 +10,8 @@ layout: page2
 - [Ghilardi-Lopes, Natalia Pirani, & Zattara, Eduardo Enrique (Orgs.). (2022). Ciencia ciudadana y polinizadores de América del Sur (1. ed.). São Carlos: Cubo Multimídia. https://doi.org/10.4322/978-65-86819-21-2.100001.es (PDF/epub)](https://doi.org/10.4322/978-65-86819-21-2.100001.es)
 
 ## SURPASS Scientific Publication (peer reviewed)
+- [Boyd, R.J., Aizen, M.A., Barahona-Segovia, R.M., Flores-Prado, L., Fontúrbel, F.E., Francoy, T.M., Lopez-Aliste, M., Martinez, L., Morales, C.L., Ollerton, J., Pescott, O.L., Powney, G.D., Saraiva, A.M., Schmucki, R., Zattara, E.E., & Carvell, C. (First published online: 04 June 2022). Inferring trends in pollinator distributions across the Neotropics from publicly available data remains challenging despite mobilization efforts. Diversity and Distributions, (in press). https://doi.org/10.1111/ddi.13551](https://doi.org/10.1111/ddi.13551)
+
 - [Morales, C.L., Montalva, J., Arbetman, M.P., Aizen, M.A., Martins, A.C., & Silva, D.P. (2022). Does climate change influence the current and future projected distribution of an endangered species? The case of the southernmost bumblebee in the world. Journal of Insect Conservation. https://doi.org/10.1007/s10841-022-00384-5](https://doi.org/10.1007/s10841-022-00384-5)
 
 - [Chalcoff, V.R., Sasal, Y., Graham, L.E., Vázquez, D.P., & Morales, C.L. (2022). Invasive bumble bee disrupts a pollination mutualism over space and time. Biological Invasions. https://doi.org/10.1007/s10530-022-02729-2](https://doi.org/10.1007/s10530-022-02729-2)
@@ -40,6 +42,11 @@ layout: page2
 - [Lopez-Aliste M, Fonturbel F (2020). Wild bees of Chile - The PUCV collection. Version 1.4. Pontificia Universidad Católica de Valparaíso. Occurrence dataset https://doi.org/10.15468/6knwyq](https://doi.org/10.15468/6knwyq)
 
 ## SURPASS in the Press
+
+#### 2022
+##### Polinización y producción de arándanos (en portugués, subtítulos en español)
+)
+*by REBIPP Brazilian Network on Plant-Pollinator Interactions* [YouTube - May 16, 2022](https://youtu.be/hA7UXprlRA4)
 
 #### 2021
 

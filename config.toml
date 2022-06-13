@@ -302,27 +302,27 @@ DefaultContentLanguage = "en"
 # Call Section On Homepage
     [Languages.en.params.call]
        enable  = true
-       title   = "Citizen Science and Pollinators in South America"
+       title   = "Pollination and production of blueberries"
        subtitle= ""
        btn     = true
-       btnText = "Book (Spanish PDF/epub)"
-       btnURL  = "https://www.editoracubo.com.br/978-65-86819-21-2/"
+       btnText = "Video (YouTube)"
+       btnURL  = "https://youtu.be/hA7UXprlRA4"
 
     [Languages.es.params.call]
        enable  = true
-       title   = "Ciencia ciudadana y polinizadores de América del Sur"
+       title   = "Polinización y producción de arándanos"
        subtitle= ""
        btn     = true
-       btnText = "Livro (PDF/epub)"
-       btnURL  = "https://www.editoracubo.com.br/978-65-86819-21-2/"
+       btnText = "Video (YouTube)"
+       btnURL  = "https://youtu.be/hA7UXprlRA4"
 
     [Languages.pt.params.call]
        enable  = true
-       title   = "Ciência cidadã e polinizadores da América do Sul"
+       title   = "Polinização e produção de mirtilos"
        subtitle= ""
        btn     = true
-       btnText = "Livro (PDF)"
-       btnURL  = "https://www.editoracubo.com.br/978-65-86819-20-5/"
+       btnText = "Video (YouTube)"
+       btnURL  = "https://youtu.be/hA7UXprlRA4"
 
 # Homepage Funding Section
      [params.partners]
