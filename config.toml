@@ -258,8 +258,8 @@ DefaultContentLanguage = "en"
 
 # Site Params
     [Languages.en.params]
-    logo = "images/surpass_logo2.png"
-    #logo = "images/surpass_logo_diversity.png"
+    #logo = "images/surpass_logo2.png"
+    logo = "images/surpass_logo_diversity_2022.png"
     logo2 = "images/UKCEH-Logo_Long_Positive_RGB.png"
     logoT = "images/logos/language-icon128px-black.png"
     dateFormat = "6 January 2006"
