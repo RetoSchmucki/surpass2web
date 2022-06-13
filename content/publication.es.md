@@ -45,7 +45,6 @@ layout: page2
 
 #### 2022
 ##### Polinización y producción de arándanos (en portugués, subtítulos en español)
-)
 *by REBIPP Brazilian Network on Plant-Pollinator Interactions* [YouTube - May 16, 2022](https://youtu.be/hA7UXprlRA4)
 
 #### 2021
