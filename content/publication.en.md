@@ -15,13 +15,15 @@ layout: page2
 
 - [Boyd, R.J., Aizen, M.A., Barahona-Segovia, R.M., Flores-Prado, L., Fontúrbel, F.E., Francoy, T.M., Lopez-Aliste, M., Martinez, L., Morales, C.L., Ollerton, J., Pescott, O.L., Powney, G.D., Saraiva, A.M., Schmucki, R., Zattara, E.E., & Carvell, C. (First published online: 04 June 2022). Inferring trends in pollinator distributions across the Neotropics from publicly available data remains challenging despite mobilization efforts. Diversity and Distributions, (in press). https://doi.org/10.1111/ddi.13551](https://doi.org/10.1111/ddi.13551)
 
--   [Morales, C.L., Montalva, J., Arbetman, M.P., Aizen, M.A., Martins, A.C., & Silva, D.P. (2022). Does climate change influence the current and future projected distribution of an endangered species? The case of the southernmost bumblebee in the world. Journal of Insect Conservation. https://doi.org/10.1007/s10841-022-00384-5](https://doi.org/10.1007/s10841-022-00384-5)
+- [Morales, C.L., Montalva, J., Arbetman, M.P., Aizen, M.A., Martins, A.C., & Silva, D.P. (2022). Does climate change influence the current and future projected distribution of an endangered species? The case of the southernmost bumblebee in the world. Journal of Insect Conservation. https://doi.org/10.1007/s10841-022-00384-5](https://doi.org/10.1007/s10841-022-00384-5)
 
 -   [Chalcoff, V.R., Sasal, Y., Graham, L.E., Vázquez, D.P., & Morales, C.L. (2022). Invasive bumble bee disrupts a pollination mutualism over space and time. Biological Invasions. https://doi.org/10.1007/s10530-022-02729-2](https://doi.org/10.1007/s10530-022-02729-2)
 
 -   [Twiston-Davies, G., Becher, M.A., & Osborne, J.L. (2021). BEE-STEWARD: A research and decision-support software for effective land management to promote bumblebee populations. Methods in Ecology and Evolution, 12(10), 1809--1815. https://doi.org/10.1111/2041-210X.13673](https://doi.org/10.1111/2041-210X.13673)
 
 -   [Vieli, L., Murúa, M.M., Flores-Prado, L., Carvallo, G.O., Valdivia, C.E., Muschett, G., et al. (2021). Local Actions to Tackle a Global Problem: A Multidimensional Assessment of the Pollination Crisis in Chile. Diversity, 13, 571.](https://www.mdpi.com/1424-2818/13/11/571)
+  
+-  [Leocadio, J.N., Ghilardi-Lopes, N.P., Koffler, S., Barbiéri, C., Francoy, T.M., Albertini, B., & Saraiva, A.M. (2021). Data Reliability in a Citizen Science Protocol for Monitoring Stingless Bees Flight Activity. Insects, 12(9), 766. https://doi.org/10.3390/insects12090766](https://doi.org/10.3390/insects12090766)
 
 -   [Boyd, R.J., Powney, G.D., Carvell, C. & Pescott, O.L. (2021). occAssess: An R package for assessing potential biases in species occurrence data. Ecol Evol, ece3.8299.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8299)
 
