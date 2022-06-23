@@ -17,35 +17,34 @@ layout: page2
 
 - [Morales, C.L., Montalva, J., Arbetman, M.P., Aizen, M.A., Martins, A.C., & Silva, D.P. (2022). Does climate change influence the current and future projected distribution of an endangered species? The case of the southernmost bumblebee in the world. Journal of Insect Conservation. https://doi.org/10.1007/s10841-022-00384-5](https://doi.org/10.1007/s10841-022-00384-5)
 
--   [Chalcoff, V.R., Sasal, Y., Graham, L.E., Vázquez, D.P., & Morales, C.L. (2022). Invasive bumble bee disrupts a pollination mutualism over space and time. Biological Invasions. https://doi.org/10.1007/s10530-022-02729-2](https://doi.org/10.1007/s10530-022-02729-2)
+- [Chalcoff, V.R., Sasal, Y., Graham, L.E., Vázquez, D.P., & Morales, C.L. (2022). Invasive bumble bee disrupts a pollination mutualism over space and time. Biological Invasions. https://doi.org/10.1007/s10530-022-02729-2](https://doi.org/10.1007/s10530-022-02729-2)
 
--   [Twiston-Davies, G., Becher, M.A., & Osborne, J.L. (2021). BEE-STEWARD: A research and decision-support software for effective land management to promote bumblebee populations. Methods in Ecology and Evolution, 12(10), 1809--1815. https://doi.org/10.1111/2041-210X.13673](https://doi.org/10.1111/2041-210X.13673)
+- [Twiston-Davies, G., Becher, M.A., & Osborne, J.L. (2021). BEE-STEWARD: A research and decision-support software for effective land management to promote bumblebee populations. Methods in Ecology and Evolution, 12(10), 1809--1815. https://doi.org/10.1111/2041-210X.13673](https://doi.org/10.1111/2041-210X.13673)
 
--   [Vieli, L., Murúa, M.M., Flores-Prado, L., Carvallo, G.O., Valdivia, C.E., Muschett, G., et al. (2021). Local Actions to Tackle a Global Problem: A Multidimensional Assessment of the Pollination Crisis in Chile. Diversity, 13, 571.](https://www.mdpi.com/1424-2818/13/11/571)
-  
--  [Leocadio, J.N., Ghilardi-Lopes, N.P., Koffler, S., Barbiéri, C., Francoy, T.M., Albertini, B., & Saraiva, A.M. (2021). Data Reliability in a Citizen Science Protocol for Monitoring Stingless Bees Flight Activity. Insects, 12(9), 766. https://doi.org/10.3390/insects12090766](https://doi.org/10.3390/insects12090766)
+- [Vieli, L., Murúa, M.M., Flores-Prado, L., Carvallo, G.O., Valdivia, C.E., Muschett, G., et al. (2021). Local Actions to Tackle a Global Problem: A Multidimensional Assessment of the Pollination Crisis in Chile. Diversity, 13, 571.](https://www.mdpi.com/1424-2818/13/11/571)
 
--   [Boyd, R.J., Powney, G.D., Carvell, C. & Pescott, O.L. (2021). occAssess: An R package for assessing potential biases in species occurrence data. Ecol Evol, ece3.8299.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8299)
+- [Leocadio, J.N., Ghilardi-Lopes, N.P., Koffler, S., Barbiéri, C., Francoy, T.M., Albertini, B., & Saraiva, A.M. (2021). Data Reliability in a Citizen Science Protocol for Monitoring Stingless Bees Flight Activity. Insects, 12(9), 766. https://doi.org/10.3390/insects12090766](https://doi.org/10.3390/insects12090766)
 
--   [Smith, C., Rendón, A., Barahona, R., & Moya, W. (2021). Consequences of the high abundance of Bombus terrestris on the pollination of Vicia faba. Journal of Pollination Ecology, 29. https://doi.org/10.26786/1920-7603(2021)630](https://doi.org/10.26786/1920-7603(2021)630)
+- [Boyd, R.J., Powney, G.D., Carvell, C. & Pescott, O.L. (2021). occAssess: An R package for assessing potential biases in species occurrence data. Ecol Evol, ece3.8299.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8299)
 
--   [López-Aliste M, Flores-Prado L, Ruz L, Sepúlveda Y, Rodríguez S, Saraiva A.M, & Fontúrbel F.E (2021). Wild bees of Chile: A database on taxonomy, sociality, and ecology. Ecology, 102(8), e03377. https://doi.org/10.1002/ecy.3377](https://doi.org/10.1002/ecy.3377)
+- [Smith, C., Rendón, A., Barahona, R., & Moya, W. (2021). Consequences of the high abundance of Bombus terrestris on the pollination of Vicia faba. Journal of Pollination Ecology, 29. https://doi.org/10.26786/1920-7603(2021)630](https://doi.org/10.26786/1920-7603(2021)630)
 
--   [Zattara E.E, Aizen M.A, (2021). Worldwide occurrence records suggest a global decline in bee species richness. One Earth 4, 114--123. https://doi.org/10.1016/j.oneear.2020.12.005](https://doi.org/10.1016/j.oneear.2020.12.005)
+- [López-Aliste M, Flores-Prado L, Ruz L, Sepúlveda Y, Rodríguez S, Saraiva A.M, & Fontúrbel F.E (2021). Wild bees of Chile: A database on taxonomy, sociality, and ecology. Ecology, 102(8), e03377. https://doi.org/10.1002/ecy.3377](https://doi.org/10.1002/ecy.3377)
 
--   [Koffler S, Barbiéri C, Ghilardi-Lopes N.P, Leocadio J.N, Albertini B, Francoy T.M, Saraiva A.M, (2021). A Buzz for Sustainability and Conservation: The Growing Potential of Citizen Science Studies on Bees. Sustainability 13, 959. https://doi.org/10.3390/su13020959](https://doi.org/10.3390/su13020959)
+- [Zattara E.E, Aizen M.A, (2021). Worldwide occurrence records suggest a global decline in bee species richness. One Earth 4, 114--123. https://doi.org/10.1016/j.oneear.2020.12.005](https://doi.org/10.1016/j.oneear.2020.12.005)
 
--   [Gleiser G, Leme da Cunha N, Sáez A, & Aizen M.A (2021). Ecological correlates of crop yield growth and interannual yield variation at a global scale. Web Ecology, 21(1), 15--43. https://doi.org/10.5194/we-21-15-2021](https://doi.org/10.5194/we-21-15-2021)
+- [Koffler S, Barbiéri C, Ghilardi-Lopes N.P, Leocadio J.N, Albertini B, Francoy T.M, Saraiva A.M, (2021). A Buzz for Sustainability and Conservation: The Growing Potential of Citizen Science Studies on Bees. Sustainability 13, 959. https://doi.org/10.3390/su13020959](https://doi.org/10.3390/su13020959)
 
--   [de Groot G.S, Aizen M.A, Sáez A, Morales C.L, (2021). Large-scale monoculture reduces honey yield: The case of soybean expansion in Argentina. Agriculture, Ecosystems & Environment 306, 107203. https://doi.org/10.1016/j.agee.2020.107203](https://doi.org/10.1016/j.agee.2020.107203)
+- [Gleiser G, Leme da Cunha N, Sáez A, & Aizen M.A (2021). Ecological correlates of crop yield growth and interannual yield variation at a global scale. Web Ecology, 21(1), 15--43. https://doi.org/10.5194/we-21-15-2021](https://doi.org/10.5194/we-21-15-2021)
 
--   [Aizen M.A, Arbetman M.P, Chacoff N.P, Chalcoff V.R, Feinsinger P, Garibaldi L.A, Harder L.D, Morales C.L, Sáez A, Vanbergen A.J, (2020). Chapter Two - Invasive bees and their impact on agriculture, in: Bohan, D.A., Vanbergen, A.J. (Eds.), Advances in Ecological Research, The Future of Agricultural Landscapes, Part I. Academic Press, pp. 49--92. https://doi.org/10.1016/bs.aecr.2020.08.001](https://doi.org/10.1016/bs.aecr.2020.08.001) 
--   
+- [de Groot G.S, Aizen M.A, Sáez A, Morales C.L, (2021). Large-scale monoculture reduces honey yield: The case of soybean expansion in Argentina. Agriculture, Ecosystems & Environment 306, 107203. https://doi.org/10.1016/j.agee.2020.107203](https://doi.org/10.1016/j.agee.2020.107203)
+
+- [Aizen M.A, Arbetman M.P, Chacoff N.P, Chalcoff V.R, Feinsinger P, Garibaldi L.A, Harder L.D, Morales C.L, Sáez A, Vanbergen A.J, (2020). Chapter Two - Invasive bees and their impact on agriculture, in: Bohan, D.A., Vanbergen, A.J. (Eds.), Advances in Ecological Research, The Future of Agricultural Landscapes, Part I. Academic Press, pp. 49--92. https://doi.org/10.1016/bs.aecr.2020.08.001](https://doi.org/10.1016/bs.aecr.2020.08.001)  
 ## SURPASS Data mobilisation and publication
 
--   [Lopez-Aliste M, Fonturbel F (2021). Chilean flower visitors. Pontificia Universidad Católica de Valparaíso. Occurrence dataset https://doi.org/10.15468/wwjm5s](https://doi.org/10.15468/wwjm5s)
+- [Lopez-Aliste M, Fonturbel F (2021). Chilean flower visitors. Pontificia Universidad Católica de Valparaíso. Occurrence dataset https://doi.org/10.15468/wwjm5s](https://doi.org/10.15468/wwjm5s)
 
--   [Lopez-Aliste M, Fonturbel F (2020). Wild bees of Chile - The PUCV collection. Version 1.4. Pontificia Universidad Católica de Valparaíso. Occurrence dataset https://doi.org/10.15468/6knwyq](https://doi.org/10.15468/6knwyq)
+- [Lopez-Aliste M, Fonturbel F (2020). Wild bees of Chile - The PUCV collection. Version 1.4. Pontificia Universidad Católica de Valparaíso. Occurrence dataset https://doi.org/10.15468/6knwyq](https://doi.org/10.15468/6knwyq)
 
 ## SURPASS in the Press
 

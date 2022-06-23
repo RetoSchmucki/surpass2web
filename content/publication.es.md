@@ -22,7 +22,7 @@ layout: page2
 
 - [Vieli, L., Murúa, M.M., Flores-Prado, L., Carvallo, G.O., Valdivia, C.E., Muschett, G., et al. (2021). Local Actions to Tackle a Global Problem: A Multidimensional Assessment of the Pollination Crisis in Chile. Diversity, 13, 571.](https://www.mdpi.com/1424-2818/13/11/571)
 
--   [Leocadio, J.N., Ghilardi-Lopes, N.P., Koffler, S., Barbiéri, C., Francoy, T.M., Albertini, B., & Saraiva, A.M. (2021). Data Reliability in a Citizen Science Protocol for Monitoring Stingless Bees Flight Activity. Insects, 12(9), 766. https://doi.org/10.3390/insects12090766](https://doi.org/10.3390/insects12090766)
+- [Leocadio, J.N., Ghilardi-Lopes, N.P., Koffler, S., Barbiéri, C., Francoy, T.M., Albertini, B., & Saraiva, A.M. (2021). Data Reliability in a Citizen Science Protocol for Monitoring Stingless Bees Flight Activity. Insects, 12(9), 766. https://doi.org/10.3390/insects12090766](https://doi.org/10.3390/insects12090766)
 
 - [Boyd, R.J., Powney, G.D., Carvell, C. & Pescott, O.L. (2021). occAssess: An R package for assessing potential biases in species occurrence data. Ecol Evol, ece3.8299.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8299)
 
